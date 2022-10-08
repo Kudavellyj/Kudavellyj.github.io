@@ -34,6 +34,13 @@
         <h3>UK Nations covid cases</h3>
         <p>My second chart looks at covid cases in the UK nations</p>
         <div class="chart" id="Chart2"> </div>
+
+     <div class="myWeek2">
+         <h1>Data Science for Economists.</h1>
+
+         <h3>IMF Credit lending chart</h3>
+         <p>My attempt at recreating the FT chart on the IMF data</p>
+         <div class="chart" id="Chart3"> </div>
     </div> 
 </body>
 
@@ -42,10 +49,12 @@
     //Define charts:
     var myChart1 = "inflationsince1800.json";
     var myChart2 = "uknationscovidcases.json";
+    var mychart3 = "IMFlending.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
 </script>
 
 </html>
