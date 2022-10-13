@@ -12,7 +12,7 @@
     <title>Document</title>
 
     <!-- Link to my style sheet -->
-    <link rel="stylesheet" href="index2.css">
+    <link rel="stylesheet" href="index.css">
 
     <!--The next three lines allow the Vega embed-->
     <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
@@ -33,15 +33,22 @@
         <p>The first chart tracks inflation since 1800s in the uk.</p>
         <div class="chart" id="Chart1"></div>
 
-      
-
-
+   
 
         <h3>IMF Credit lending chart</h3>
         <p>My attempt at recreating the FT chart on the IMF data</p>
         <div class="chart" id="Chart2"> </div>
 
+    </div> 
+    <div class="myWeek2">
+        <h3>IMF Credit lending chart</h3>
+        <p>My attempt at recreating the FT chart on the IMF data</p>
+        <div class="chart" id="Chart2"> </div>
 
+        
+        <h3>IMF Credit lending chart</h3>
+        <p>My attempt at recreating the FT chart on the IMF data</p>
+        <div class="chart" id="Chart2"> </div>
 
     </div> 
 </body>
@@ -51,7 +58,7 @@
     var myChart1 = "inflationsince1800.json";
     var myChart2 = "imflending.json";
     var mychart3 = "imflending.json";
-    var myChart4 = "IMF_lending_relative_to_GDP.json";
+    var myChart4 = "imflendinggdp.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
