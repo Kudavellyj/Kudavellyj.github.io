@@ -20,7 +20,12 @@ h1, h3, p{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-
+    
+.myWeek1{
+    margin: auto;
+    max-width: 600px;
+    background-color: bisque;
+}
 
 
 /* Set the apperance of the class, chart */
