@@ -41,6 +41,14 @@
         <p>1984 seems the worst due to the ratio being the highest</p>
         <div class="chart" id="Chart4"> </div>
 
+        <h>Week 3 - NASDAQ Composite Index</h>
+        <p>This chart tracks the NASDAQ Composite Index from 2012</p>
+        <div class="chart" id="Chart5"> </div>
+
+        <h>Week 3 - NASDAQ Composite Index Line chart - Improved visual Experience</h>
+        <p>This chart tracks the NASDAQ Composite Index from 2012</p>
+        <div class="chart" id="Chart6"> </div>
+
 
 </body>
 
@@ -50,12 +58,19 @@
     var myChart2 = "uknationscovidcases.json";
     var myChart3 = "imflending.json";
     var myChart4 = "imflendinggdp.json";
+    var mychart5 = "nasdaq_composite_index.json";
+    var mychart6 = "nasdaq_composite_index_line.json";
+
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', mychart5);
+    vegaEmbed('#Chart6', mychart6);
+    
+
 
 </script>
 
