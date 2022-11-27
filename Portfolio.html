@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title for the page -->
+    <title>Document</title>
+
+    <!-- Link to my style sheet -->
+    <link rel="stylesheet" href="index.css">
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+</head>
+
+
+
+<body>
+    <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
+    
+        <h>Week 1 - Inflation since 1980</h>
+        <p>This chart tracks the inflation since 1980</p>
+        <div class="chart" id="Chart1"> </div>
+
+        <h>Week 1 - UK nations Covid cases</h>
+        <p>This chart tracks Covid-19 cases by UK region</p>
+        <div class="chart" id="Chart2"> </div>
+
+        <h>Week 2 - IMF Credit lending chart</h>
+        <p>My attempt at recreating the FT chart on the IMF data</p>
+        <div class="chart" id="Chart3"> </div>
+
+        <h>Week 2 - IMF Credit Lending in relative to global gdp</h>
+        <p>1984 seems the worst due to the ratio being the highest</p>
+        <div class="chart" id="Chart4"> </div>
+
+        <h>Week 3 - NASDAQ Composite Index</h>
+        <p>This chart tracks the NASDAQ Composite Index from 2012</p>
+        <div class="chart" id="Chart5"> </div>
+
+        <h>Week 3 - NASDAQ Composite Index Line chart - Improved visual Experience</h>
+        <p>This chart tracks the NASDAQ Composite Index from 2012</p>
+        <div class="chart" id="Chart6"> </div>
+
+        <h>Week 4 - Premier League Club Wins</h>
+        <p>This chart shows the games won by Premier league Club from 1992</p>
+        <div class="chart" id="Chart7"> </div>
+
+
+</body>
+
+<script>
+    //Define charts:
+    var myChart1 = "inflationsince1800.json";
+    var myChart2 = "uknationscovidcases.json";
+    var myChart3 = "imflending.json";
+    var myChart4 = "imflendinggdp.json";
+    var mychart5 = "nasdaq_composite_index.json";
+    var mychart6 = "nasdaq_composite_index_line.json";
+    var mychart7 = "team_wins_scrap.json";
+
+
+    // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', mychart5);
+    vegaEmbed('#Chart6', mychart6);
+    vegaEmbed('#Chart7', mychart7);
+    
+
+
+</script>
+
+</html>
+
+
