@@ -17,8 +17,7 @@
     "encoding": {
       "x": {"field": "Stat", "type": "quantitative", "scale": {"domain": [0, 800]}},
       "y": {"field": "Club", "type": "nominal", "sort": "quantitative"}
-    }
-  },
+    },
   "layer": [
     {"mark": {"type": "bar", "color": "rgb(0,47,167"}},
     {
@@ -26,5 +25,4 @@
       "encoding": {"text": {"field": "Stat", "type": "quantitative"}}
     }
   ]
-}
-  
+} 
