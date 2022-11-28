@@ -1,0 +1,69 @@
+/* Design for my home page*/
+
+/* FONTS: */
+
+h1{
+    font-family: 'Noto Sans Mono', sans-serif;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: #0049B7;
+}
+
+p{
+    font-family: 'Noto Sans Mono', sans-serif;
+    text-align: center;
+    font-size: larger;
+    color:rgb(255, 255, 255);
+    background-color: #0049B7;
+}
+
+
+/* AREAS OF THE PAGE */
+
+body{
+    background-color: #0049B7;
+}
+
+
+
+
+
+
+/* BUTTONS */
+
+.link{
+    background-color: rgba(132, 176, 230, 0.5);
+
+    padding:10px;
+    
+    border:2px;
+    border-color:grey;
+    border-style: solid;
+    border-radius: 10px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:700;
+    color:white;
+    text-decoration: none;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+}
+
+.link:hover{
+
+    background-color: #0049B7;
+
+    border:2px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+    
+}
