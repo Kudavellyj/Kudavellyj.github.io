@@ -1,0 +1,77 @@
+/* This is the design for my project page */
+/* Background design */ 
+body{ 
+    background-color: #7575dd;
+    margin: auto;
+    overflow: scroll;
+    max-width: 450px;
+    text-align:center; 
+    vertical-align:middle;
+ 
+}
+
+/* FONTS: */
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #7575dd;
+    color : rgb(255, 255, 255);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-variant: small-caps;
+    color:rgb(255, 255, 255);
+    background-color: #7575dd;
+}
+
+
+
+
+
+
+/* BUTTONS */
+
+
+.link{
+  background-color: rgba(117, 0, 167, 0.5);
+
+  padding:10px;
+  
+  border:2px;
+  border-color:grey;
+  border-style: solid;
+  border-radius: 10px;
+
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:700;
+  color:white;
+  text-decoration: none;
+}
+.links{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a{
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+  margin: auto;
+}
+
+.link:hover{
+
+  background-color: rgba(134, 0, 167, 0.8);
+
+  border:2px;
+  border-color:rgb(0, 0, 0);
+  border-style: solid;
+  
+}
+
+
+
+
+  
