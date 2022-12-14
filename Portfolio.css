@@ -57,7 +57,7 @@ body {
 /* Book on colour = Joseph Albers - Interaction of Colour */
 
 body{
-    background-color: rgb(0, 73, 183);
+    background-color: rgb(117, 117, 221);
  }
 
 
@@ -77,7 +77,7 @@ h1, h2, h3, p{
     border-width: 6px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(0, 73, 183);
+    border-color: rgb(117, 117, 221);
 }
 
 
