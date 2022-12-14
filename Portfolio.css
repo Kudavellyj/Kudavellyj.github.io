@@ -25,34 +25,42 @@ body {
 
 /*Button*/
 
-#link3{
-    background-color: #f9bf00;
-
+.link{
+    background-color: rgba(117, 0, 167, 0.5);
+  
     padding:10px;
     
     border:2px;
-    border-color:#000000;
+    border-color:grey;
     border-style: solid;
     border-radius: 10px;
-
-    font-family: 'Chivo', sans-serif;
+  
+    font-family: 'Courier New', Courier, monospace;
     font-weight:700;
-    color:#4b07f7;
-    text-align: center;
-    vertical-align: middle;
+    color:white;
     text-decoration: none;
-    
-}
-
-#link3:hover{
-
-    background-color: #ece220;
-
+  }
+  .links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  a{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    margin: auto;
+  }
+  
+  .link:hover{
+  
+    background-color: rgba(134, 0, 167, 0.8);
+  
     border:2px;
-    border-color:#5A5A5A;
+    border-color:rgb(0, 0, 0);
     border-style: solid;
     
-}
+  }
 
 /* Book on colour = Joseph Albers - Interaction of Colour */
 
