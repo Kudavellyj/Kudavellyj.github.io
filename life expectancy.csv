@@ -23,7 +23,7 @@ Bangladesh,72.868
 Bulgaria,73.60731707
 Bahrain,77.419
 "Bahamas, The",74.053
-Bosnia and Herzegovina,77.545
+BosniaandHerzegovina,77.545
 Belarus,74.22682927
 Belize,74.754
 Bermuda,82.05609756
@@ -201,7 +201,7 @@ Post-demographic dividend,80.16436318
 French Polynesia,77.836
 Qatar,80.363
 Romania,74.35365854
-Russian Federation,71.33878049
+Russia,71.33878049
 Rwanda,69.329
 South Asia,69.8678468
 Saudi Arabia,75.28
@@ -265,3 +265,11 @@ Kosovo,71.08780488
 South Africa,64.379
 Zambia,64.194
 Zimbabwe,61.738
+England,79.3
+Scotland,76.8
+wales,78.3
+Northern Ireland,78.7
+WalloonRegion,80.79
+FlemishRegion,80.79
+CzechRepublic,78.22
+Slovakia,76.8
