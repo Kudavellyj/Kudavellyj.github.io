@@ -1,0 +1,33 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Europe",
+    "subtitle": ["Map of Europe"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "#010001",
+    "subtitleColor": "#000000"
+  },
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/deldersveld/topojson/master/continents/europe.json",
+    "format": {"type": "topojson", "feature": "continent_Europe_subunits"}
+  },
+  "projection": {"type": "equalEarth"},
+  "mark": {
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": 0.5,
+    "fill": "lightblue"
+  },
+  "encoding": {
+    "tooltip": {
+      "field": "properties.geounit",
+      "type": "nominal",
+      "title": "Country"
+    }
+  }
+}
