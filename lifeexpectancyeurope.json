@@ -1,0 +1,52 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "",
+    "title": {
+      "text": "Life expectancy in Europe (2020)",
+      "subtitle": ["Data source: World Bank Data", ""],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "width": 500,
+    "height": 500,
+    "data": {
+      "url": "https://raw.githubusercontent.com/deldersveld/topojson/master/continents/europe.json",
+      "format": {"type": "topojson", "feature": "continent_Europe_subunits"}
+    },
+    "transform": [
+      {
+        "lookup": "properties.geounit",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/life%20expectancy.csv"
+          },
+          "key": "Country Name",
+          "fields": ["2020"]
+        }
+      }
+    ],
+    "projection": {"type": "equalEarth"},
+    "mark": "geoshape",
+    "encoding": {
+      "color": {
+        "field": "2020",
+        "title": "Years",
+        "type": "quantitative",
+        "scale": {"scheme": "cividis"}
+      },
+      "tooltip": [
+        {"field": "properties.geounit", "type": "nominal", "title": "Country"},
+        {
+          "field": "2020",
+          "type": "quantitative",
+          "title": "Average life expectancy",
+          "format": ".2f"
+        }
+      ]
+    }
+  }
+  
+  
+  
