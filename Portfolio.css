@@ -103,3 +103,16 @@ h1, h2, h3, p{
     
 }
     
+#Chart8{
+  background-color: rgb(255, 255, 255);
+  width: 800px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: black;
+  text-align: center;
+  display: block; 
+  margin: 0 auto;
+  
+
+}
