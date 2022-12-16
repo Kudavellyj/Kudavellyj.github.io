@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/ONS_data_YCGN.json",
+      "format": {"type": "json", "property": "years"}
+    },
+    "title": {
+      "text": "UK - Male - Aged 25-34",
+      "subtitle": "Unemployed: Thousands: SA",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "width": 150,
+    "height": 150,
+    "mark": {"type": "line", "color": "rgb(0,47,167"},
+    "encoding": {
+      "x": {
+        "field": "date",
+        "type": "temporal",
+        "axis": {"grid": false},
+        "title": "Year"
+      },
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "axis": {"grid": false},
+        "title": ""
+      }
+    }
+  }
+  
