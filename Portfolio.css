@@ -200,7 +200,20 @@ h1, h2, h3, p{
 
 }
 
-#Chart8{
+.chartw5{
+  align-items: center;
+  background-color: white;
+  width:250px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #313d5a;
+  margin-left: 30px;
+  margin-bottom: 30px;
+
+}
+
+#Chart17{
   background-color: rgb(255, 255, 255);
   width: 600px;
   border-width: 2px;
@@ -214,7 +227,7 @@ h1, h2, h3, p{
 
 }
 
-#Chart9{
+#Chart18{
   background-color: rgb(255, 255, 255);
   width: 600px;
   border-width: 2px;
