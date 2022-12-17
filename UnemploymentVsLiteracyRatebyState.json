@@ -1,0 +1,87 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Unemployment Vs Literacy Rate by State",
+      "subtitle": [
+        "Scatter of Literacy Rate (%) vs Unemployment Rate (%). Source: US BLS & World Population Review"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "height": 350,
+    "width": 350,
+    "config": {"background": "white", "view": {"stroke": "transparent"}},
+    "data": {
+      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/US-data.csv",
+      "format": {"type": "csv"}
+    },
+    "layer": [
+      {
+        "mark": {"type": "circle", "color": "blueviolet", "opacity": 0.7},
+        "encoding": {
+          "x": {
+            "field": "Unemployment Rate ",
+            "type": "quantitative",
+            "title": "Unemployment Rate 2022"
+          },
+          "y": {
+            "field": "Literacy Rates",
+            "type": "quantitative",
+            "title": "Literacy Rate 2022 "
+          },
+          "tooltip": [
+            {"field": "State", "type": "ordinal", "title": "State"},
+            {
+              "field": "Literacy Rates",
+              "type": "quantitative",
+              "title": "Literacy Rate 2022",
+              "format": ".0f"
+            },
+            {
+              "field": "Unemployment Rate ",
+              "type": "quantitative",
+              "title": "Unemployment Rate 2022",
+              "format": ".2f"
+            }
+          ]
+  
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "red"},
+        "transform": [
+          {
+            "regression": "Literacy Rates",
+            "on": "Unemployment Rate "
+          }
+        ],
+        "encoding": {
+          "x": {
+            "field": "Unemployment Rate ",
+            "type": "quantitative"
+          },
+          "y": {"field": "Literacy Rates", "type": "quantitative"}
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "Literacy Rates",
+            "on": "Unemployment Rate ",
+            "params": true
+          },
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "firebrick",
+          "x": "width",
+          "align": "right",
+          "y": -4
+        },
+        "encoding": {"text": {"type": "ordinal", "field": "R2"}}
+      }
+    ]
+  }

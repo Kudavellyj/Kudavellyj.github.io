@@ -95,6 +95,16 @@
         <p>This choropleth map illustrates the life expectancy across Europe in 2020.</p>
         <div class="chart" id="Chart18"> </div>
 
+        <h3>Week 9</h3>
+
+        <h>US Literacy Rates</h>
+        <div class="chart" id="Chart19"> </div>
+        <p>This Scatter Chart shows Literacy Rate against Unemployment Rate by state. A regression has been layered as well as an R-squared value.</p>
+
+        <h>HDI of UK and it's Former Colonies</h>
+        <p>This Chart illustrates the HDI of the UK & some it's former colonies. This chart has been rebased, 1980=1</p>
+        <div class="chart" id="Chart20"> </div>
+
 
 
         
@@ -122,6 +132,8 @@
     var mychart16 = "gbunemployment.json";
     var mychart17 = "europemap.json";
     var mychart18 = "lifeexpectancyeurope.json";
+    var mychart19 = "UnemploymentVsLiteracyRatebyState.json"
+    var mychart20 = "HDI.json"
 
 
     // Embed charts:
@@ -143,6 +155,8 @@
     vegaEmbed('#Chart16', mychart16);
     vegaEmbed('#Chart17', mychart17);
     vegaEmbed('#Chart18', mychart18);
+    vegaEmbed('#Chart19', mychart19);
+    vegaEmbed('#Chart20', mychart20);
     
 
 

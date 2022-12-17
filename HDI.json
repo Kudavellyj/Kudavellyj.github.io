@@ -1,0 +1,61 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+         
+    "title": {
+        "text": "Comparing HDI of UK and it's Former Colonies ",
+        "subtitle":["HDI. Rebased, 1990=1. Source: Our World in Data.",""],
+        "subtitleFontStyle":"italic",
+        "subtitleFontSize":10,
+        "anchor": "start",
+        "color": "black"},
+        
+    "data": {
+        "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/human-development-index.csv"
+        },
+    
+    "transform": [
+        {"calculate": "datum.Canada/0.86", "as": "Canada_Index"},
+        {"calculate": "datum.Egypt/0.572", "as": "Egypt_Index"},
+        {"calculate": "datum.HK/0.788", "as": "HK_Index"},
+        {"calculate": "datum.India/0.434", "as": "India_Index"},
+        {"calculate": "datum.UK/0.804", "as": "UK_Index"},
+        {"calculate": "datum.UAE/0.728", "as": "UAE_Index"},
+        {"calculate": "datum.Malaysia/0.64", "as": "Malaysia_Index"},
+        
+        ],
+        
+    "XYZrepeat": {"layer": ["HK", "India", "Egypt", "Canada", "UK", "UAE", "Malaysia"]},
+    "repeat": {"layer": ["HK_Index", "India_Index", "Egypt_Index", "Canada_Index", "UK_Index", "UAE_Index", "Malaysia_Index"]},
+    
+    "height": 350,
+    "width": 400,   
+    
+    "spec": {
+        "mark": {   
+            "type":"circle",
+            "strokeWidth":1.5},    
+    
+        "encoding": {
+            "x": {
+                "field": "Year",
+                "type": "temporal",
+                "title":null,
+                "axis":{
+                  "grid": false
+                }},
+    
+            "y": {
+                "field": {"repeat": "layer"},
+                "type": "quantitative",
+                "title": null},
+    
+            "color": {
+                "datum": {"repeat": "layer"},
+                "scale": {"range": ["black", "green", "orange", "pink", "red", "violet"]},
+                "legend": {
+                  "orient":"top-left",
+                  "fillColor":"white"}}
+                  } 
+            }
+    }
+    
