@@ -20,7 +20,7 @@
         {"calculate": "datum.India/0.434", "as": "India_Index"},
         {"calculate": "datum.UK/0.804", "as": "UK_Index"},
         {"calculate": "datum.UAE/0.728", "as": "UAE_Index"},
-        {"calculate": "datum.Malaysia/0.64", "as": "Malaysia_Index"},
+        {"calculate": "datum.Malaysia/0.64", "as": "Malaysia_Index"}
         
         ],
         
