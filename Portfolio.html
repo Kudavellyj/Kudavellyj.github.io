@@ -57,7 +57,7 @@
         <h3>IMF Credit Lending in relative to global gdp</h3>
         <p>This next chart alters the data above, to exhibit IMF lending outstanding relative to the world GDP.</p>
         <div class="chart" id="Chart4"> </div>
-        <p>By illustrating the IMF data as a percentage of global GDP, it IS riskier to invest in 1984, compared to present day.</p>
+        <p>By illustrating the IMF data as a percentage of global GDP, it is riskier to invest in 1984, compared to present day.</p>
         
         <hr>
         <h2>Week 3 - Inline Data Objects and Visual Encoding</h2>
@@ -129,18 +129,30 @@
         <hr>
         <h2>Week 8 - Festival of Economics</h2>
         <hr>
-       
+
+        <h3>Crypto Bubble Burst</h3>
+
+        <p>The talk that I attended at the Festival of Economics was 'Cryptocurrencies and the Future of Money'. Argument: The speakers discussed about a bubble in the cryptocurrency market in 2021, which has now burst. The charts below are supporting the evidence of the bubble bursting.</p>
+
+        <h3>Price of Bitcoin</h3>
+        <div class="chart" id="Chart19"> </div>
+
+        <h3>Price of Cardano</h3>
+        <div class="chart" id="Chart20"> </div>
+
+        <p>Both the charts show BTC and ADA experiencing a rapid rise throughout 2021 until the bubble bursts at the end of 2021 and into 2022.</p>
+
         <hr>
         <h2>Week 9 - Advanced Charts</h2>
         <hr>
 
         <h3>US Literacy Rates</h3>
-        <div class="chart" id="Chart19"> </div>
+        <div class="chart" id="Chart21"> </div>
         <p>This Scatter Chart shows Literacy Rate against Unemployment Rate by state. A regression has been layered as well as an R-squared value.</p>
 
         <h3>HDI of UK and it's Former Colonies</h3>
         <p>This Chart illustrates the HDI of the UK & some it's former colonies. This chart has been rebased, 1990=1</p>
-        <div class="chart" id="Chart20"> </div>
+        <div class="chart" id="Chart22"> </div>
 
         <hr>
         <h2>Week 10 & 11 - Machine Learning</h2>
@@ -173,8 +185,10 @@
     var mychart16 = "gbunemployment.json";
     var mychart17 = "europemap.json";
     var mychart18 = "lifeexpectancyeurope.json";
-    var mychart19 = "UnemploymentVsLiteracyRatebyState.json";
-    var mychart20 = "HDI.json";
+    var mychart19 = "BTC-USD.json"
+    var mychart20 = "ADA-USD.json"
+    var mychart21 = "UnemploymentVsLiteracyRatebyState.json";
+    var mychart22 = "HDI.json";
 
 
     // Embed charts:
@@ -198,6 +212,8 @@
     vegaEmbed('#Chart18', mychart18);
     vegaEmbed('#Chart19', mychart19);
     vegaEmbed('#Chart20', mychart20);
+    vegaEmbed('#Chart21', mychart21);
+    vegaEmbed('#Chart22', mychart22);
     
 
 
