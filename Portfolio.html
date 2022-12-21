@@ -158,6 +158,15 @@
         <h2>Week 10 & 11 - Machine Learning</h2>
         <hr>
 
+        <h3>Unsupervised Learning - Clustering by firms by Stock Prices</h3>
+        <p>The chart and the dendogram uses unsupervised classification to group stocks from UK and some of its former colonies between 2017 and 2023. The hypothesis tested how similar industries from different colonies will be clustered into similar sets of groups or branches. </p>
+        <div class="chart" id="Chart23"> </div>
+        <pi><img src="Cluster.png" alt="Cluster_picHW" width="400" height="350"></pi>
+
+        <p>The code I wrote to produce this clustered chart and dendogram can be seen in this Colab: <a class="textLink" href="https://colab.research.google.com/drive/1aj4Zd9kwKttLto92a60IlSY1elK-h5JT#scrollTo=Ooe8pWYv89yS"> here</a></p>
+
+        <h3>Supervised Learning</h3>
+
 
 
         
@@ -189,6 +198,7 @@
     var mychart20 = "ADA-USD.json"
     var mychart21 = "UnemploymentVsLiteracyRatebyState.json";
     var mychart22 = "HDI.json";
+    var mychart23 = "Stock_prices.json";
 
 
     // Embed charts:
@@ -214,6 +224,7 @@
     vegaEmbed('#Chart20', mychart20);
     vegaEmbed('#Chart21', mychart21);
     vegaEmbed('#Chart22', mychart22);
+    vegaEmbed('#Chart23', mychart23);
     
 
 

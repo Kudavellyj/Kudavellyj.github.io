@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Stock Prices",
+      "subtitle": [
+  "The Chart consists of various stocks clustered from UK and some its Former Colonies.",
+  "Hindustan Unilever (Grey), Unilever (Green), RBC (Orange), HSBC (Red), Bank NIFTY (Pink)",
+  "Source: Yahoo finance."
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/my_stocks1-2.csv"
+    },
+    "repeat": {"layer": ["HINDUNILVRNS_z_norm", "UL_z_norm", "RYTO_z_norm", "^NSEBANK_z_norm", "HSBC_z_norm"]},
+  
+  
+  
+    "spec": {
+      "height": 300,
+      "width": 300,
+      "mark": {"type": "line", "strokeWidth": 1.5},
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal"},
+        "y": {
+          "field": {"repeat": "layer"},
+          "type": "quantitative",
+          "title": null,
+          "aggregate":"max"
+        },
+        
+        "color": {
+          "datum": {"repeat": "layer"},
+          "scale": {"range": ["grey", "green", "orange", "violet", "red"]}
+        }
+      }
+    }
+  }
+  
