@@ -78,33 +78,33 @@ Australia,2018,0.941
 Australia,2019,0.941
 Australia,2020,0.947
 Australia,2021,0.951
-Bahamas,1995,0.781
-Bahamas,1996,0.787
-Bahamas,1997,0.784
-Bahamas,1998,0.785
-Bahamas,1999,0.794
-Bahamas,2000,0.799
-Bahamas,2001,0.801
-Bahamas,2002,0.804
-Bahamas,2003,0.805
-Bahamas,2004,0.807
-Bahamas,2005,0.811
-Bahamas,2006,0.813
-Bahamas,2007,0.812
-Bahamas,2008,0.812
-Bahamas,2009,0.81
-Bahamas,2010,0.812
-Bahamas,2011,0.812
-Bahamas,2012,0.815
-Bahamas,2013,0.816
-Bahamas,2014,0.82
-Bahamas,2015,0.82
-Bahamas,2016,0.823
-Bahamas,2017,0.825
-Bahamas,2018,0.827
-Bahamas,2019,0.816
-Bahamas,2020,0.815
-Bahamas,2021,0.812
+The Bahamas,1995,0.781
+The Bahamas,1996,0.787
+The Bahamas,1997,0.784
+The Bahamas,1998,0.785
+The Bahamas,1999,0.794
+The Bahamas,2000,0.799
+The Bahamas,2001,0.801
+The Bahamas,2002,0.804
+The Bahamas,2003,0.805
+The Bahamas,2004,0.807
+The Bahamas,2005,0.811
+The Bahamas,2006,0.813
+The Bahamas,2007,0.812
+The Bahamas,2008,0.812
+The Bahamas,2009,0.81
+The Bahamas,2010,0.812
+The Bahamas,2011,0.812
+The Bahamas,2012,0.815
+The Bahamas,2013,0.816
+The Bahamas,2014,0.82
+The Bahamas,2015,0.82
+The Bahamas,2016,0.823
+The Bahamas,2017,0.825
+The Bahamas,2018,0.827
+The Bahamas,2019,0.816
+The Bahamas,2020,0.815
+The Bahamas,2021,0.812
 Bahrain,1990,0.742
 Bahrain,1991,0.743
 Bahrain,1992,0.749
@@ -1616,38 +1616,38 @@ United Kingdom,2018,0.929
 United Kingdom,2019,0.935
 United Kingdom,2020,0.924
 United Kingdom,2021,0.929
-United States,1990,0.872
-United States,1991,0.873
-United States,1992,0.878
-United States,1993,0.88
-United States,1994,0.884
-United States,1995,0.885
-United States,1996,0.887
-United States,1997,0.89
-United States,1998,0.893
-United States,1999,0.889
-United States,2000,0.891
-United States,2001,0.892
-United States,2002,0.893
-United States,2003,0.895
-United States,2004,0.898
-United States,2005,0.9
-United States,2006,0.904
-United States,2007,0.906
-United States,2008,0.906
-United States,2009,0.908
-United States,2010,0.911
-United States,2011,0.913
-United States,2012,0.916
-United States,2013,0.917
-United States,2014,0.919
-United States,2015,0.92
-United States,2016,0.922
-United States,2017,0.924
-United States,2018,0.927
-United States,2019,0.93
-United States,2020,0.92
-United States,2021,0.921
+United States of America,1990,0.872
+United States of America,1991,0.873
+United States of America,1992,0.878
+United States of America,1993,0.88
+United States of America,1994,0.884
+United States of America,1995,0.885
+United States of America,1996,0.887
+United States of America,1997,0.89
+United States of America,1998,0.893
+United States of America,1999,0.889
+United States of America,2000,0.891
+United States of America,2001,0.892
+United States of America,2002,0.893
+United States of America,2003,0.895
+United States of America,2004,0.898
+United States of America,2005,0.9
+United States of America,2006,0.904
+United States of America,2007,0.906
+United States of America,2008,0.906
+United States of America,2009,0.908
+United States of America,2010,0.911
+United States of America,2011,0.913
+United States of America,2012,0.916
+United States of America,2013,0.917
+United States of America,2014,0.919
+United States of America,2015,0.92
+United States of America,2016,0.922
+United States of America,2017,0.924
+United States of America,2018,0.927
+United States of America,2019,0.93
+United States of America,2020,0.92
+United States of America,2021,0.921
 Vanuatu,2005,0.578
 Vanuatu,2006,0.584
 Vanuatu,2007,0.585
@@ -1761,3 +1761,111 @@ Zimbabwe,2018,0.602
 Zimbabwe,2019,0.601
 Zimbabwe,2020,0.6
 Zimbabwe,2021,0.593
+South Sudan,2010,0.43
+South Sudan,2011,0.433
+South Sudan,2012,0.397
+South Sudan,2013,0.411
+South Sudan,2014,0.41
+South Sudan,2015,0.412
+South Sudan,2016,0.402
+South Sudan,2017,0.395
+South Sudan,2018,0.395
+South Sudan,2019,0.393
+South Sudan,2020,0.386
+South Sudan,2021,0.385
+Israel,1990,0.787
+Israel,1991,0.793
+Israel,1992,0.797
+Israel,1993,0.804
+Israel,1994,0.808
+Israel,1995,0.811
+Israel,1996,0.818
+Israel,1997,0.825
+Israel,1998,0.833
+Israel,1999,0.841
+Israel,2000,0.844
+Israel,2001,0.848
+Israel,2002,0.854
+Israel,2003,0.855
+Israel,2004,0.858
+Israel,2005,0.866
+Israel,2006,0.874
+Israel,2007,0.885
+Israel,2008,0.885
+Israel,2009,0.889
+Israel,2010,0.894
+Israel,2011,0.897
+Israel,2012,0.898
+Israel,2013,0.904
+Israel,2014,0.908
+Israel,2015,0.909
+Israel,2016,0.913
+Israel,2017,0.917
+Israel,2018,0.919
+Israel,2019,0.921
+Israel,2020,0.917
+Israel,2021,0.919
+Papua New Guinea,1990,0.37
+Papua New Guinea,1991,0.38
+Papua New Guinea,1992,0.391
+Papua New Guinea,1993,0.405
+Papua New Guinea,1994,0.419
+Papua New Guinea,1995,0.423
+Papua New Guinea,1996,0.43
+Papua New Guinea,1997,0.432
+Papua New Guinea,1998,0.435
+Papua New Guinea,1999,0.444
+Papua New Guinea,2000,0.447
+Papua New Guinea,2001,0.451
+Papua New Guinea,2002,0.455
+Papua New Guinea,2003,0.461
+Papua New Guinea,2004,0.461
+Papua New Guinea,2005,0.466
+Papua New Guinea,2006,0.469
+Papua New Guinea,2007,0.478
+Papua New Guinea,2008,0.484
+Papua New Guinea,2009,0.49
+Papua New Guinea,2010,0.499
+Papua New Guinea,2011,0.504
+Papua New Guinea,2012,0.513
+Papua New Guinea,2013,0.518
+Papua New Guinea,2014,0.533
+Papua New Guinea,2015,0.541
+Papua New Guinea,2016,0.547
+Papua New Guinea,2017,0.552
+Papua New Guinea,2018,0.554
+Papua New Guinea,2019,0.56
+Papua New Guinea,2020,0.56
+Papua New Guinea,2021,0.558
+Guyana,1990,0.509
+Guyana,1991,0.505
+Guyana,1992,0.52
+Guyana,1993,0.534
+Guyana,1994,0.544
+Guyana,1995,0.549
+Guyana,1996,0.559
+Guyana,1997,0.564
+Guyana,1998,0.569
+Guyana,1999,0.573
+Guyana,2000,0.577
+Guyana,2001,0.584
+Guyana,2002,0.59
+Guyana,2003,0.598
+Guyana,2004,0.612
+Guyana,2005,0.622
+Guyana,2006,0.631
+Guyana,2007,0.638
+Guyana,2008,0.644
+Guyana,2009,0.649
+Guyana,2010,0.656
+Guyana,2011,0.665
+Guyana,2012,0.669
+Guyana,2013,0.673
+Guyana,2014,0.681
+Guyana,2015,0.684
+Guyana,2016,0.691
+Guyana,2017,0.695
+Guyana,2018,0.701
+Guyana,2019,0.708
+Guyana,2020,0.721
+Guyana,2021,0.714
