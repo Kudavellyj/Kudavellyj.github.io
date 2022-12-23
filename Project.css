@@ -71,6 +71,56 @@ a{
   
 }
 
+/* LLLL */
+
+.topnav a.active {
+  background-color: #4484CE;
+  color: white;
+}
+
+.container{
+    background-color: transparent;
+    text-align: center;
+} 
+
+.containergraph{
+    background-color: transparent;
+    justify-content: center;
+}
+
+p{
+    color:rgb(17, 17, 17);
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{
+    color: black;
+    font-family: 'Train One', cursive;
+    font-size: 50px;
+}
+
+h2{
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+}
+
+h3{
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+}
+
+.title{
+    background-color: transparent;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.bigtitle{
+    background-color: transparent;
+    text-align: center;
+    margin: 20px 0px 40px 0px;
+}
+
 
 
 
