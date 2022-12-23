@@ -146,15 +146,17 @@ h1{
     text-align: center;
     color:#7575dd;
     background-color: #7575dd;
+
 }
 
-p{
+h2{
     font-family: 'Noto Sans Mono', sans-serif;
     text-align: center;
-    font-size: larger;
     color:#7575dd;
     background-color: #7575dd;
+    
 }
+
 
 
 /* AREAS OF THE PAGE */
