@@ -11,6 +11,7 @@ body{
 }
 
 
+
 /* BUTTONS */
 
 
@@ -81,12 +82,12 @@ h1{
 
 h2{
     color: black;
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Nunito', sans-serif;
 }
 
 h3{
     color: black;
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Nunito', sans-serif;
 }
 
 .title{
@@ -102,21 +103,15 @@ h3{
 }
 
 
-
-
 /*charts*/
 
-#Chart1{
-  background-color: rgb(255, 255, 255);
+.chart1{
+  background-color: white;
   width: 750px;
   border-width: 2px;
   border-style: solid;
-  border-radius: 8px;
-  border-color: white;
-  text-align: center;
-  display: block; 
-  margin: 0 auto;
-
+  border-radius: 5px;
+  border-color: darkblue;
+  margin: 0px 125px 0px 125px;
 
 }
-
