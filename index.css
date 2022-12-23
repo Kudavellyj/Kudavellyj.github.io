@@ -145,7 +145,7 @@ h1{
     font-family: 'Noto Sans Mono', sans-serif;
     text-align: center;
     color:rgb(255, 255, 255);
-    background-color: #0049B7;
+    background-color: #7575dd;
 }
 
 p{
@@ -153,14 +153,14 @@ p{
     text-align: center;
     font-size: larger;
     color:rgb(255, 255, 255);
-    background-color: #0049B7;
+    background-color: #7575dd;
 }
 
 
 /* AREAS OF THE PAGE */
 
 body{
-    background-color: #0049B7;
+    background-color: #7575dd;
 }
 
 
@@ -197,7 +197,7 @@ a{
 
 .link:hover{
 
-    background-color: #0049B7;
+    background-color: #7575dd;
 
     border:2px;
     border-color:rgb(0, 0, 0);
