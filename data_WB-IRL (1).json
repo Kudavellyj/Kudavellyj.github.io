@@ -1,0 +1,813 @@
+[
+    {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 62,
+        "sourceid": "2",
+        "sourcename": "World Development Indicators",
+        "lastupdated": "2022-12-22"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2021",
+            "value": 100172.079253421,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2020",
+            "value": 85420.1908556097,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2019",
+            "value": 80927.0746710666,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2018",
+            "value": 79250.3878517684,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2017",
+            "value": 69970.9489145762,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2016",
+            "value": 62895.9111239282,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2015",
+            "value": 62053.9844381587,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2014",
+            "value": 55643.0594338748,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2013",
+            "value": 51546.3547634545,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2012",
+            "value": 49054.6974340641,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2011",
+            "value": 52183.1329312154,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2010",
+            "value": 48663.6004439251,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2009",
+            "value": 52133.0906162544,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2008",
+            "value": 61353.1065629523,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2007",
+            "value": 61396.417461176,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2006",
+            "value": 54329.1618599624,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2005",
+            "value": 50933.0216095589,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2004",
+            "value": 47754.2023194244,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2003",
+            "value": 41203.5295847568,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2002",
+            "value": 32705.4345565698,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2001",
+            "value": 28282.409882073,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "2000",
+            "value": 26334.5672050501,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1999",
+            "value": 26338.1077543817,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1998",
+            "value": 24294.8547674007,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1997",
+            "value": 22551.1139134126,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1996",
+            "value": 20835.8977130847,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1995",
+            "value": 19158.4564773907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1994",
+            "value": 15902.9296755168,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1993",
+            "value": 14657.0615549805,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1992",
+            "value": 15714.3847487231,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1991",
+            "value": 14087.2074393708,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1990",
+            "value": 14031.3025675469,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1989",
+            "value": 11175.816603647,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1988",
+            "value": 10715.8702780539,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1987",
+            "value": 9581.91308572415,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1986",
+            "value": 8112.17136316453,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1985",
+            "value": 6011.7355464232,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1984",
+            "value": 5692.02738597285,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1983",
+            "value": 5915.24177164341,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1982",
+            "value": 6160.63829313723,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1981",
+            "value": 5986.1541089392,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1980",
+            "value": 6372.43777545453,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1979",
+            "value": 5429.96200087479,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1978",
+            "value": 4399.98680535092,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1977",
+            "value": 3427.0734359204,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1976",
+            "value": 2919.58308695615,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1975",
+            "value": 2973.40012301715,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1974",
+            "value": 2516.92768605196,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1973",
+            "value": 2424.26904706558,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "IE",
+                "value": "Ireland"
+            },
+            "countryiso3code": "IRL",
+            "date": "1972",
+            "value": 2080.46514718169,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

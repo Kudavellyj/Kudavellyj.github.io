@@ -1,0 +1,813 @@
+[
+    {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 62,
+        "sourceid": "2",
+        "sourcename": "World Development Indicators",
+        "lastupdated": "2022-12-22"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2021",
+            "value": 7055.04477598783,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2020",
+            "value": 5741.64312911877,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2019",
+            "value": 6688.78727128797,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2018",
+            "value": 7048.52221139611,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2017",
+            "value": 6734.47515312493,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2016",
+            "value": 5735.06678717842,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2015",
+            "value": 6204.92990145846,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2014",
+            "value": 6965.1378973693,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2013",
+            "value": 7441.23085399675,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2012",
+            "value": 8173.8691381716,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2011",
+            "value": 8737.07977396507,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2010",
+            "value": 8059.58701700552,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2009",
+            "value": 6444.16706763545,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2008",
+            "value": 6251.89483275936,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2007",
+            "value": 6662.02968975357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2006",
+            "value": 6139.62604497215,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2005",
+            "value": 5893.21302357697,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2004",
+            "value": 5268.2728672909,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2003",
+            "value": 4095.71022983511,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2002",
+            "value": 2708.43540979093,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2001",
+            "value": 2867.46616836719,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "2000",
+            "value": 3241.67447517796,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1999",
+            "value": 3267.93061026305,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1998",
+            "value": 3336.42999098541,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1997",
+            "value": 3731.40078918512,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1996",
+            "value": 3654.96925406685,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1995",
+            "value": 3904.30809156182,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1994",
+            "value": 3547.94974989327,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1993",
+            "value": 3461.37840011033,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1992",
+            "value": 3519.01857067159,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1991",
+            "value": 3304.84632967771,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1990",
+            "value": 3160.87836503322,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1989",
+            "value": 2794.39567898293,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1988",
+            "value": 2780.58681833112,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1987",
+            "value": 2672.68910019476,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1986",
+            "value": 2103.19201899378,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1985",
+            "value": 1909.73972253346,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1984",
+            "value": 2590.01460223483,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1983",
+            "value": 3019.09868499824,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1982",
+            "value": 2769.09663788001,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1981",
+            "value": 3080.83321934445,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1980",
+            "value": 3034.66138994247,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1979",
+            "value": 2196.69850992055,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1978",
+            "value": 1846.85173778466,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1977",
+            "value": 1666.49521820892,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1976",
+            "value": 1554.00240807175,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1975",
+            "value": 1664.48055673188,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1974",
+            "value": 1650.4828913979,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1973",
+            "value": 1364.20586798495,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ZA",
+                "value": "South Africa"
+            },
+            "countryiso3code": "ZAF",
+            "date": "1972",
+            "value": 1034.49182061067,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

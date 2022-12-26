@@ -1,0 +1,813 @@
+[
+    {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 62,
+        "sourceid": "2",
+        "sourcename": "World Development Indicators",
+        "lastupdated": "2022-12-22"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2021",
+            "value": 46510.2827819127,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2020",
+            "value": 40318.5575660493,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2019",
+            "value": 42747.080460496,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2018",
+            "value": 43306.3083049317,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2017",
+            "value": 40621.334478632,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2016",
+            "value": 41146.0773555246,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2015",
+            "value": 45071.0743234873,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2014",
+            "value": 47447.5889322667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2013",
+            "value": 43449.0917173139,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2012",
+            "value": 42485.5860695397,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2011",
+            "value": 42150.6981408821,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2010",
+            "value": 39693.1938701237,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2009",
+            "value": 38821.1795827116,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2008",
+            "value": 47429.9363403009,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2007",
+            "value": 50435.37028921,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2006",
+            "value": 44536.6197203512,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2005",
+            "value": 42131.6993992712,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2004",
+            "value": 40390.7858294925,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2003",
+            "value": 34479.3929332278,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2002",
+            "value": 30079.6600435049,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2001",
+            "value": 27886.7985907797,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "2000",
+            "value": 28290.9725024578,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1999",
+            "value": 28786.9592756835,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1998",
+            "value": 28297.8659970584,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1997",
+            "value": 26781.362168176,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1996",
+            "value": 24440.3281377791,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1995",
+            "value": 23202.4615775949,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1994",
+            "value": 19709.2380983653,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1993",
+            "value": 18389.0195675099,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1992",
+            "value": 20487.1707852878,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1991",
+            "value": 19900.7266505069,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1990",
+            "value": 19095.4669984608,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1989",
+            "value": 16239.2821960944,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1988",
+            "value": 15987.1680775688,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1987",
+            "value": 13118.586534629,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1986",
+            "value": 10611.112210096,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1985",
+            "value": 8652.21654247593,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1984",
+            "value": 8179.19444064991,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1983",
+            "value": 8691.51881306514,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1982",
+            "value": 9146.07735701852,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1981",
+            "value": 9599.30622221965,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1980",
+            "value": 10032.062080015,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1979",
+            "value": 7804.76208051155,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1978",
+            "value": 5976.93816899991,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1977",
+            "value": 4681.43993173038,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1976",
+            "value": 4138.16778761535,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1975",
+            "value": 4299.74561799284,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1974",
+            "value": 3665.8627976419,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1973",
+            "value": 3426.27622050378,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "GB",
+                "value": "United Kingdom"
+            },
+            "countryiso3code": "GBR",
+            "date": "1972",
+            "value": 3030.43251411977,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

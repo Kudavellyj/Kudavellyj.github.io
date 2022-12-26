@@ -1,0 +1,813 @@
+[
+    {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 62,
+        "sourceid": "2",
+        "sourcename": "World Development Indicators",
+        "lastupdated": "2022-12-22"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2021",
+            "value": 11109.2618387745,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2020",
+            "value": 10160.7832470071,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2019",
+            "value": 11132.0239344924,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2018",
+            "value": 11074.0640947671,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2017",
+            "value": 9979.80084103497,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2016",
+            "value": 9555.65120152294,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2015",
+            "value": 9699.58402084731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2014",
+            "value": 11045.4451263498,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2013",
+            "value": 10727.6996632824,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2012",
+            "value": 10601.5138881391,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2011",
+            "value": 10209.3819536909,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2010",
+            "value": 8880.109965264,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2009",
+            "value": 7167.88329542017,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2008",
+            "value": 8343.38591937024,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2007",
+            "value": 7143.93581596291,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2006",
+            "value": 6137.11205938344,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2005",
+            "value": 5536.82578686399,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2004",
+            "value": 4924.33811126582,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2003",
+            "value": 4454.52676383656,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2002",
+            "value": 4177.10494176499,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2001",
+            "value": 3941.12266621369,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "2000",
+            "value": 4087.56259349384,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1999",
+            "value": 3538.36299288587,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1998",
+            "value": 3308.83565299935,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1997",
+            "value": 4706.31491259882,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1996",
+            "value": 4874.81972520082,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1995",
+            "value": 4405.11676395634,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1994",
+            "value": 3802.10762079454,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1993",
+            "value": 3511.52580802788,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1992",
+            "value": 3193.6353810378,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1991",
+            "value": 2727.52858528083,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1990",
+            "value": 2513.21816687938,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1989",
+            "value": 2282.50536035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1988",
+            "value": 2134.50528898804,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1987",
+            "value": 2007.20319124897,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1986",
+            "value": 1782.5712519412,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1985",
+            "value": 2065.12326607149,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1984",
+            "value": 2311.21179542041,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1983",
+            "value": 2123.21286230242,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1982",
+            "value": 1925.4612439594,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1981",
+            "value": 1843.3693698371,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1980",
+            "value": 1852.94917949154,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1979",
+            "value": 1647.66244387656,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1978",
+            "value": 1304.09098796659,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1977",
+            "value": 1075.33182784094,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1976",
+            "value": 927.796033036364,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1975",
+            "value": 800.382442738551,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1974",
+            "value": 837.751870708369,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1973",
+            "value": 692.690003661689,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MY",
+                "value": "Malaysia"
+            },
+            "countryiso3code": "MYS",
+            "date": "1972",
+            "value": 466.89931840128,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

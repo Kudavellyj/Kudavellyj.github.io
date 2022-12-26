@@ -1,0 +1,813 @@
+[
+    {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 62,
+        "sourceid": "2",
+        "sourcename": "World Development Indicators",
+        "lastupdated": "2022-12-22"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2021",
+            "value": 66838.357433014,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2020",
+            "value": 52315.6600783116,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2019",
+            "value": 62637.2751084291,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2018",
+            "value": 66264.081168209,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2017",
+            "value": 59407.6980498883,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2016",
+            "value": 58467.2355711087,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2015",
+            "value": 66984.9102002396,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2014",
+            "value": 93126.1494633822,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2013",
+            "value": 97630.8255152088,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2012",
+            "value": 98041.3622380894,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2011",
+            "value": 92992.9971307452,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2010",
+            "value": 73021.3097525035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2009",
+            "value": 60733.9817002272,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2008",
+            "value": 79811.5977371757,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2007",
+            "value": 64706.9899026035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2006",
+            "value": 59978.86120736,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2005",
+            "value": 52468.4456475056,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2004",
+            "value": 40792.2764702117,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2003",
+            "value": 31440.2207124561,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2002",
+            "value": 27151.032498866,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2001",
+            "value": 25836.2707926738,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "2000",
+            "value": 27494.7713320186,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1999",
+            "value": 20207.2255889136,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1998",
+            "value": 17651.5455802225,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1997",
+            "value": 20519.4093535576,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1996",
+            "value": 17116.832559522,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1995",
+            "value": 15797.6910390559,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1994",
+            "value": 14728.7820222192,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1993",
+            "value": 14724.2591753497,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1992",
+            "value": 16223.7800763357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1991",
+            "value": 15079.3594623197,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1990",
+            "value": 16664.8314327886,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1989",
+            "value": 15197.8750981787,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1988",
+            "value": 14650.7442409826,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1987",
+            "value": 13705.4656026902,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1986",
+            "value": 13216.457990389,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1985",
+            "value": 16818.3510338263,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1984",
+            "value": 19252.172559164,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1983",
+            "value": 19571.8082023286,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1982",
+            "value": 24301.0518421976,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1981",
+            "value": 29371.4669135508,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1980",
+            "value": 28218.0378917672,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1979",
+            "value": 21634.7643259694,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1978",
+            "value": 16632.1889990349,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1977",
+            "value": 15924.0599698057,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1976",
+            "value": 15566.1468893764,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1975",
+            "value": 12883.2310484266,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1974",
+            "value": 13393.2884591707,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1973",
+            "value": 4848.62257100197,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "QA",
+                "value": "Qatar"
+            },
+            "countryiso3code": "QAT",
+            "date": "1972",
+            "value": 3439.84643665463,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

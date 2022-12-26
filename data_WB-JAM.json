@@ -1,0 +1,813 @@
+[
+    {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 62,
+        "sourceid": "2",
+        "sourcename": "World Development Indicators",
+        "lastupdated": "2022-12-22"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2021",
+            "value": 5183.58130458676,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2020",
+            "value": 4897.26589668631,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2019",
+            "value": 5626.17117652759,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2018",
+            "value": 5594.49393466948,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2017",
+            "value": 5273.15074381723,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2016",
+            "value": 5022.70471701644,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2015",
+            "value": 5077.55062188355,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2014",
+            "value": 4991.56551872824,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2013",
+            "value": 5143.72131166933,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2012",
+            "value": 5365.24229295272,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2011",
+            "value": 5259.92948717911,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2010",
+            "value": 4835.79363761629,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2009",
+            "value": 4452.12181188603,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2008",
+            "value": 5056.25824455749,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2007",
+            "value": 4738.44717544773,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2006",
+            "value": 4435.56861030003,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2005",
+            "value": 4200.38996606953,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2004",
+            "value": 3819.28423090316,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2003",
+            "value": 3557.19898909739,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2002",
+            "value": 3683.89653342499,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2001",
+            "value": 3502.20931094435,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "2000",
+            "value": 3447.30389648976,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1999",
+            "value": 3423.0101044506,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1998",
+            "value": 3410.42776005243,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1997",
+            "value": 3287.74369088309,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1996",
+            "value": 2919.14448641739,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1995",
+            "value": 2621.18323815691,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1994",
+            "value": 2194.9134103029,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1993",
+            "value": 2212.25197785727,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1992",
+            "value": 1452.18838688296,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1991",
+            "value": 1702.4981793312,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1990",
+            "value": 1919.8020373373,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1989",
+            "value": 1856.00194611358,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1988",
+            "value": 1625.74426968601,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1987",
+            "value": 1406.95327404273,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1986",
+            "value": 1189.42988456703,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1985",
+            "value": 916.315733089862,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1984",
+            "value": 1048.35130923929,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1983",
+            "value": 1620.97962124894,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1982",
+            "value": 1497.32874361355,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1981",
+            "value": 1374.95755552092,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1980",
+            "value": 1254.67185124508,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1979",
+            "value": 1150.9760368662,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1978",
+            "value": 1271.07344311217,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1977",
+            "value": 1581.41743868569,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1976",
+            "value": 1461.45882745567,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1975",
+            "value": 1427.99653230809,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1974",
+            "value": 1202.6534518743,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1973",
+            "value": 979.745005033357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JM",
+                "value": "Jamaica"
+            },
+            "countryiso3code": "JAM",
+            "date": "1972",
+            "value": 978.984931300467,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]
