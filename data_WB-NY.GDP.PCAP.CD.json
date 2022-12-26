@@ -1,13 +1,4 @@
-[
-    {
-        "page": 1,
-        "pages": 330,
-        "per_page": 50,
-        "total": 16492,
-        "sourceid": "2",
-        "sourcename": "World Development Indicators",
-        "lastupdated": "2022-12-22"
-    },
+
     [
         {
             "indicator": {
@@ -810,4 +801,3 @@
             "decimal": 1
         }
     ]
-]
