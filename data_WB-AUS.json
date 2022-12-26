@@ -8,7 +8,8 @@
         "sourcename": "World Development Indicators",
         "lastupdated": "2022-12-22"
     },
-"facts": [
+
+"fact": [
         {
             "indicator": {
                 "id": "NY.GDP.PCAP.CD",
