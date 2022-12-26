@@ -1,5 +1,5 @@
 [
- "description": {
+ {
         "page": 1,
         "pages": 2,
         "per_page": 50,
@@ -9,7 +9,7 @@
         "lastupdated": "2022-12-22"
     },
 
-"fact": [
+[
         {
             "indicator": {
                 "id": "NY.GDP.PCAP.CD",
