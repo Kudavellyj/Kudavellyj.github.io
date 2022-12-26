@@ -6,6 +6,7 @@
       "subtitle": [
         "GDP per Capita (Current US$).",
         "Data source: World Bank",
+        "Tooltips includes the GDP Per Capita for each Country",
         ""
       ],
       "subtitleFontStyle": "italic",
