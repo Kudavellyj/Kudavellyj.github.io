@@ -1,0 +1,96 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Regressing Health Expenditure against Life Expectancy",
+      "subtitle": [
+        "Scatter of Current Health Expenditure (% of GDP) vs Life Expectancy (at birth).",
+        "Data from UK and Selected Former Colonies (2000 - 2019)",
+         "Source: World Bank"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "height": 350,
+    "width": 400,
+    "config": {"background": "white", "view": {"stroke": "transparent"}},
+    "data": {
+      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/chart3_my_combined_data.csv",
+      "format": {"type": "csv"}
+    },
+    "layer": [
+      {
+        "mark": {"type": "circle", "color": "blueviolet", "opacity": 0.7},
+        "encoding": {
+          "x": {
+            "field": "value_right",
+            "type": "quantitative",
+            "title": "Health Expenditure (% of GDP)"
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "title": "Life Expectancy (at birth)"
+          },
+          "color": {
+        "field": "country",
+        "type": "nominal",
+        "title": "Country:",
+        "scale": {"scheme": "yellowgreenblue"}
+      },
+          "tooltip": [
+            {"field": "country", "type": "ordinal", "title": "Country"},
+            {
+              "field": "value",
+              "type": "quantitative",
+              "title": "Life Expectancy (at birth)",
+              "format": ".0f"
+            },
+            {
+              "field": "value_right",
+              "type": "quantitative",
+              "title": "Health Expenditure (% of GDP)",
+              "format": ".2f"
+            },
+             {
+              "field": "date",
+              "type": "quantitative",
+              "title": "Year"
+            }
+          
+          ]
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "red"},
+        "transform": [
+          {"regression": "value", "on": "value_right"}
+        ],
+        "encoding": {
+          "x": {"field": "value_right", "type": "quantitative"},
+          "y": {"field": "value", "type": "quantitative"}
+          
+        }
+  
+      },
+      {
+        "transform": [
+          {
+            "regression": "value",
+            "on": "value_right",
+            "params": true
+          },
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "firebrick",
+          "x": "width",
+          "align": "right",
+          "y": -4
+        },
+        "encoding": {"text": {"type": "ordinal", "field": "R2"}}
+      }
+    ]
+  }
