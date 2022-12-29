@@ -1,88 +1,68 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-      "text": "Unemployment Rate vs Government Expenditure on Education",
-      "subtitle": ["Government Expenditure on education as a % of GDP against % of unemployed from 2005 - 2021.", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Unemployment Rate vs Government Expenditure on Education",
+    "subtitle": [
+      "Government Expenditure on education as a % of GDP against % of unemployed from 2010 - 2020.",
       "R-Sqaured Value = 0.18",
-      "Source: Our World in data, World Bank & UN Data and Tooltip included"],
-      "subtitleFontStyle": "italic",
-      "subtitleFontSize": 10,
-      "anchor": "start",
-      "color": "darkblue"
+      "Source: Our World in data, World Bank & UN Data and Tooltip included"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "darkblue"
+  },
+  "height": 400,
+  "width": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_my_combined_lfeeer1.csv"
+  },
+  "selection": {
+    "grid": {
+      "type": "interval",
+      "bind": "scales",
+      "on": "[mousedown, window:mouseup] > window:mousemove!",
+      "translate": "[mousedown, window:mouseup] > window:mousemove!",
+      "zoom": "wheel!",
+      "resolve": "global"
+    }
+  },
+  "mark": {"type": "circle"},
+  "encoding": {
+    "x": {
+      "field": "ee",
+      "type": "quantitative",
+      "scale": {"domain": [0, 7]},
+      "title": "Government Expenditure on Education (% of GDP)"
     },
-    "height": 400,
-    "width": 500,
-    "data": {
-      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_my_combined_lfeeer.csv"
+    "y": {
+      "field": "ur",
+      "type": "quantitative",
+      "title": "Unemployment rate (%)"
     },
-     "selection": {
-   "grid": {
-            "type": "interval",
-            "bind": "scales",
-            "on": "[mousedown, window:mouseup] > window:mousemove!",
-            "translate": "[mousedown, window:mouseup] > window:mousemove!",
-            "zoom": "wheel!",
-            "resolve": "global"
-          }
-        },
-    
-    "mark": {"type": "circle"},
-    "encoding": {
-      "x": {
+    "size": {
+      "field": "lf",
+      "type": "quantitative",
+      "title": "Labour Force",
+      "scale": {"rangeMax": 850}
+    },
+    "color": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Country",
+      "scale": {"scheme": "yellowgreenblue"}
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal", "title": "Country"},
+      {
         "field": "ee",
         "type": "quantitative",
-        "scale": {"domain": [0, 7.0]},
         "title": "Government Expenditure on Education (% of GDP)"
       },
-      "y": {
-        "field": "ur",
-        "type": "quantitative",
-        "title": "Unemployment rate (%)"
-      },
-      "size": {
-        "field": "lf",
-        "type": "quantitative",
-        "title": "Labour Force",
-        "scale": {"rangeMax": 850}
-      },
-  
-      "color": {
-        "field": "Country",
-        "type": "nominal",
-        "title": "Country",
-        "scale": {"scheme": "yellowgreenblue"}
-  
-      },
-  
-      
-      "tooltip": [
-        {"field": "Country", "type": "nominal", "title": "Country"},
-        {
-          "field": "ee",
-          "type": "quantitative",
-          "title": "Government Expenditure on Education (% of GDP)"
-        },
-        {
-          "field": "ur",
-          "type": "quantitative",
-          "title": "Unemployment rate (%)"
-        },
-         {"field": "date", "type": "quantitative", "title": "Year"},
-         {"field": "lf", "type": "quantitative", "title": "Labour Force"}
-  
-      ]
-      
-    }
-  
-    
-    
-      
+      {"field": "ur", "type": "quantitative", "title": "Unemployment rate (%)"},
+      {"field": "date", "type": "quantitative", "title": "Year"},
+      {"field": "lf", "type": "quantitative", "title": "Labour Force"}
+    ]
   }
   
-  
-  
-  
-  
-  
-  
-  
+}
