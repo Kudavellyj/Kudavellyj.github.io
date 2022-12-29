@@ -140,3 +140,29 @@ h3{
   margin: 0 auto;
 
 }
+
+.chart4{
+  background-color: white;
+  width: 600px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: darkblue;
+  text-align: center;
+  display: block; 
+  margin: 0 auto;
+
+}
+
+.chart5{
+  background-color: white;
+  width: 600px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: darkblue;
+  text-align: center;
+  display: block; 
+  margin: 0 auto;
+
+}
