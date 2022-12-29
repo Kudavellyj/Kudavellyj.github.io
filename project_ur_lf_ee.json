@@ -4,7 +4,6 @@
     "text": "Unemployment Rate vs Government Expenditure on Education",
     "subtitle": [
       "Government Expenditure on education as a % of GDP against % of unemployed from 2010 - 2020.",
-      "R-Sqaured Value = 0.18",
       "Source: Our World in data, World Bank & UN Data and Tooltip included"
     ],
     "subtitleFontStyle": "italic",
@@ -40,12 +39,7 @@
       "type": "quantitative",
       "title": "Unemployment rate (%)"
     },
-    "size": {
-      "field": "lf",
-      "type": "quantitative",
-      "title": "Labour Force",
-      "scale": {"rangeMax": 850}
-    },
+
     "color": {
       "field": "Country",
       "type": "nominal",
@@ -64,5 +58,4 @@
       {"field": "lf", "type": "quantitative", "title": "Labour Force"}
     ]
   }
-  
 }
