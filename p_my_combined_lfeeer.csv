@@ -1,0 +1,136 @@
+,country.value,date,ee,lf,ur,country
+1,United Kingdom,2020,5.53,34633193,4.47,United Kingdom
+2,United Kingdom,2019,5.21,34701423,3.74,United Kingdom
+3,United Kingdom,2018,5.17,34415435,4.00,United Kingdom
+4,United Kingdom,2017,5.38,34128763,4.33,United Kingdom
+5,United Kingdom,2016,5.38,33945098,4.81,United Kingdom
+6,United Kingdom,2015,5.51,33619460,5.30,United Kingdom
+7,United Kingdom,2014,5.56,33336695,6.11,United Kingdom
+8,United Kingdom,2013,5.50,33061439,7.52,United Kingdom
+9,United Kingdom,2012,5.66,32778349,7.88,United Kingdom
+10,United Kingdom,2011,5.56,32478069,8.04,United Kingdom
+11,United Kingdom,2010,5.67,32236186,7.79,United Kingdom
+12,United Kingdom,2009,5.05,32084960,7.54,United Kingdom
+13,United Kingdom,2008,4.88,31927771,5.62,United Kingdom
+14,United Kingdom,2007,4.91,31527354,5.26,United Kingdom
+15,United Kingdom,2006,4.97,31317979,5.35,United Kingdom
+16,United Kingdom,2005,4.93,30813208,4.75,United Kingdom
+51,India,2020,4.47,463517213,8.00,India
+52,India,2019,4.41,488759055,5.27,India
+53,India,2018,4.36,478922986,5.33,India
+54,India,2017,4.31,476375095,5.36,India
+55,India,2016,4.25,473321642,5.42,India
+56,India,2015,4.11,470101297,5.43,India
+58,India,2013,3.84,463479881,5.42,India
+59,India,2012,3.87,459896475,5.41,India
+60,India,2011,3.80,459271453,5.43,India
+61,India,2010,3.38,458370817,5.55,India
+62,India,2009,3.28,456466561,5.54,India
+65,India,2006,3.14,449357551,5.60,India
+66,India,2005,3.19,446362766,5.61,India
+100,South Africa,2021,6.60,22397601,33.56,South Africa
+101,South Africa,2020,6.19,21181686,29.22,South Africa
+102,South Africa,2019,5.92,22876128,28.47,South Africa
+103,South Africa,2018,5.64,22556993,26.91,South Africa
+104,South Africa,2017,5.60,22392953,27.04,South Africa
+105,South Africa,2016,5.44,22112476,26.54,South Africa
+106,South Africa,2015,5.48,21878157,25.15,South Africa
+107,South Africa,2014,5.49,20891740,24.89,South Africa
+108,South Africa,2013,5.35,20468028,24.56,South Africa
+109,South Africa,2012,5.52,19973138,24.73,South Africa
+110,South Africa,2011,5.29,19556367,24.64,South Africa
+111,South Africa,2010,5.13,19289765,24.68,South Africa
+112,South Africa,2009,4.76,19599116,23.52,South Africa
+113,South Africa,2008,4.37,19944181,22.41,South Africa
+114,South Africa,2007,4.45,19643837,26.54,South Africa
+115,South Africa,2006,4.53,19340541,28.34,South Africa
+116,South Africa,2005,4.52,19033160,29.12,South Africa
+151,Canada,2020,5.17,20487246,9.46,Canada
+152,Canada,2019,4.77,20758436,5.66,Canada
+153,Canada,2018,4.89,20344109,5.83,Canada
+154,Canada,2017,4.96,20144986,6.34,Canada
+155,Canada,2016,4.82,19877599,7.00,Canada
+156,Canada,2015,4.74,19690128,6.91,Canada
+157,Canada,2014,4.84,19586757,6.91,Canada
+158,Canada,2013,4.59,19522292,7.07,Canada
+159,Canada,2012,4.69,19316264,7.29,Canada
+160,Canada,2011,5.26,19146806,7.51,Canada
+161,Canada,2010,5.36,18985431,8.06,Canada
+162,Canada,2009,4.84,18787384,8.34,Canada
+163,Canada,2008,4.63,18662574,6.14,Canada
+164,Canada,2007,4.77,18382598,6.04,Canada
+166,Canada,2005,4.77,17819057,6.76,Canada
+201,Australia,2020,6.10,13590200,6.46,Australia
+202,Australia,2019,5.14,13590353,5.16,Australia
+203,Australia,2018,5.12,13308365,5.30,Australia
+204,Australia,2017,5.14,13006679,5.59,Australia
+205,Australia,2016,5.29,12728417,5.71,Australia
+206,Australia,2015,5.32,12554514,6.05,Australia
+207,Australia,2014,5.16,12316359,6.08,Australia
+208,Australia,2013,5.23,12176891,5.66,Australia
+209,Australia,2012,4.87,12006302,5.22,Australia
+210,Australia,2011,5.07,11842238,5.08,Australia
+211,Australia,2010,5.54,11661196,5.21,Australia
+212,Australia,2009,5.08,11471850,5.56,Australia
+213,Australia,2008,4.63,11228764,4.23,Australia
+214,Australia,2007,4.66,10937240,4.38,Australia
+215,Australia,2006,4.74,10650659,4.78,Australia
+216,Australia,2005,4.90,10426942,5.03,Australia
+251,Malaysia,2020,3.92,16536931,4.50,Malaysia
+252,Malaysia,2019,4.16,16326127,3.26,Malaysia
+253,Malaysia,2018,4.48,15957341,3.30,Malaysia
+254,Malaysia,2017,4.68,15580100,3.41,Malaysia
+255,Malaysia,2016,4.75,15259318,3.44,Malaysia
+256,Malaysia,2015,4.89,14984846,3.10,Malaysia
+257,Malaysia,2014,5.21,14634933,2.88,Malaysia
+258,Malaysia,2013,5.48,14264784,3.16,Malaysia
+259,Malaysia,2012,5.74,13623989,3.10,Malaysia
+260,Malaysia,2011,5.76,13066875,3.05,Malaysia
+261,Malaysia,2010,4.97,12512860,3.39,Malaysia
+262,Malaysia,2009,5.97,12188514,3.66,Malaysia
+263,Malaysia,2008,3.96,11776886,3.32,Malaysia
+264,Malaysia,2007,4.37,11526422,3.23,Malaysia
+265,Malaysia,2006,4.49,11224135,3.31,Malaysia
+301,Qatar,2020,3.23,2042416,0.21,Qatar
+302,Qatar,2019,2.80,2117362,0.10,Qatar
+304,Qatar,2017,2.97,2061199,0.14,Qatar
+307,Qatar,2014,3.61,1664818,0.20,Qatar
+308,Qatar,2013,4.07,1519189,0.28,Qatar
+309,Qatar,2012,3.51,1421301,0.48,Qatar
+310,Qatar,2011,4.01,1349090,0.56,Qatar
+311,Qatar,2010,4.54,1287119,0.45,Qatar
+312,Qatar,2009,3.41,1196223,0.31,Qatar
+313,Qatar,2008,4.23,1049873,0.31,Qatar
+316,Qatar,2005,3.97,547326,0.87,Qatar
+400,Jamaica,2021,6.03,1418424,9.18,Jamaica
+401,Jamaica,2020,5.62,1374141,9.48,Jamaica
+402,Jamaica,2019,5.16,1429844,7.69,Jamaica
+403,Jamaica,2018,5.41,1406395,9.10,Jamaica
+404,Jamaica,2017,5.26,1418463,11.63,Jamaica
+405,Jamaica,2016,5.31,1400576,13.19,Jamaica
+406,Jamaica,2015,5.46,1353993,13.51,Jamaica
+407,Jamaica,2014,6.02,1333074,13.74,Jamaica
+408,Jamaica,2013,6.25,1320357,15.25,Jamaica
+409,Jamaica,2012,6.11,1278503,13.93,Jamaica
+410,Jamaica,2011,6.27,1268643,12.70,Jamaica
+411,Jamaica,2010,6.37,1251232,12.37,Jamaica
+412,Jamaica,2009,6.20,1255455,11.36,Jamaica
+413,Jamaica,2008,6.19,1271111,10.59,Jamaica
+414,Jamaica,2007,5.49,1249533,9.75,Jamaica
+416,Jamaica,2005,4.62,1205684,11.26,Jamaica
+451,Ireland,2020,3.10,2432632,5.62,Ireland
+452,Ireland,2019,3.29,2446760,4.95,Ireland
+453,Ireland,2018,3.39,2398224,5.74,Ireland
+454,Ireland,2017,3.51,2354153,6.71,Ireland
+455,Ireland,2016,3.74,2330010,8.37,Ireland
+456,Ireland,2015,3.76,2286203,9.91,Ireland
+457,Ireland,2014,4.88,2258863,11.86,Ireland
+458,Ireland,2013,5.34,2247873,13.73,Ireland
+459,Ireland,2012,5.75,2225018,15.45,Ireland
+460,Ireland,2011,5.83,2231455,15.35,Ireland
+461,Ireland,2010,6.05,2252263,14.53,Ireland
+462,Ireland,2009,6.16,2303515,12.61,Ireland
+463,Ireland,2008,5.46,2355177,6.77,Ireland
+464,Ireland,2007,4.72,2336447,4.98,Ireland
+465,Ireland,2006,4.55,2241382,4.41,Ireland
+466,Ireland,2005,4.52,2151141,4.34,Ireland
