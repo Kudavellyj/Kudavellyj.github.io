@@ -17,7 +17,7 @@
     "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_my_combined_lfeeer1.csv"
   },
   "selection": {
-    "paintbrush": {"type": "multi", "on": "mouseover", "nearest": true},
+
     "grid": {
       "type": "interval",
       "bind": "scales",
@@ -26,7 +26,7 @@
       "zoom": "wheel!",
       "resolve": "global"
     },
-     "Type": {
+    "Type": {
       "type": "single",
       "fields": ["date"],
       "bind": {
@@ -49,8 +49,10 @@
       }
     }
   },
-    "transform": [{"filter": {"selection": "Type"}}],
-  "mark": {"type": "point", "size": 150},
+  "transform": [{"filter": {"selection": "Type"}}],
+
+  
+  "mark": {"type": "point", "opacity": 1, "size": 150},
   "encoding": {
     "x": {
       "field": "ee",
@@ -63,15 +65,14 @@
       "type": "quantitative",
       "title": "Unemployment rate (%)"
     },
-    "size": {
-      "condition": {
-        "selection": "paintbrush",
-        "value": 200,
-        "init": {"value": 30}
-      },
-      "value": 30
+   "size": {
+      "field": "lf",
+      "type": "quantitative",
+      "title": "Labour Force",
+      "scale": {"range": [0, 1500]}
     },
     "color": {
+
       "field": "Country",
       "type": "nominal",
       "title": "Country",
