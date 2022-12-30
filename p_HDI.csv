@@ -1,0 +1,1967 @@
+,Country,Year,value
+0,Afghanistan,1990,0.273
+1,Afghanistan,1991,0.279
+2,Afghanistan,1992,0.287
+3,Afghanistan,1993,0.297
+4,Afghanistan,1994,0.292
+5,Afghanistan,1995,0.31
+6,Afghanistan,1996,0.319
+7,Afghanistan,1997,0.323
+8,Afghanistan,1998,0.324
+9,Afghanistan,1999,0.332
+10,Afghanistan,2000,0.335
+11,Afghanistan,2001,0.337
+12,Afghanistan,2002,0.362
+13,Afghanistan,2003,0.376
+14,Afghanistan,2004,0.392
+15,Afghanistan,2005,0.4
+16,Afghanistan,2006,0.409
+17,Afghanistan,2007,0.424
+18,Afghanistan,2008,0.43
+19,Afghanistan,2009,0.44
+20,Afghanistan,2010,0.448
+21,Afghanistan,2011,0.456
+22,Afghanistan,2012,0.466
+23,Afghanistan,2013,0.474
+24,Afghanistan,2014,0.479
+25,Afghanistan,2015,0.478
+26,Afghanistan,2016,0.481
+27,Afghanistan,2017,0.482
+28,Afghanistan,2018,0.483
+29,Afghanistan,2019,0.488
+30,Afghanistan,2020,0.483
+31,Afghanistan,2021,0.478
+32,Antigua and Barbuda,2007,0.802
+33,Antigua and Barbuda,2008,0.801
+34,Antigua and Barbuda,2009,0.795
+35,Antigua and Barbuda,2010,0.79
+36,Antigua and Barbuda,2011,0.783
+37,Antigua and Barbuda,2012,0.787
+38,Antigua and Barbuda,2013,0.787
+39,Antigua and Barbuda,2014,0.789
+40,Antigua and Barbuda,2015,0.791
+41,Antigua and Barbuda,2016,0.794
+42,Antigua and Barbuda,2017,0.795
+43,Antigua and Barbuda,2018,0.798
+44,Antigua and Barbuda,2019,0.8
+45,Antigua and Barbuda,2020,0.788
+46,Antigua and Barbuda,2021,0.788
+47,Australia,1990,0.865
+48,Australia,1991,0.867
+49,Australia,1992,0.869
+50,Australia,1993,0.873
+51,Australia,1994,0.873
+52,Australia,1995,0.882
+53,Australia,1996,0.884
+54,Australia,1997,0.887
+55,Australia,1998,0.891
+56,Australia,1999,0.894
+57,Australia,2000,0.896
+58,Australia,2001,0.9
+59,Australia,2002,0.902
+60,Australia,2003,0.906
+61,Australia,2004,0.908
+62,Australia,2005,0.911
+63,Australia,2006,0.914
+64,Australia,2007,0.915
+65,Australia,2008,0.919
+66,Australia,2009,0.921
+67,Australia,2010,0.923
+68,Australia,2011,0.926
+69,Australia,2012,0.93
+70,Australia,2013,0.929
+71,Australia,2014,0.931
+72,Australia,2015,0.933
+73,Australia,2016,0.935
+74,Australia,2017,0.937
+75,Australia,2018,0.941
+76,Australia,2019,0.941
+77,Australia,2020,0.947
+78,Australia,2021,0.951
+79,The Bahamas,1995,0.781
+80,The Bahamas,1996,0.787
+81,The Bahamas,1997,0.784
+82,The Bahamas,1998,0.785
+83,The Bahamas,1999,0.794
+84,The Bahamas,2000,0.799
+85,The Bahamas,2001,0.801
+86,The Bahamas,2002,0.804
+87,The Bahamas,2003,0.805
+88,The Bahamas,2004,0.807
+89,The Bahamas,2005,0.811
+90,The Bahamas,2006,0.813
+91,The Bahamas,2007,0.812
+92,The Bahamas,2008,0.812
+93,The Bahamas,2009,0.81
+94,The Bahamas,2010,0.812
+95,The Bahamas,2011,0.812
+96,The Bahamas,2012,0.815
+97,The Bahamas,2013,0.816
+98,The Bahamas,2014,0.82
+99,The Bahamas,2015,0.82
+100,The Bahamas,2016,0.823
+101,The Bahamas,2017,0.825
+102,The Bahamas,2018,0.827
+103,The Bahamas,2019,0.816
+104,The Bahamas,2020,0.815
+105,The Bahamas,2021,0.812
+106,Bahrain,1990,0.742
+107,Bahrain,1991,0.743
+108,Bahrain,1992,0.749
+109,Bahrain,1993,0.761
+110,Bahrain,1994,0.764
+111,Bahrain,1995,0.772
+112,Bahrain,1996,0.778
+113,Bahrain,1997,0.78
+114,Bahrain,1998,0.785
+115,Bahrain,1999,0.789
+116,Bahrain,2000,0.798
+117,Bahrain,2001,0.804
+118,Bahrain,2002,0.804
+119,Bahrain,2003,0.806
+120,Bahrain,2004,0.804
+121,Bahrain,2005,0.803
+122,Bahrain,2006,0.804
+123,Bahrain,2007,0.807
+124,Bahrain,2008,0.808
+125,Bahrain,2009,0.806
+126,Bahrain,2010,0.808
+127,Bahrain,2011,0.809
+128,Bahrain,2012,0.817
+129,Bahrain,2013,0.824
+130,Bahrain,2014,0.83
+131,Bahrain,2015,0.858
+132,Bahrain,2016,0.865
+133,Bahrain,2017,0.869
+134,Bahrain,2018,0.879
+135,Bahrain,2019,0.882
+136,Bahrain,2020,0.877
+137,Bahrain,2021,0.875
+138,Bangladesh,1990,0.397
+139,Bangladesh,1991,0.394
+140,Bangladesh,1992,0.413
+141,Bangladesh,1993,0.42
+142,Bangladesh,1994,0.427
+143,Bangladesh,1995,0.436
+144,Bangladesh,1996,0.441
+145,Bangladesh,1997,0.453
+146,Bangladesh,1998,0.467
+147,Bangladesh,1999,0.481
+148,Bangladesh,2000,0.485
+149,Bangladesh,2001,0.492
+150,Bangladesh,2002,0.499
+151,Bangladesh,2003,0.505
+152,Bangladesh,2004,0.511
+153,Bangladesh,2005,0.518
+154,Bangladesh,2006,0.524
+155,Bangladesh,2007,0.527
+156,Bangladesh,2008,0.53
+157,Bangladesh,2009,0.541
+158,Bangladesh,2010,0.553
+159,Bangladesh,2011,0.561
+160,Bangladesh,2012,0.572
+161,Bangladesh,2013,0.574
+162,Bangladesh,2014,0.583
+163,Bangladesh,2015,0.602
+164,Bangladesh,2016,0.612
+165,Bangladesh,2017,0.622
+166,Bangladesh,2018,0.635
+167,Bangladesh,2019,0.644
+168,Bangladesh,2020,0.655
+169,Bangladesh,2021,0.661
+170,Barbados,1990,0.725
+171,Barbados,1991,0.727
+172,Barbados,1992,0.727
+173,Barbados,1993,0.731
+174,Barbados,1994,0.736
+175,Barbados,1995,0.739
+176,Barbados,1996,0.744
+177,Barbados,1997,0.747
+178,Barbados,1998,0.748
+179,Barbados,1999,0.75
+180,Barbados,2000,0.756
+181,Barbados,2001,0.756
+182,Barbados,2002,0.76
+183,Barbados,2003,0.765
+184,Barbados,2004,0.77
+185,Barbados,2005,0.776
+186,Barbados,2006,0.781
+187,Barbados,2007,0.786
+188,Barbados,2008,0.789
+189,Barbados,2009,0.791
+190,Barbados,2010,0.788
+191,Barbados,2011,0.784
+192,Barbados,2012,0.787
+193,Barbados,2013,0.787
+194,Barbados,2014,0.789
+195,Barbados,2015,0.791
+196,Barbados,2016,0.794
+197,Barbados,2017,0.796
+198,Barbados,2018,0.797
+199,Barbados,2019,0.799
+200,Barbados,2020,0.788
+201,Barbados,2021,0.79
+202,Belize,1990,0.593
+203,Belize,1991,0.6
+204,Belize,1992,0.608
+205,Belize,1993,0.614
+206,Belize,1994,0.618
+207,Belize,1995,0.62
+208,Belize,1996,0.623
+209,Belize,1997,0.625
+210,Belize,1998,0.626
+211,Belize,1999,0.633
+212,Belize,2000,0.64
+213,Belize,2001,0.643
+214,Belize,2002,0.652
+215,Belize,2003,0.66
+216,Belize,2004,0.667
+217,Belize,2005,0.664
+218,Belize,2006,0.68
+219,Belize,2007,0.685
+220,Belize,2008,0.693
+221,Belize,2009,0.701
+222,Belize,2010,0.707
+223,Belize,2011,0.709
+224,Belize,2012,0.713
+225,Belize,2013,0.712
+226,Belize,2014,0.709
+227,Belize,2015,0.708
+228,Belize,2016,0.712
+229,Belize,2017,0.707
+230,Belize,2018,0.706
+231,Belize,2019,0.705
+232,Belize,2020,0.69
+233,Belize,2021,0.683
+234,Botswana,1990,0.586
+235,Botswana,1991,0.588
+236,Botswana,1992,0.586
+237,Botswana,1993,0.588
+238,Botswana,1994,0.578
+239,Botswana,1995,0.583
+240,Botswana,1996,0.583
+241,Botswana,1997,0.586
+242,Botswana,1998,0.586
+243,Botswana,1999,0.587
+244,Botswana,2000,0.585
+245,Botswana,2001,0.586
+246,Botswana,2002,0.583
+247,Botswana,2003,0.59
+248,Botswana,2004,0.595
+249,Botswana,2005,0.604
+250,Botswana,2006,0.618
+251,Botswana,2007,0.632
+252,Botswana,2008,0.642
+253,Botswana,2009,0.647
+254,Botswana,2010,0.66
+255,Botswana,2011,0.669
+256,Botswana,2012,0.674
+257,Botswana,2013,0.687
+258,Botswana,2014,0.696
+259,Botswana,2015,0.702
+260,Botswana,2016,0.713
+261,Botswana,2017,0.722
+262,Botswana,2018,0.716
+263,Botswana,2019,0.717
+264,Botswana,2020,0.713
+265,Botswana,2021,0.693
+266,Brunei,1990,0.77
+267,Brunei,1991,0.775
+268,Brunei,1992,0.781
+269,Brunei,1993,0.786
+270,Brunei,1994,0.79
+271,Brunei,1995,0.795
+272,Brunei,1996,0.798
+273,Brunei,1997,0.799
+274,Brunei,1998,0.801
+275,Brunei,1999,0.807
+276,Brunei,2000,0.808
+277,Brunei,2001,0.809
+278,Brunei,2002,0.813
+279,Brunei,2003,0.818
+280,Brunei,2004,0.822
+281,Brunei,2005,0.825
+282,Brunei,2006,0.828
+283,Brunei,2007,0.827
+284,Brunei,2008,0.826
+285,Brunei,2009,0.828
+286,Brunei,2010,0.828
+287,Brunei,2011,0.832
+288,Brunei,2012,0.838
+289,Brunei,2013,0.838
+290,Brunei,2014,0.837
+291,Brunei,2015,0.836
+292,Brunei,2016,0.835
+293,Brunei,2017,0.834
+294,Brunei,2018,0.83
+295,Brunei,2019,0.83
+296,Brunei,2020,0.83
+297,Brunei,2021,0.829
+298,Canada,1990,0.86
+299,Canada,1991,0.864
+300,Canada,1992,0.868
+301,Canada,1993,0.866
+302,Canada,1994,0.872
+303,Canada,1995,0.876
+304,Canada,1996,0.879
+305,Canada,1997,0.88
+306,Canada,1998,0.879
+307,Canada,1999,0.884
+308,Canada,2000,0.89
+309,Canada,2001,0.892
+310,Canada,2002,0.894
+311,Canada,2003,0.897
+312,Canada,2004,0.901
+313,Canada,2005,0.903
+314,Canada,2006,0.907
+315,Canada,2007,0.908
+316,Canada,2008,0.91
+317,Canada,2009,0.909
+318,Canada,2010,0.911
+319,Canada,2011,0.915
+320,Canada,2012,0.921
+321,Canada,2013,0.923
+322,Canada,2014,0.925
+323,Canada,2015,0.926
+324,Canada,2016,0.928
+325,Canada,2017,0.931
+326,Canada,2018,0.933
+327,Canada,2019,0.937
+328,Canada,2020,0.931
+329,Canada,2021,0.936
+330,Cyprus,1990,0.716
+331,Cyprus,1991,0.719
+332,Cyprus,1992,0.726
+333,Cyprus,1993,0.765
+334,Cyprus,1994,0.77
+335,Cyprus,1995,0.776
+336,Cyprus,1996,0.781
+337,Cyprus,1997,0.785
+338,Cyprus,1998,0.794
+339,Cyprus,1999,0.794
+340,Cyprus,2000,0.797
+341,Cyprus,2001,0.804
+342,Cyprus,2002,0.816
+343,Cyprus,2003,0.825
+344,Cyprus,2004,0.83
+345,Cyprus,2005,0.834
+346,Cyprus,2006,0.841
+347,Cyprus,2007,0.848
+348,Cyprus,2008,0.857
+349,Cyprus,2009,0.862
+350,Cyprus,2010,0.857
+351,Cyprus,2011,0.861
+352,Cyprus,2012,0.86
+353,Cyprus,2013,0.861
+354,Cyprus,2014,0.865
+355,Cyprus,2015,0.871
+356,Cyprus,2016,0.877
+357,Cyprus,2017,0.887
+358,Cyprus,2018,0.892
+359,Cyprus,2019,0.897
+360,Cyprus,2020,0.894
+361,Cyprus,2021,0.896
+362,Dominica,2000,0.695
+363,Dominica,2001,0.694
+364,Dominica,2002,0.695
+365,Dominica,2003,0.695
+366,Dominica,2004,0.7
+367,Dominica,2005,0.701
+368,Dominica,2006,0.708
+369,Dominica,2007,0.707
+370,Dominica,2008,0.717
+371,Dominica,2009,0.713
+372,Dominica,2010,0.711
+373,Dominica,2011,0.702
+374,Dominica,2012,0.706
+375,Dominica,2013,0.699
+376,Dominica,2014,0.705
+377,Dominica,2015,0.7
+378,Dominica,2016,0.709
+379,Dominica,2017,0.692
+380,Dominica,2018,0.726
+381,Dominica,2019,0.729
+382,Dominica,2020,0.722
+383,Dominica,2021,0.72
+384,Egypt,1990,0.572
+385,Egypt,1991,0.578
+386,Egypt,1992,0.585
+387,Egypt,1993,0.591
+388,Egypt,1994,0.598
+389,Egypt,1995,0.605
+390,Egypt,1996,0.613
+391,Egypt,1997,0.619
+392,Egypt,1998,0.624
+393,Egypt,1999,0.629
+394,Egypt,2000,0.633
+395,Egypt,2001,0.637
+396,Egypt,2002,0.639
+397,Egypt,2003,0.637
+398,Egypt,2004,0.64
+399,Egypt,2005,0.643
+400,Egypt,2006,0.647
+401,Egypt,2007,0.655
+402,Egypt,2008,0.663
+403,Egypt,2009,0.668
+404,Egypt,2010,0.675
+405,Egypt,2011,0.679
+406,Egypt,2012,0.688
+407,Egypt,2013,0.694
+408,Egypt,2014,0.699
+409,Egypt,2015,0.706
+410,Egypt,2016,0.713
+411,Egypt,2017,0.721
+412,Egypt,2018,0.729
+413,Egypt,2019,0.735
+414,Egypt,2020,0.734
+415,Egypt,2021,0.731
+416,Fiji,1990,0.642
+417,Fiji,1991,0.647
+418,Fiji,1992,0.651
+419,Fiji,1993,0.654
+420,Fiji,1994,0.66
+421,Fiji,1995,0.666
+422,Fiji,1996,0.669
+423,Fiji,1997,0.67
+424,Fiji,1998,0.672
+425,Fiji,1999,0.679
+426,Fiji,2000,0.681
+427,Fiji,2001,0.686
+428,Fiji,2002,0.687
+429,Fiji,2003,0.692
+430,Fiji,2004,0.704
+431,Fiji,2005,0.702
+432,Fiji,2006,0.705
+433,Fiji,2007,0.706
+434,Fiji,2008,0.709
+435,Fiji,2009,0.711
+436,Fiji,2010,0.714
+437,Fiji,2011,0.719
+438,Fiji,2012,0.721
+439,Fiji,2013,0.726
+440,Fiji,2014,0.729
+441,Fiji,2015,0.729
+442,Fiji,2016,0.735
+443,Fiji,2017,0.741
+444,Fiji,2018,0.745
+445,Fiji,2019,0.746
+446,Fiji,2020,0.737
+447,Fiji,2021,0.73
+448,Gambia,1990,0.343
+449,Gambia,1991,0.35
+450,Gambia,1992,0.357
+451,Gambia,1993,0.363
+452,Gambia,1994,0.369
+453,Gambia,1995,0.376
+454,Gambia,1996,0.382
+455,Gambia,1997,0.385
+456,Gambia,1998,0.392
+457,Gambia,1999,0.398
+458,Gambia,2000,0.404
+459,Gambia,2001,0.41
+460,Gambia,2002,0.412
+461,Gambia,2003,0.419
+462,Gambia,2004,0.428
+463,Gambia,2005,0.431
+464,Gambia,2006,0.436
+465,Gambia,2007,0.442
+466,Gambia,2008,0.45
+467,Gambia,2009,0.455
+468,Gambia,2010,0.46
+469,Gambia,2011,0.46
+470,Gambia,2012,0.467
+471,Gambia,2013,0.471
+472,Gambia,2014,0.473
+473,Gambia,2015,0.478
+474,Gambia,2016,0.484
+475,Gambia,2017,0.489
+476,Gambia,2018,0.495
+477,Gambia,2019,0.503
+478,Gambia,2020,0.501
+479,Gambia,2021,0.5
+480,Ghana,1990,0.46
+481,Ghana,1991,0.466
+482,Ghana,1992,0.47
+483,Ghana,1993,0.475
+484,Ghana,1994,0.477
+485,Ghana,1995,0.483
+486,Ghana,1996,0.487
+487,Ghana,1997,0.492
+488,Ghana,1998,0.497
+489,Ghana,1999,0.502
+490,Ghana,2000,0.507
+491,Ghana,2001,0.505
+492,Ghana,2002,0.512
+493,Ghana,2003,0.515
+494,Ghana,2004,0.521
+495,Ghana,2005,0.533
+496,Ghana,2006,0.54
+497,Ghana,2007,0.55
+498,Ghana,2008,0.561
+499,Ghana,2009,0.566
+500,Ghana,2010,0.574
+501,Ghana,2011,0.585
+502,Ghana,2012,0.592
+503,Ghana,2013,0.6
+504,Ghana,2014,0.6
+505,Ghana,2015,0.607
+506,Ghana,2016,0.611
+507,Ghana,2017,0.616
+508,Ghana,2018,0.62
+509,Ghana,2019,0.631
+510,Ghana,2020,0.632
+511,Ghana,2021,0.632
+512,Grenada,2002,0.739
+513,Grenada,2003,0.747
+514,Grenada,2004,0.742
+515,Grenada,2005,0.763
+516,Grenada,2006,0.765
+517,Grenada,2007,0.773
+518,Grenada,2008,0.778
+519,Grenada,2009,0.777
+520,Grenada,2010,0.782
+521,Grenada,2011,0.786
+522,Grenada,2012,0.784
+523,Grenada,2013,0.787
+524,Grenada,2014,0.787
+525,Grenada,2015,0.79
+526,Grenada,2016,0.791
+527,Grenada,2017,0.794
+528,Grenada,2018,0.797
+529,Grenada,2019,0.8
+530,Grenada,2020,0.792
+531,Grenada,2021,0.795
+532,Guyana,1990,0.509
+533,Guyana,1991,0.505
+534,Guyana,1992,0.52
+535,Guyana,1993,0.534
+536,Guyana,1994,0.544
+537,Guyana,1995,0.549
+538,Guyana,1996,0.559
+539,Guyana,1997,0.564
+540,Guyana,1998,0.569
+541,Guyana,1999,0.573
+542,Guyana,2000,0.577
+543,Guyana,2001,0.584
+544,Guyana,2002,0.59
+545,Guyana,2003,0.598
+546,Guyana,2004,0.612
+547,Guyana,2005,0.622
+548,Guyana,2006,0.631
+549,Guyana,2007,0.638
+550,Guyana,2008,0.644
+551,Guyana,2009,0.649
+552,Guyana,2010,0.656
+553,Guyana,2011,0.665
+554,Guyana,2012,0.669
+555,Guyana,2013,0.673
+556,Guyana,2014,0.681
+557,Guyana,2015,0.684
+558,Guyana,2016,0.691
+559,Guyana,2017,0.695
+560,Guyana,2018,0.701
+561,Guyana,2019,0.708
+562,Guyana,2020,0.721
+563,Guyana,2021,0.714
+564,Hong Kong,1990,0.788
+565,Hong Kong,1991,0.794
+566,Hong Kong,1992,0.802
+567,Hong Kong,1993,0.811
+568,Hong Kong,1994,0.819
+569,Hong Kong,1995,0.825
+570,Hong Kong,1996,0.831
+571,Hong Kong,1997,0.837
+572,Hong Kong,1998,0.839
+573,Hong Kong,1999,0.843
+574,Hong Kong,2000,0.851
+575,Hong Kong,2001,0.856
+576,Hong Kong,2002,0.859
+577,Hong Kong,2003,0.864
+578,Hong Kong,2004,0.872
+579,Hong Kong,2005,0.879
+580,Hong Kong,2006,0.887
+581,Hong Kong,2007,0.894
+582,Hong Kong,2008,0.899
+583,Hong Kong,2009,0.9
+584,Hong Kong,2010,0.907
+585,Hong Kong,2011,0.914
+586,Hong Kong,2012,0.918
+587,Hong Kong,2013,0.924
+588,Hong Kong,2014,0.93
+589,Hong Kong,2015,0.935
+590,Hong Kong,2016,0.938
+591,Hong Kong,2017,0.944
+592,Hong Kong,2018,0.949
+593,Hong Kong,2019,0.952
+594,Hong Kong,2020,0.949
+595,Hong Kong,2021,0.952
+596,India,1990,0.434
+597,India,1991,0.437
+598,India,1992,0.442
+599,India,1993,0.446
+600,India,1994,0.452
+601,India,1995,0.458
+602,India,1996,0.466
+603,India,1997,0.471
+604,India,1998,0.478
+605,India,1999,0.486
+606,India,2000,0.491
+607,India,2001,0.496
+608,India,2002,0.503
+609,India,2003,0.516
+610,India,2004,0.525
+611,India,2005,0.534
+612,India,2006,0.543
+613,India,2007,0.553
+614,India,2008,0.56
+615,India,2009,0.565
+616,India,2010,0.575
+617,India,2011,0.588
+618,India,2012,0.598
+619,India,2013,0.607
+620,India,2014,0.619
+621,India,2015,0.629
+622,India,2016,0.639
+623,India,2017,0.644
+624,India,2018,0.645
+625,India,2019,0.645
+626,India,2020,0.642
+627,India,2021,0.633
+628,Iraq,1990,0.528
+629,Iraq,1991,0.496
+630,Iraq,1992,0.524
+631,Iraq,1993,0.545
+632,Iraq,1994,0.543
+633,Iraq,1995,0.532
+634,Iraq,1996,0.551
+635,Iraq,1997,0.558
+636,Iraq,1998,0.571
+637,Iraq,1999,0.582
+638,Iraq,2000,0.589
+639,Iraq,2001,0.596
+640,Iraq,2002,0.598
+641,Iraq,2003,0.579
+642,Iraq,2004,0.602
+643,Iraq,2005,0.606
+644,Iraq,2006,0.604
+645,Iraq,2007,0.607
+646,Iraq,2008,0.623
+647,Iraq,2009,0.633
+648,Iraq,2010,0.64
+649,Iraq,2011,0.649
+650,Iraq,2012,0.66
+651,Iraq,2013,0.667
+652,Iraq,2014,0.67
+653,Iraq,2015,0.675
+654,Iraq,2016,0.679
+655,Iraq,2017,0.685
+656,Iraq,2018,0.692
+657,Iraq,2019,0.696
+658,Iraq,2020,0.679
+659,Iraq,2021,0.686
+660,Ireland,1990,0.737
+661,Ireland,1991,0.743
+662,Ireland,1992,0.751
+663,Ireland,1993,0.76
+664,Ireland,1994,0.771
+665,Ireland,1995,0.777
+666,Ireland,1996,0.785
+667,Ireland,1997,0.794
+668,Ireland,1998,0.83
+669,Ireland,1999,0.837
+670,Ireland,2000,0.847
+671,Ireland,2001,0.855
+672,Ireland,2002,0.864
+673,Ireland,2003,0.873
+674,Ireland,2004,0.881
+675,Ireland,2005,0.888
+676,Ireland,2006,0.891
+677,Ireland,2007,0.896
+678,Ireland,2008,0.899
+679,Ireland,2009,0.895
+680,Ireland,2010,0.904
+681,Ireland,2011,0.902
+682,Ireland,2012,0.903
+683,Ireland,2013,0.908
+684,Ireland,2014,0.914
+685,Ireland,2015,0.925
+686,Ireland,2016,0.929
+687,Ireland,2017,0.934
+688,Ireland,2018,0.937
+689,Ireland,2019,0.942
+690,Ireland,2020,0.943
+691,Ireland,2021,0.945
+692,Israel,1990,0.787
+693,Israel,1991,0.793
+694,Israel,1992,0.797
+695,Israel,1993,0.804
+696,Israel,1994,0.808
+697,Israel,1995,0.811
+698,Israel,1996,0.818
+699,Israel,1997,0.825
+700,Israel,1998,0.833
+701,Israel,1999,0.841
+702,Israel,2000,0.844
+703,Israel,2001,0.848
+704,Israel,2002,0.854
+705,Israel,2003,0.855
+706,Israel,2004,0.858
+707,Israel,2005,0.866
+708,Israel,2006,0.874
+709,Israel,2007,0.885
+710,Israel,2008,0.885
+711,Israel,2009,0.889
+712,Israel,2010,0.894
+713,Israel,2011,0.897
+714,Israel,2012,0.898
+715,Israel,2013,0.904
+716,Israel,2014,0.908
+717,Israel,2015,0.909
+718,Israel,2016,0.913
+719,Israel,2017,0.917
+720,Israel,2018,0.919
+721,Israel,2019,0.921
+722,Israel,2020,0.917
+723,Israel,2021,0.919
+724,Jamaica,1990,0.659
+725,Jamaica,1991,0.662
+726,Jamaica,1992,0.663
+727,Jamaica,1993,0.667
+728,Jamaica,1994,0.668
+729,Jamaica,1995,0.669
+730,Jamaica,1996,0.669
+731,Jamaica,1997,0.668
+732,Jamaica,1998,0.666
+733,Jamaica,1999,0.667
+734,Jamaica,2000,0.664
+735,Jamaica,2001,0.673
+736,Jamaica,2002,0.677
+737,Jamaica,2003,0.671
+738,Jamaica,2004,0.687
+739,Jamaica,2005,0.69
+740,Jamaica,2006,0.694
+741,Jamaica,2007,0.697
+742,Jamaica,2008,0.7
+743,Jamaica,2009,0.7
+744,Jamaica,2010,0.704
+745,Jamaica,2011,0.709
+746,Jamaica,2012,0.713
+747,Jamaica,2013,0.714
+748,Jamaica,2014,0.714
+749,Jamaica,2015,0.713
+750,Jamaica,2016,0.712
+751,Jamaica,2017,0.715
+752,Jamaica,2018,0.716
+753,Jamaica,2019,0.719
+754,Jamaica,2020,0.713
+755,Jamaica,2021,0.709
+756,Jordan,1990,0.622
+757,Jordan,1991,0.625
+758,Jordan,1992,0.637
+759,Jordan,1993,0.641
+760,Jordan,1994,0.644
+761,Jordan,1995,0.651
+762,Jordan,1996,0.655
+763,Jordan,1997,0.661
+764,Jordan,1998,0.666
+765,Jordan,1999,0.671
+766,Jordan,2000,0.678
+767,Jordan,2001,0.685
+768,Jordan,2002,0.692
+769,Jordan,2003,0.698
+770,Jordan,2004,0.709
+771,Jordan,2005,0.716
+772,Jordan,2006,0.722
+773,Jordan,2007,0.729
+774,Jordan,2008,0.734
+775,Jordan,2009,0.731
+776,Jordan,2010,0.725
+777,Jordan,2011,0.721
+778,Jordan,2012,0.721
+779,Jordan,2013,0.719
+780,Jordan,2014,0.719
+781,Jordan,2015,0.718
+782,Jordan,2016,0.718
+783,Jordan,2017,0.718
+784,Jordan,2018,0.723
+785,Jordan,2019,0.727
+786,Jordan,2020,0.723
+787,Jordan,2021,0.72
+788,Kenya,1990,0.474
+789,Kenya,1991,0.474
+790,Kenya,1992,0.473
+791,Kenya,1993,0.471
+792,Kenya,1994,0.473
+793,Kenya,1995,0.475
+794,Kenya,1996,0.477
+795,Kenya,1997,0.477
+796,Kenya,1998,0.479
+797,Kenya,1999,0.48
+798,Kenya,2000,0.481
+799,Kenya,2001,0.485
+800,Kenya,2002,0.485
+801,Kenya,2003,0.495
+802,Kenya,2004,0.508
+803,Kenya,2005,0.516
+804,Kenya,2006,0.525
+805,Kenya,2007,0.533
+806,Kenya,2008,0.539
+807,Kenya,2009,0.539
+808,Kenya,2010,0.545
+809,Kenya,2011,0.55
+810,Kenya,2012,0.552
+811,Kenya,2013,0.554
+812,Kenya,2014,0.558
+813,Kenya,2015,0.561
+814,Kenya,2016,0.569
+815,Kenya,2017,0.572
+816,Kenya,2018,0.577
+817,Kenya,2019,0.581
+818,Kenya,2020,0.578
+819,Kenya,2021,0.575
+820,Kiribati,2000,0.549
+821,Kiribati,2001,0.59
+822,Kiribati,2002,0.587
+823,Kiribati,2003,0.593
+824,Kiribati,2004,0.59
+825,Kiribati,2005,0.591
+826,Kiribati,2006,0.586
+827,Kiribati,2007,0.587
+828,Kiribati,2008,0.588
+829,Kiribati,2009,0.585
+830,Kiribati,2010,0.589
+831,Kiribati,2011,0.587
+832,Kiribati,2012,0.594
+833,Kiribati,2013,0.602
+834,Kiribati,2014,0.61
+835,Kiribati,2015,0.622
+836,Kiribati,2016,0.617
+837,Kiribati,2017,0.621
+838,Kiribati,2018,0.622
+839,Kiribati,2019,0.63
+840,Kiribati,2020,0.623
+841,Kiribati,2021,0.624
+842,Kuwait,1990,0.718
+843,Kuwait,1991,0.68
+844,Kuwait,1992,0.678
+845,Kuwait,1993,0.705
+846,Kuwait,1994,0.733
+847,Kuwait,1995,0.759
+848,Kuwait,1996,0.782
+849,Kuwait,1997,0.786
+850,Kuwait,1998,0.789
+851,Kuwait,1999,0.787
+852,Kuwait,2000,0.787
+853,Kuwait,2001,0.781
+854,Kuwait,2002,0.784
+855,Kuwait,2003,0.793
+856,Kuwait,2004,0.797
+857,Kuwait,2005,0.798
+858,Kuwait,2006,0.799
+859,Kuwait,2007,0.802
+860,Kuwait,2008,0.807
+861,Kuwait,2009,0.81
+862,Kuwait,2010,0.813
+863,Kuwait,2011,0.82
+864,Kuwait,2012,0.826
+865,Kuwait,2013,0.819
+866,Kuwait,2014,0.823
+867,Kuwait,2015,0.83
+868,Kuwait,2016,0.833
+869,Kuwait,2017,0.835
+870,Kuwait,2018,0.836
+871,Kuwait,2019,0.839
+872,Kuwait,2020,0.822
+873,Kuwait,2021,0.831
+874,Lesotho,1990,0.479
+875,Lesotho,1991,0.478
+876,Lesotho,1992,0.476
+877,Lesotho,1993,0.472
+878,Lesotho,1994,0.475
+879,Lesotho,1995,0.472
+880,Lesotho,1996,0.467
+881,Lesotho,1997,0.462
+882,Lesotho,1998,0.46
+883,Lesotho,1999,0.452
+884,Lesotho,2000,0.452
+885,Lesotho,2001,0.448
+886,Lesotho,2002,0.446
+887,Lesotho,2003,0.449
+888,Lesotho,2004,0.448
+889,Lesotho,2005,0.448
+890,Lesotho,2006,0.446
+891,Lesotho,2007,0.452
+892,Lesotho,2008,0.457
+893,Lesotho,2009,0.457
+894,Lesotho,2010,0.467
+895,Lesotho,2011,0.475
+896,Lesotho,2012,0.486
+897,Lesotho,2013,0.49
+898,Lesotho,2014,0.496
+899,Lesotho,2015,0.503
+900,Lesotho,2016,0.514
+901,Lesotho,2017,0.518
+902,Lesotho,2018,0.522
+903,Lesotho,2019,0.524
+904,Lesotho,2020,0.521
+905,Lesotho,2021,0.514
+906,Malawi,1990,0.303
+907,Malawi,1991,0.309
+908,Malawi,1992,0.319
+909,Malawi,1993,0.327
+910,Malawi,1994,0.326
+911,Malawi,1995,0.367
+912,Malawi,1996,0.368
+913,Malawi,1997,0.369
+914,Malawi,1998,0.369
+915,Malawi,1999,0.375
+916,Malawi,2000,0.374
+917,Malawi,2001,0.38
+918,Malawi,2002,0.386
+919,Malawi,2003,0.393
+920,Malawi,2004,0.4
+921,Malawi,2005,0.406
+922,Malawi,2006,0.415
+923,Malawi,2007,0.423
+924,Malawi,2008,0.433
+925,Malawi,2009,0.445
+926,Malawi,2010,0.456
+927,Malawi,2011,0.463
+928,Malawi,2012,0.47
+929,Malawi,2013,0.478
+930,Malawi,2014,0.487
+931,Malawi,2015,0.491
+932,Malawi,2016,0.498
+933,Malawi,2017,0.505
+934,Malawi,2018,0.51
+935,Malawi,2019,0.519
+936,Malawi,2020,0.516
+937,Malawi,2021,0.512
+938,Malaysia,1990,0.64
+939,Malaysia,1991,0.648
+940,Malaysia,1992,0.656
+941,Malaysia,1993,0.663
+942,Malaysia,1994,0.671
+943,Malaysia,1995,0.679
+944,Malaysia,1996,0.689
+945,Malaysia,1997,0.7
+946,Malaysia,1998,0.703
+947,Malaysia,1999,0.709
+948,Malaysia,2000,0.721
+949,Malaysia,2001,0.722
+950,Malaysia,2002,0.724
+951,Malaysia,2003,0.732
+952,Malaysia,2004,0.735
+953,Malaysia,2005,0.732
+954,Malaysia,2006,0.736
+955,Malaysia,2007,0.747
+956,Malaysia,2008,0.756
+957,Malaysia,2009,0.762
+958,Malaysia,2010,0.769
+959,Malaysia,2011,0.773
+960,Malaysia,2012,0.78
+961,Malaysia,2013,0.785
+962,Malaysia,2014,0.792
+963,Malaysia,2015,0.797
+964,Malaysia,2016,0.803
+965,Malaysia,2017,0.805
+966,Malaysia,2018,0.807
+967,Malaysia,2019,0.81
+968,Malaysia,2020,0.806
+969,Malaysia,2021,0.803
+970,Maldives,1995,0.582
+971,Maldives,1996,0.593
+972,Maldives,1997,0.6
+973,Maldives,1998,0.606
+974,Maldives,1999,0.619
+975,Maldives,2000,0.628
+976,Maldives,2001,0.633
+977,Maldives,2002,0.636
+978,Maldives,2003,0.65
+979,Maldives,2004,0.65
+980,Maldives,2005,0.649
+981,Maldives,2006,0.664
+982,Maldives,2007,0.665
+983,Maldives,2008,0.677
+984,Maldives,2009,0.68
+985,Maldives,2010,0.688
+986,Maldives,2011,0.7
+987,Maldives,2012,0.709
+988,Maldives,2013,0.718
+989,Maldives,2014,0.728
+990,Maldives,2015,0.736
+991,Maldives,2016,0.741
+992,Maldives,2017,0.746
+993,Maldives,2018,0.75
+994,Maldives,2019,0.755
+995,Maldives,2020,0.734
+996,Maldives,2021,0.747
+997,Malta,1990,0.73
+998,Malta,1991,0.733
+999,Malta,1992,0.737
+1000,Malta,1993,0.747
+1001,Malta,1994,0.751
+1002,Malta,1995,0.758
+1003,Malta,1996,0.756
+1004,Malta,1997,0.766
+1005,Malta,1998,0.776
+1006,Malta,1999,0.78
+1007,Malta,2000,0.779
+1008,Malta,2001,0.796
+1009,Malta,2002,0.8
+1010,Malta,2003,0.812
+1011,Malta,2004,0.825
+1012,Malta,2005,0.832
+1013,Malta,2006,0.831
+1014,Malta,2007,0.837
+1015,Malta,2008,0.841
+1016,Malta,2009,0.847
+1017,Malta,2010,0.861
+1018,Malta,2011,0.857
+1019,Malta,2012,0.864
+1020,Malta,2013,0.872
+1021,Malta,2014,0.881
+1022,Malta,2015,0.889
+1023,Malta,2016,0.891
+1024,Malta,2017,0.901
+1025,Malta,2018,0.91
+1026,Malta,2019,0.915
+1027,Malta,2020,0.911
+1028,Malta,2021,0.918
+1029,Mauritius,1990,0.626
+1030,Mauritius,1991,0.633
+1031,Mauritius,1992,0.639
+1032,Mauritius,1993,0.643
+1033,Mauritius,1994,0.646
+1034,Mauritius,1995,0.651
+1035,Mauritius,1996,0.654
+1036,Mauritius,1997,0.66
+1037,Mauritius,1998,0.667
+1038,Mauritius,1999,0.674
+1039,Mauritius,2000,0.681
+1040,Mauritius,2001,0.69
+1041,Mauritius,2002,0.694
+1042,Mauritius,2003,0.703
+1043,Mauritius,2004,0.71
+1044,Mauritius,2005,0.719
+1045,Mauritius,2006,0.726
+1046,Mauritius,2007,0.734
+1047,Mauritius,2008,0.741
+1048,Mauritius,2009,0.749
+1049,Mauritius,2010,0.755
+1050,Mauritius,2011,0.762
+1051,Mauritius,2012,0.775
+1052,Mauritius,2013,0.782
+1053,Mauritius,2014,0.793
+1054,Mauritius,2015,0.795
+1055,Mauritius,2016,0.801
+1056,Mauritius,2017,0.805
+1057,Mauritius,2018,0.811
+1058,Mauritius,2019,0.817
+1059,Mauritius,2020,0.804
+1060,Mauritius,2021,0.802
+1061,Myanmar,1990,0.333
+1062,Myanmar,1991,0.343
+1063,Myanmar,1992,0.356
+1064,Myanmar,1993,0.363
+1065,Myanmar,1994,0.369
+1066,Myanmar,1995,0.374
+1067,Myanmar,1996,0.381
+1068,Myanmar,1997,0.385
+1069,Myanmar,1998,0.392
+1070,Myanmar,1999,0.401
+1071,Myanmar,2000,0.41
+1072,Myanmar,2001,0.42
+1073,Myanmar,2002,0.43
+1074,Myanmar,2003,0.44
+1075,Myanmar,2004,0.45
+1076,Myanmar,2005,0.46
+1077,Myanmar,2006,0.47
+1078,Myanmar,2007,0.48
+1079,Myanmar,2008,0.465
+1080,Myanmar,2009,0.501
+1081,Myanmar,2010,0.51
+1082,Myanmar,2011,0.521
+1083,Myanmar,2012,0.531
+1084,Myanmar,2013,0.543
+1085,Myanmar,2014,0.553
+1086,Myanmar,2015,0.562
+1087,Myanmar,2016,0.572
+1088,Myanmar,2017,0.58
+1089,Myanmar,2018,0.59
+1090,Myanmar,2019,0.598
+1091,Myanmar,2020,0.6
+1092,Myanmar,2021,0.585
+1093,Namibia,1990,0.579
+1094,Namibia,1991,0.585
+1095,Namibia,1992,0.588
+1096,Namibia,1993,0.588
+1097,Namibia,1994,0.587
+1098,Namibia,1995,0.582
+1099,Namibia,1996,0.571
+1100,Namibia,1997,0.562
+1101,Namibia,1998,0.557
+1102,Namibia,1999,0.548
+1103,Namibia,2000,0.546
+1104,Namibia,2001,0.543
+1105,Namibia,2002,0.545
+1106,Namibia,2003,0.548
+1107,Namibia,2004,0.552
+1108,Namibia,2005,0.555
+1109,Namibia,2006,0.561
+1110,Namibia,2007,0.569
+1111,Namibia,2008,0.576
+1112,Namibia,2009,0.581
+1113,Namibia,2010,0.585
+1114,Namibia,2011,0.592
+1115,Namibia,2012,0.601
+1116,Namibia,2013,0.611
+1117,Namibia,2014,0.621
+1118,Namibia,2015,0.628
+1119,Namibia,2016,0.632
+1120,Namibia,2017,0.635
+1121,Namibia,2018,0.636
+1122,Namibia,2019,0.639
+1123,Namibia,2020,0.633
+1124,Namibia,2021,0.615
+1125,Nepal,1990,0.399
+1126,Nepal,1991,0.408
+1127,Nepal,1992,0.416
+1128,Nepal,1993,0.421
+1129,Nepal,1994,0.428
+1130,Nepal,1995,0.433
+1131,Nepal,1996,0.442
+1132,Nepal,1997,0.449
+1133,Nepal,1998,0.455
+1134,Nepal,1999,0.461
+1135,Nepal,2000,0.467
+1136,Nepal,2001,0.469
+1137,Nepal,2002,0.476
+1138,Nepal,2003,0.482
+1139,Nepal,2004,0.489
+1140,Nepal,2005,0.495
+1141,Nepal,2006,0.505
+1142,Nepal,2007,0.509
+1143,Nepal,2008,0.518
+1144,Nepal,2009,0.53
+1145,Nepal,2010,0.543
+1146,Nepal,2011,0.553
+1147,Nepal,2012,0.561
+1148,Nepal,2013,0.57
+1149,Nepal,2014,0.576
+1150,Nepal,2015,0.579
+1151,Nepal,2016,0.586
+1152,Nepal,2017,0.594
+1153,Nepal,2018,0.601
+1154,Nepal,2019,0.611
+1155,Nepal,2020,0.604
+1156,Nepal,2021,0.602
+1157,New Zealand,1990,0.806
+1158,New Zealand,1991,0.811
+1159,New Zealand,1992,0.818
+1160,New Zealand,1993,0.833
+1161,New Zealand,1994,0.846
+1162,New Zealand,1995,0.853
+1163,New Zealand,1996,0.857
+1164,New Zealand,1997,0.865
+1165,New Zealand,1998,0.874
+1166,New Zealand,1999,0.878
+1167,New Zealand,2000,0.887
+1168,New Zealand,2001,0.894
+1169,New Zealand,2002,0.897
+1170,New Zealand,2003,0.903
+1171,New Zealand,2004,0.906
+1172,New Zealand,2005,0.912
+1173,New Zealand,2006,0.913
+1174,New Zealand,2007,0.916
+1175,New Zealand,2008,0.915
+1176,New Zealand,2009,0.919
+1177,New Zealand,2010,0.922
+1178,New Zealand,2011,0.922
+1179,New Zealand,2012,0.924
+1180,New Zealand,2013,0.929
+1181,New Zealand,2014,0.93
+1182,New Zealand,2015,0.931
+1183,New Zealand,2016,0.934
+1184,New Zealand,2017,0.935
+1185,New Zealand,2018,0.936
+1186,New Zealand,2019,0.937
+1187,New Zealand,2020,0.936
+1188,New Zealand,2021,0.937
+1189,Nigeria,2003,0.45
+1190,Nigeria,2004,0.462
+1191,Nigeria,2005,0.469
+1192,Nigeria,2006,0.477
+1193,Nigeria,2007,0.48
+1194,Nigeria,2008,0.484
+1195,Nigeria,2009,0.484
+1196,Nigeria,2010,0.482
+1197,Nigeria,2011,0.492
+1198,Nigeria,2012,0.499
+1199,Nigeria,2013,0.506
+1200,Nigeria,2014,0.512
+1201,Nigeria,2015,0.516
+1202,Nigeria,2016,0.521
+1203,Nigeria,2017,0.526
+1204,Nigeria,2018,0.531
+1205,Nigeria,2019,0.538
+1206,Nigeria,2020,0.535
+1207,Nigeria,2021,0.535
+1208,Oman,2000,0.705
+1209,Oman,2001,0.716
+1210,Oman,2002,0.723
+1211,Oman,2003,0.731
+1212,Oman,2004,0.739
+1213,Oman,2005,0.745
+1214,Oman,2006,0.753
+1215,Oman,2007,0.762
+1216,Oman,2008,0.772
+1217,Oman,2009,0.783
+1218,Oman,2010,0.788
+1219,Oman,2011,0.793
+1220,Oman,2012,0.802
+1221,Oman,2013,0.809
+1222,Oman,2014,0.814
+1223,Oman,2015,0.823
+1224,Oman,2016,0.833
+1225,Oman,2017,0.831
+1226,Oman,2018,0.834
+1227,Oman,2019,0.839
+1228,Oman,2020,0.827
+1229,Oman,2021,0.816
+1230,Pakistan,1990,0.4
+1231,Pakistan,1991,0.404
+1232,Pakistan,1992,0.409
+1233,Pakistan,1993,0.41
+1234,Pakistan,1994,0.414
+1235,Pakistan,1995,0.417
+1236,Pakistan,1996,0.423
+1237,Pakistan,1997,0.425
+1238,Pakistan,1998,0.43
+1239,Pakistan,1999,0.435
+1240,Pakistan,2000,0.441
+1241,Pakistan,2001,0.448
+1242,Pakistan,2002,0.454
+1243,Pakistan,2003,0.462
+1244,Pakistan,2004,0.475
+1245,Pakistan,2005,0.484
+1246,Pakistan,2006,0.493
+1247,Pakistan,2007,0.499
+1248,Pakistan,2008,0.498
+1249,Pakistan,2009,0.502
+1250,Pakistan,2010,0.505
+1251,Pakistan,2011,0.508
+1252,Pakistan,2012,0.513
+1253,Pakistan,2013,0.518
+1254,Pakistan,2014,0.527
+1255,Pakistan,2015,0.534
+1256,Pakistan,2016,0.541
+1257,Pakistan,2017,0.543
+1258,Pakistan,2018,0.545
+1259,Pakistan,2019,0.546
+1260,Pakistan,2020,0.543
+1261,Pakistan,2021,0.544
+1262,Papua New Guinea,1990,0.37
+1263,Papua New Guinea,1991,0.38
+1264,Papua New Guinea,1992,0.391
+1265,Papua New Guinea,1993,0.405
+1266,Papua New Guinea,1994,0.419
+1267,Papua New Guinea,1995,0.423
+1268,Papua New Guinea,1996,0.43
+1269,Papua New Guinea,1997,0.432
+1270,Papua New Guinea,1998,0.435
+1271,Papua New Guinea,1999,0.444
+1272,Papua New Guinea,2000,0.447
+1273,Papua New Guinea,2001,0.451
+1274,Papua New Guinea,2002,0.455
+1275,Papua New Guinea,2003,0.461
+1276,Papua New Guinea,2004,0.461
+1277,Papua New Guinea,2005,0.466
+1278,Papua New Guinea,2006,0.469
+1279,Papua New Guinea,2007,0.478
+1280,Papua New Guinea,2008,0.484
+1281,Papua New Guinea,2009,0.49
+1282,Papua New Guinea,2010,0.499
+1283,Papua New Guinea,2011,0.504
+1284,Papua New Guinea,2012,0.513
+1285,Papua New Guinea,2013,0.518
+1286,Papua New Guinea,2014,0.533
+1287,Papua New Guinea,2015,0.541
+1288,Papua New Guinea,2016,0.547
+1289,Papua New Guinea,2017,0.552
+1290,Papua New Guinea,2018,0.554
+1291,Papua New Guinea,2019,0.56
+1292,Papua New Guinea,2020,0.56
+1293,Papua New Guinea,2021,0.558
+1294,Qatar,1990,0.758
+1295,Qatar,1991,0.754
+1296,Qatar,1992,0.756
+1297,Qatar,1993,0.763
+1298,Qatar,1994,0.77
+1299,Qatar,1995,0.775
+1300,Qatar,1996,0.782
+1301,Qatar,1997,0.795
+1302,Qatar,1998,0.799
+1303,Qatar,1999,0.802
+1304,Qatar,2000,0.801
+1305,Qatar,2001,0.803
+1306,Qatar,2002,0.809
+1307,Qatar,2003,0.819
+1308,Qatar,2004,0.822
+1309,Qatar,2005,0.827
+1310,Qatar,2006,0.825
+1311,Qatar,2007,0.834
+1312,Qatar,2008,0.84
+1313,Qatar,2009,0.838
+1314,Qatar,2010,0.834
+1315,Qatar,2011,0.844
+1316,Qatar,2012,0.829
+1317,Qatar,2013,0.834
+1318,Qatar,2014,0.839
+1319,Qatar,2015,0.846
+1320,Qatar,2016,0.85
+1321,Qatar,2017,0.849
+1322,Qatar,2018,0.853
+1323,Qatar,2019,0.859
+1324,Qatar,2020,0.854
+1325,Qatar,2021,0.855
+1326,Saint Lucia,1990,0.69
+1327,Saint Lucia,1991,0.691
+1328,Saint Lucia,1992,0.695
+1329,Saint Lucia,1993,0.695
+1330,Saint Lucia,1994,0.695
+1331,Saint Lucia,1995,0.694
+1332,Saint Lucia,1996,0.696
+1333,Saint Lucia,1997,0.695
+1334,Saint Lucia,1998,0.697
+1335,Saint Lucia,1999,0.698
+1336,Saint Lucia,2000,0.698
+1337,Saint Lucia,2001,0.697
+1338,Saint Lucia,2002,0.699
+1339,Saint Lucia,2003,0.701
+1340,Saint Lucia,2004,0.704
+1341,Saint Lucia,2005,0.709
+1342,Saint Lucia,2006,0.718
+1343,Saint Lucia,2007,0.718
+1344,Saint Lucia,2008,0.723
+1345,Saint Lucia,2009,0.725
+1346,Saint Lucia,2010,0.728
+1347,Saint Lucia,2011,0.734
+1348,Saint Lucia,2012,0.734
+1349,Saint Lucia,2013,0.734
+1350,Saint Lucia,2014,0.735
+1351,Saint Lucia,2015,0.737
+1352,Saint Lucia,2016,0.744
+1353,Saint Lucia,2017,0.744
+1354,Saint Lucia,2018,0.746
+1355,Saint Lucia,2019,0.735
+1356,Saint Lucia,2020,0.723
+1357,Saint Lucia,2021,0.715
+1358,Saint Vincent and the Grenadines,2000,0.683
+1359,Saint Vincent and the Grenadines,2001,0.689
+1360,Saint Vincent and the Grenadines,2002,0.695
+1361,Saint Vincent and the Grenadines,2003,0.702
+1362,Saint Vincent and the Grenadines,2004,0.708
+1363,Saint Vincent and the Grenadines,2005,0.713
+1364,Saint Vincent and the Grenadines,2006,0.722
+1365,Saint Vincent and the Grenadines,2007,0.73
+1366,Saint Vincent and the Grenadines,2008,0.734
+1367,Saint Vincent and the Grenadines,2009,0.736
+1368,Saint Vincent and the Grenadines,2010,0.734
+1369,Saint Vincent and the Grenadines,2011,0.736
+1370,Saint Vincent and the Grenadines,2012,0.737
+1371,Saint Vincent and the Grenadines,2013,0.743
+1372,Saint Vincent and the Grenadines,2014,0.752
+1373,Saint Vincent and the Grenadines,2015,0.759
+1374,Saint Vincent and the Grenadines,2016,0.765
+1375,Saint Vincent and the Grenadines,2017,0.774
+1376,Saint Vincent and the Grenadines,2018,0.775
+1377,Saint Vincent and the Grenadines,2019,0.769
+1378,Saint Vincent and the Grenadines,2020,0.764
+1379,Saint Vincent and the Grenadines,2021,0.751
+1380,Seychelles,2000,0.744
+1381,Seychelles,2001,0.741
+1382,Seychelles,2002,0.742
+1383,Seychelles,2003,0.746
+1384,Seychelles,2004,0.747
+1385,Seychelles,2005,0.762
+1386,Seychelles,2006,0.753
+1387,Seychelles,2007,0.77
+1388,Seychelles,2008,0.771
+1389,Seychelles,2009,0.77
+1390,Seychelles,2010,0.776
+1391,Seychelles,2011,0.766
+1392,Seychelles,2012,0.786
+1393,Seychelles,2013,0.787
+1394,Seychelles,2014,0.796
+1395,Seychelles,2015,0.796
+1396,Seychelles,2016,0.796
+1397,Seychelles,2017,0.796
+1398,Seychelles,2018,0.8
+1399,Seychelles,2019,0.802
+1400,Seychelles,2020,0.793
+1401,Seychelles,2021,0.785
+1402,Sierra Leone,1990,0.312
+1403,Sierra Leone,1991,0.305
+1404,Sierra Leone,1992,0.305
+1405,Sierra Leone,1993,0.312
+1406,Sierra Leone,1994,0.312
+1407,Sierra Leone,1995,0.314
+1408,Sierra Leone,1996,0.312
+1409,Sierra Leone,1997,0.307
+1410,Sierra Leone,1998,0.305
+1411,Sierra Leone,1999,0.301
+1412,Sierra Leone,2000,0.318
+1413,Sierra Leone,2001,0.331
+1414,Sierra Leone,2002,0.347
+1415,Sierra Leone,2003,0.357
+1416,Sierra Leone,2004,0.364
+1417,Sierra Leone,2005,0.372
+1418,Sierra Leone,2006,0.382
+1419,Sierra Leone,2007,0.397
+1420,Sierra Leone,2008,0.409
+1421,Sierra Leone,2009,0.42
+1422,Sierra Leone,2010,0.427
+1423,Sierra Leone,2011,0.433
+1424,Sierra Leone,2012,0.447
+1425,Sierra Leone,2013,0.459
+1426,Sierra Leone,2014,0.461
+1427,Sierra Leone,2015,0.453
+1428,Sierra Leone,2016,0.457
+1429,Sierra Leone,2017,0.466
+1430,Sierra Leone,2018,0.47
+1431,Sierra Leone,2019,0.48
+1432,Sierra Leone,2020,0.475
+1433,Sierra Leone,2021,0.477
+1434,Singapore,1990,0.727
+1435,Singapore,1991,0.737
+1436,Singapore,1992,0.748
+1437,Singapore,1993,0.758
+1438,Singapore,1994,0.77
+1439,Singapore,1995,0.779
+1440,Singapore,1996,0.789
+1441,Singapore,1997,0.802
+1442,Singapore,1998,0.81
+1443,Singapore,1999,0.82
+1444,Singapore,2000,0.831
+1445,Singapore,2001,0.833
+1446,Singapore,2002,0.84
+1447,Singapore,2003,0.845
+1448,Singapore,2004,0.851
+1449,Singapore,2005,0.875
+1450,Singapore,2006,0.881
+1451,Singapore,2007,0.887
+1452,Singapore,2008,0.892
+1453,Singapore,2009,0.892
+1454,Singapore,2010,0.91
+1455,Singapore,2011,0.915
+1456,Singapore,2012,0.92
+1457,Singapore,2013,0.923
+1458,Singapore,2014,0.928
+1459,Singapore,2015,0.93
+1460,Singapore,2016,0.934
+1461,Singapore,2017,0.935
+1462,Singapore,2018,0.94
+1463,Singapore,2019,0.943
+1464,Singapore,2020,0.939
+1465,Singapore,2021,0.939
+1466,Solomon Islands,1999,0.499
+1467,Solomon Islands,2000,0.486
+1468,Solomon Islands,2001,0.49
+1469,Solomon Islands,2002,0.496
+1470,Solomon Islands,2003,0.501
+1471,Solomon Islands,2004,0.507
+1472,Solomon Islands,2005,0.512
+1473,Solomon Islands,2006,0.52
+1474,Solomon Islands,2007,0.523
+1475,Solomon Islands,2008,0.531
+1476,Solomon Islands,2009,0.538
+1477,Solomon Islands,2010,0.55
+1478,Solomon Islands,2011,0.553
+1479,Solomon Islands,2012,0.554
+1480,Solomon Islands,2013,0.559
+1481,Solomon Islands,2014,0.558
+1482,Solomon Islands,2015,0.559
+1483,Solomon Islands,2016,0.56
+1484,Solomon Islands,2017,0.564
+1485,Solomon Islands,2018,0.566
+1486,Solomon Islands,2019,0.567
+1487,Solomon Islands,2020,0.565
+1488,Solomon Islands,2021,0.564
+1489,South Africa,1990,0.632
+1490,South Africa,1991,0.641
+1491,South Africa,1992,0.647
+1492,South Africa,1993,0.652
+1493,South Africa,1994,0.658
+1494,South Africa,1995,0.661
+1495,South Africa,1996,0.656
+1496,South Africa,1997,0.651
+1497,South Africa,1998,0.644
+1498,South Africa,1999,0.638
+1499,South Africa,2000,0.633
+1500,South Africa,2001,0.629
+1501,South Africa,2002,0.633
+1502,South Africa,2003,0.629
+1503,South Africa,2004,0.63
+1504,South Africa,2005,0.632
+1505,South Africa,2006,0.637
+1506,South Africa,2007,0.644
+1507,South Africa,2008,0.653
+1508,South Africa,2009,0.665
+1509,South Africa,2010,0.675
+1510,South Africa,2011,0.686
+1511,South Africa,2012,0.696
+1512,South Africa,2013,0.704
+1513,South Africa,2014,0.712
+1514,South Africa,2015,0.716
+1515,South Africa,2016,0.719
+1516,South Africa,2017,0.72
+1517,South Africa,2018,0.726
+1518,South Africa,2019,0.736
+1519,South Africa,2020,0.727
+1520,South Africa,2021,0.713
+1521,South Sudan,2010,0.43
+1522,South Sudan,2011,0.433
+1523,South Sudan,2012,0.397
+1524,South Sudan,2013,0.411
+1525,South Sudan,2014,0.41
+1526,South Sudan,2015,0.412
+1527,South Sudan,2016,0.402
+1528,South Sudan,2017,0.395
+1529,South Sudan,2018,0.395
+1530,South Sudan,2019,0.393
+1531,South Sudan,2020,0.386
+1532,South Sudan,2021,0.385
+1533,Sri Lanka,1990,0.636
+1534,Sri Lanka,1991,0.641
+1535,Sri Lanka,1992,0.65
+1536,Sri Lanka,1993,0.658
+1537,Sri Lanka,1994,0.663
+1538,Sri Lanka,1995,0.666
+1539,Sri Lanka,1996,0.672
+1540,Sri Lanka,1997,0.678
+1541,Sri Lanka,1998,0.683
+1542,Sri Lanka,1999,0.691
+1543,Sri Lanka,2000,0.688
+1544,Sri Lanka,2001,0.69
+1545,Sri Lanka,2002,0.694
+1546,Sri Lanka,2003,0.699
+1547,Sri Lanka,2004,0.683
+1548,Sri Lanka,2005,0.71
+1549,Sri Lanka,2006,0.714
+1550,Sri Lanka,2007,0.719
+1551,Sri Lanka,2008,0.721
+1552,Sri Lanka,2009,0.713
+1553,Sri Lanka,2010,0.737
+1554,Sri Lanka,2011,0.744
+1555,Sri Lanka,2012,0.751
+1556,Sri Lanka,2013,0.756
+1557,Sri Lanka,2014,0.76
+1558,Sri Lanka,2015,0.764
+1559,Sri Lanka,2016,0.767
+1560,Sri Lanka,2017,0.771
+1561,Sri Lanka,2018,0.776
+1562,Sri Lanka,2019,0.778
+1563,Sri Lanka,2020,0.78
+1564,Sri Lanka,2021,0.782
+1565,Sudan,1990,0.336
+1566,Sudan,1991,0.342
+1567,Sudan,1992,0.331
+1568,Sudan,1993,0.34
+1569,Sudan,1994,0.383
+1570,Sudan,1995,0.371
+1571,Sudan,1996,0.379
+1572,Sudan,1997,0.388
+1573,Sudan,1998,0.376
+1574,Sudan,1999,0.413
+1575,Sudan,2000,0.424
+1576,Sudan,2001,0.431
+1577,Sudan,2002,0.436
+1578,Sudan,2003,0.439
+1579,Sudan,2004,0.441
+1580,Sudan,2005,0.448
+1581,Sudan,2006,0.465
+1582,Sudan,2007,0.47
+1583,Sudan,2008,0.478
+1584,Sudan,2009,0.486
+1585,Sudan,2010,0.486
+1586,Sudan,2011,0.487
+1587,Sudan,2012,0.493
+1588,Sudan,2013,0.497
+1589,Sudan,2014,0.504
+1590,Sudan,2015,0.508
+1591,Sudan,2016,0.511
+1592,Sudan,2017,0.514
+1593,Sudan,2018,0.514
+1594,Sudan,2019,0.514
+1595,Sudan,2020,0.51
+1596,Sudan,2021,0.508
+1597,United Republic of Tanzania,1990,0.371
+1598,United Republic of Tanzania,1991,0.371
+1599,United Republic of Tanzania,1992,0.369
+1600,United Republic of Tanzania,1993,0.369
+1601,United Republic of Tanzania,1994,0.369
+1602,United Republic of Tanzania,1995,0.37
+1603,United Republic of Tanzania,1996,0.372
+1604,United Republic of Tanzania,1997,0.373
+1605,United Republic of Tanzania,1998,0.38
+1606,United Republic of Tanzania,1999,0.39
+1607,United Republic of Tanzania,2000,0.398
+1608,United Republic of Tanzania,2001,0.406
+1609,United Republic of Tanzania,2002,0.416
+1610,United Republic of Tanzania,2003,0.426
+1611,United Republic of Tanzania,2004,0.436
+1612,United Republic of Tanzania,2005,0.446
+1613,United Republic of Tanzania,2006,0.456
+1614,United Republic of Tanzania,2007,0.465
+1615,United Republic of Tanzania,2008,0.473
+1616,United Republic of Tanzania,2009,0.482
+1617,United Republic of Tanzania,2010,0.493
+1618,United Republic of Tanzania,2011,0.499
+1619,United Republic of Tanzania,2012,0.504
+1620,United Republic of Tanzania,2013,0.51
+1621,United Republic of Tanzania,2014,0.515
+1622,United Republic of Tanzania,2015,0.52
+1623,United Republic of Tanzania,2016,0.524
+1624,United Republic of Tanzania,2017,0.528
+1625,United Republic of Tanzania,2018,0.538
+1626,United Republic of Tanzania,2019,0.548
+1627,United Republic of Tanzania,2020,0.548
+1628,United Republic of Tanzania,2021,0.549
+1629,Tonga,1990,0.645
+1630,Tonga,1991,0.652
+1631,Tonga,1992,0.656
+1632,Tonga,1993,0.663
+1633,Tonga,1994,0.672
+1634,Tonga,1995,0.676
+1635,Tonga,1996,0.678
+1636,Tonga,1997,0.68
+1637,Tonga,1998,0.685
+1638,Tonga,1999,0.688
+1639,Tonga,2000,0.685
+1640,Tonga,2001,0.688
+1641,Tonga,2002,0.694
+1642,Tonga,2003,0.701
+1643,Tonga,2004,0.702
+1644,Tonga,2005,0.702
+1645,Tonga,2006,0.703
+1646,Tonga,2007,0.704
+1647,Tonga,2008,0.709
+1648,Tonga,2009,0.708
+1649,Tonga,2010,0.713
+1650,Tonga,2011,0.72
+1651,Tonga,2012,0.723
+1652,Tonga,2013,0.725
+1653,Tonga,2014,0.727
+1654,Tonga,2015,0.73
+1655,Tonga,2016,0.735
+1656,Tonga,2017,0.74
+1657,Tonga,2018,0.742
+1658,Tonga,2019,0.744
+1659,Tonga,2020,0.745
+1660,Tonga,2021,0.745
+1661,Trinidad and Tobago,1990,0.66
+1662,Trinidad and Tobago,1991,0.665
+1663,Trinidad and Tobago,1992,0.663
+1664,Trinidad and Tobago,1993,0.667
+1665,Trinidad and Tobago,1994,0.67
+1666,Trinidad and Tobago,1995,0.678
+1667,Trinidad and Tobago,1996,0.684
+1668,Trinidad and Tobago,1997,0.69
+1669,Trinidad and Tobago,1998,0.7
+1670,Trinidad and Tobago,1999,0.703
+1671,Trinidad and Tobago,2000,0.712
+1672,Trinidad and Tobago,2001,0.721
+1673,Trinidad and Tobago,2002,0.732
+1674,Trinidad and Tobago,2003,0.737
+1675,Trinidad and Tobago,2004,0.752
+1676,Trinidad and Tobago,2005,0.758
+1677,Trinidad and Tobago,2006,0.767
+1678,Trinidad and Tobago,2007,0.773
+1679,Trinidad and Tobago,2008,0.777
+1680,Trinidad and Tobago,2009,0.787
+1681,Trinidad and Tobago,2010,0.79
+1682,Trinidad and Tobago,2011,0.794
+1683,Trinidad and Tobago,2012,0.8
+1684,Trinidad and Tobago,2013,0.806
+1685,Trinidad and Tobago,2014,0.809
+1686,Trinidad and Tobago,2015,0.816
+1687,Trinidad and Tobago,2016,0.815
+1688,Trinidad and Tobago,2017,0.817
+1689,Trinidad and Tobago,2018,0.815
+1690,Trinidad and Tobago,2019,0.821
+1691,Trinidad and Tobago,2020,0.818
+1692,Trinidad and Tobago,2021,0.81
+1693,Tuvalu,1990,0.559
+1694,Tuvalu,1991,0.562
+1695,Tuvalu,1992,0.558
+1696,Tuvalu,1993,0.57
+1697,Tuvalu,1994,0.577
+1698,Tuvalu,1995,0.575
+1699,Tuvalu,1996,0.573
+1700,Tuvalu,1997,0.579
+1701,Tuvalu,1998,0.589
+1702,Tuvalu,1999,0.592
+1703,Tuvalu,2000,0.597
+1704,Tuvalu,2001,0.61
+1705,Tuvalu,2002,0.62
+1706,Tuvalu,2003,0.605
+1707,Tuvalu,2004,0.61
+1708,Tuvalu,2005,0.61
+1709,Tuvalu,2006,0.611
+1710,Tuvalu,2007,0.613
+1711,Tuvalu,2008,0.618
+1712,Tuvalu,2009,0.615
+1713,Tuvalu,2010,0.616
+1714,Tuvalu,2011,0.616
+1715,Tuvalu,2012,0.624
+1716,Tuvalu,2013,0.628
+1717,Tuvalu,2014,0.627
+1718,Tuvalu,2015,0.643
+1719,Tuvalu,2016,0.636
+1720,Tuvalu,2017,0.634
+1721,Tuvalu,2018,0.642
+1722,Tuvalu,2019,0.635
+1723,Tuvalu,2020,0.639
+1724,Tuvalu,2021,0.641
+1725,Uganda,1990,0.329
+1726,Uganda,1991,0.331
+1727,Uganda,1992,0.325
+1728,Uganda,1993,0.332
+1729,Uganda,1994,0.336
+1730,Uganda,1995,0.342
+1731,Uganda,1996,0.354
+1732,Uganda,1997,0.364
+1733,Uganda,1998,0.373
+1734,Uganda,1999,0.385
+1735,Uganda,2000,0.394
+1736,Uganda,2001,0.404
+1737,Uganda,2002,0.417
+1738,Uganda,2003,0.429
+1739,Uganda,2004,0.444
+1740,Uganda,2005,0.454
+1741,Uganda,2006,0.466
+1742,Uganda,2007,0.476
+1743,Uganda,2008,0.484
+1744,Uganda,2009,0.494
+1745,Uganda,2010,0.502
+1746,Uganda,2011,0.506
+1747,Uganda,2012,0.504
+1748,Uganda,2013,0.509
+1749,Uganda,2014,0.512
+1750,Uganda,2015,0.517
+1751,Uganda,2016,0.519
+1752,Uganda,2017,0.52
+1753,Uganda,2018,0.522
+1754,Uganda,2019,0.525
+1755,Uganda,2020,0.524
+1756,Uganda,2021,0.525
+1757,United Arab Emirates,1990,0.728
+1758,United Arab Emirates,1991,0.739
+1759,United Arab Emirates,1992,0.742
+1760,United Arab Emirates,1993,0.748
+1761,United Arab Emirates,1994,0.755
+1762,United Arab Emirates,1995,0.762
+1763,United Arab Emirates,1996,0.767
+1764,United Arab Emirates,1997,0.773
+1765,United Arab Emirates,1998,0.779
+1766,United Arab Emirates,1999,0.787
+1767,United Arab Emirates,2000,0.796
+1768,United Arab Emirates,2001,0.8
+1769,United Arab Emirates,2002,0.804
+1770,United Arab Emirates,2003,0.814
+1771,United Arab Emirates,2004,0.818
+1772,United Arab Emirates,2005,0.822
+1773,United Arab Emirates,2006,0.827
+1774,United Arab Emirates,2007,0.831
+1775,United Arab Emirates,2008,0.834
+1776,United Arab Emirates,2009,0.833
+1777,United Arab Emirates,2010,0.835
+1778,United Arab Emirates,2011,0.84
+1779,United Arab Emirates,2012,0.846
+1780,United Arab Emirates,2013,0.852
+1781,United Arab Emirates,2014,0.859
+1782,United Arab Emirates,2015,0.865
+1783,United Arab Emirates,2016,0.87
+1784,United Arab Emirates,2017,0.897
+1785,United Arab Emirates,2018,0.909
+1786,United Arab Emirates,2019,0.92
+1787,United Arab Emirates,2020,0.912
+1788,United Arab Emirates,2021,0.911
+1789,United Kingdom,1990,0.804
+1790,United Kingdom,1991,0.809
+1791,United Kingdom,1992,0.816
+1792,United Kingdom,1993,0.82
+1793,United Kingdom,1994,0.828
+1794,United Kingdom,1995,0.828
+1795,United Kingdom,1996,0.834
+1796,United Kingdom,1997,0.842
+1797,United Kingdom,1998,0.848
+1798,United Kingdom,1999,0.855
+1799,United Kingdom,2000,0.862
+1800,United Kingdom,2001,0.868
+1801,United Kingdom,2002,0.873
+1802,United Kingdom,2003,0.878
+1803,United Kingdom,2004,0.889
+1804,United Kingdom,2005,0.895
+1805,United Kingdom,2006,0.894
+1806,United Kingdom,2007,0.897
+1807,United Kingdom,2008,0.9
+1808,United Kingdom,2009,0.906
+1809,United Kingdom,2010,0.912
+1810,United Kingdom,2011,0.908
+1811,United Kingdom,2012,0.909
+1812,United Kingdom,2013,0.922
+1813,United Kingdom,2014,0.924
+1814,United Kingdom,2015,0.924
+1815,United Kingdom,2016,0.927
+1816,United Kingdom,2017,0.93
+1817,United Kingdom,2018,0.929
+1818,United Kingdom,2019,0.935
+1819,United Kingdom,2020,0.924
+1820,United Kingdom,2021,0.929
+1821,United States of America,1990,0.872
+1822,United States of America,1991,0.873
+1823,United States of America,1992,0.878
+1824,United States of America,1993,0.88
+1825,United States of America,1994,0.884
+1826,United States of America,1995,0.885
+1827,United States of America,1996,0.887
+1828,United States of America,1997,0.89
+1829,United States of America,1998,0.893
+1830,United States of America,1999,0.889
+1831,United States of America,2000,0.891
+1832,United States of America,2001,0.892
+1833,United States of America,2002,0.893
+1834,United States of America,2003,0.895
+1835,United States of America,2004,0.898
+1836,United States of America,2005,0.9
+1837,United States of America,2006,0.904
+1838,United States of America,2007,0.906
+1839,United States of America,2008,0.906
+1840,United States of America,2009,0.908
+1841,United States of America,2010,0.911
+1842,United States of America,2011,0.913
+1843,United States of America,2012,0.916
+1844,United States of America,2013,0.917
+1845,United States of America,2014,0.919
+1846,United States of America,2015,0.92
+1847,United States of America,2016,0.922
+1848,United States of America,2017,0.924
+1849,United States of America,2018,0.927
+1850,United States of America,2019,0.93
+1851,United States of America,2020,0.92
+1852,United States of America,2021,0.921
+1853,Vanuatu,2005,0.578
+1854,Vanuatu,2006,0.584
+1855,Vanuatu,2007,0.585
+1856,Vanuatu,2008,0.591
+1857,Vanuatu,2009,0.591
+1858,Vanuatu,2010,0.591
+1859,Vanuatu,2011,0.593
+1860,Vanuatu,2012,0.59
+1861,Vanuatu,2013,0.593
+1862,Vanuatu,2014,0.595
+1863,Vanuatu,2015,0.595
+1864,Vanuatu,2016,0.596
+1865,Vanuatu,2017,0.599
+1866,Vanuatu,2018,0.603
+1867,Vanuatu,2019,0.611
+1868,Vanuatu,2020,0.608
+1869,Vanuatu,2021,0.607
+1870,Yemen,1990,0.383
+1871,Yemen,1991,0.386
+1872,Yemen,1992,0.391
+1873,Yemen,1993,0.397
+1874,Yemen,1994,0.399
+1875,Yemen,1995,0.409
+1876,Yemen,1996,0.419
+1877,Yemen,1997,0.427
+1878,Yemen,1998,0.435
+1879,Yemen,1999,0.441
+1880,Yemen,2000,0.45
+1881,Yemen,2001,0.46
+1882,Yemen,2002,0.468
+1883,Yemen,2003,0.476
+1884,Yemen,2004,0.483
+1885,Yemen,2005,0.489
+1886,Yemen,2006,0.494
+1887,Yemen,2007,0.498
+1888,Yemen,2008,0.501
+1889,Yemen,2009,0.506
+1890,Yemen,2010,0.51
+1891,Yemen,2011,0.509
+1892,Yemen,2012,0.512
+1893,Yemen,2013,0.513
+1894,Yemen,2014,0.505
+1895,Yemen,2015,0.477
+1896,Yemen,2016,0.467
+1897,Yemen,2017,0.459
+1898,Yemen,2018,0.459
+1899,Yemen,2019,0.461
+1900,Yemen,2020,0.46
+1901,Yemen,2021,0.455
+1902,Zambia,1990,0.412
+1903,Zambia,1991,0.408
+1904,Zambia,1992,0.408
+1905,Zambia,1993,0.414
+1906,Zambia,1994,0.411
+1907,Zambia,1995,0.413
+1908,Zambia,1996,0.414
+1909,Zambia,1997,0.413
+1910,Zambia,1998,0.411
+1911,Zambia,1999,0.413
+1912,Zambia,2000,0.418
+1913,Zambia,2001,0.425
+1914,Zambia,2002,0.434
+1915,Zambia,2003,0.448
+1916,Zambia,2004,0.459
+1917,Zambia,2005,0.472
+1918,Zambia,2006,0.484
+1919,Zambia,2007,0.495
+1920,Zambia,2008,0.506
+1921,Zambia,2009,0.519
+1922,Zambia,2010,0.529
+1923,Zambia,2011,0.534
+1924,Zambia,2012,0.548
+1925,Zambia,2013,0.554
+1926,Zambia,2014,0.557
+1927,Zambia,2015,0.562
+1928,Zambia,2016,0.564
+1929,Zambia,2017,0.568
+1930,Zambia,2018,0.572
+1931,Zambia,2019,0.575
+1932,Zambia,2020,0.57
+1933,Zambia,2021,0.565
+1934,Zimbabwe,1990,0.509
+1935,Zimbabwe,1991,0.512
+1936,Zimbabwe,1992,0.498
+1937,Zimbabwe,1993,0.491
+1938,Zimbabwe,1994,0.486
+1939,Zimbabwe,1995,0.477
+1940,Zimbabwe,1996,0.476
+1941,Zimbabwe,1997,0.472
+1942,Zimbabwe,1998,0.466
+1943,Zimbabwe,1999,0.457
+1944,Zimbabwe,2000,0.452
+1945,Zimbabwe,2001,0.441
+1946,Zimbabwe,2002,0.452
+1947,Zimbabwe,2003,0.439
+1948,Zimbabwe,2004,0.446
+1949,Zimbabwe,2005,0.448
+1950,Zimbabwe,2006,0.452
+1951,Zimbabwe,2007,0.454
+1952,Zimbabwe,2008,0.454
+1953,Zimbabwe,2009,0.486
+1954,Zimbabwe,2010,0.512
+1955,Zimbabwe,2011,0.535
+1956,Zimbabwe,2012,0.557
+1957,Zimbabwe,2013,0.567
+1958,Zimbabwe,2014,0.576
+1959,Zimbabwe,2015,0.582
+1960,Zimbabwe,2016,0.588
+1961,Zimbabwe,2017,0.594
+1962,Zimbabwe,2018,0.602
+1963,Zimbabwe,2019,0.601
+1964,Zimbabwe,2020,0.6
+1965,Zimbabwe,2021,0.593
