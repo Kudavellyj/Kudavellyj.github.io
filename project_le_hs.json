@@ -1,96 +1,99 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-      "text": "Regressing Health Expenditure against Life Expectancy",
-      "subtitle": [
-        "Scatter of Current Health Expenditure (% of GDP) vs Life Expectancy (at birth).",
-        "Data from UK and Selected Former Colonies (2000 - 2019)",
-         "Source: World Bank"
-      ],
-      "subtitleFontStyle": "italic",
-      "subtitleFontSize": 10,
-      "anchor": "start",
-      "color": "darkblue"
-    },
-    "height": 350,
-    "width": 400,
-    "config": {"background": "white", "view": {"stroke": "transparent"}},
-    "data": {
-      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/chart3_my_combined_data.csv",
-      "format": {"type": "csv"}
-    },
-    "layer": [
-      {
-        "mark": {"type": "circle", "color": "blueviolet", "opacity": 1},
-        "encoding": {
-          "x": {
-            "field": "value_right",
-            "type": "quantitative",
-            "title": "Health Expenditure (% of GDP)"
-          },
-          "y": {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Regressing Health Expenditure against Life Expectancy",
+    "subtitle": [
+      "Scatter of Current Health Expenditure (% of GDP) vs Life Expectancy (at birth).",
+      "Data from UK and Selected Former Colonies (2000 - 2019)",
+      "Source: World Bank"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "darkblue"
+  },
+  "height": 350,
+  "width": 400,
+  "config": {"background": "white", "view": {"stroke": "transparent"}},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_combined_lehs.csv",
+    "format": {"type": "csv"}
+  },
+
+  "transform": [{"filter": "datum.date==Year"}],
+  "params": [
+    {
+      "name": "Year",
+      "value": 2000,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2019,
+        "step": 1,
+        "name": "Select a Year:"
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": {"type": "circle", "color": "blueviolet", "opacity": 1, "size": 150 },
+      "encoding": {
+        "x": {
+          "field": "value_right",
+          "type": "quantitative",
+          "title": "Health Expenditure (% of GDP)"
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": "Life Expectancy (at birth)",
+          "scale": {"domain": [0, 90]}
+        },
+        "color": {
+          "field": "country",
+          "type": "nominal",
+          "title": "Country:",
+          "scale": {"scheme": "yellowgreenblue"}
+        },
+        "tooltip": [
+          {"field": "country", "type": "ordinal", "title": "Country"},
+          {
             "field": "value",
             "type": "quantitative",
-            "title": "Life Expectancy (at birth)"
+            "title": "Life Expectancy (at birth)",
+            "format": ".0f"
           },
-          "color": {
-        "field": "country",
-        "type": "nominal",
-        "title": "Country:",
-        "scale": {"scheme": "yellowgreenblue"}
-      },
-          "tooltip": [
-            {"field": "country", "type": "ordinal", "title": "Country"},
-            {
-              "field": "value",
-              "type": "quantitative",
-              "title": "Life Expectancy (at birth)",
-              "format": ".0f"
-            },
-            {
-              "field": "value_right",
-              "type": "quantitative",
-              "title": "Health Expenditure (% of GDP)",
-              "format": ".2f"
-            },
-             {
-              "field": "date",
-              "type": "quantitative",
-              "title": "Year"
-            }
-          
-          ]
-        }
-      },
-      {
-        "mark": {"type": "line", "color": "red"},
-        "transform": [
-          {"regression": "value", "on": "value_right"}
-        ],
-        "encoding": {
-          "x": {"field": "value_right", "type": "quantitative"},
-          "y": {"field": "value", "type": "quantitative"}
-          
-        }
-  
-      },
-      {
-        "transform": [
           {
-            "regression": "value",
-            "on": "value_right",
-            "params": true
+            "field": "value_right",
+            "type": "quantitative",
+            "title": "Health Expenditure (% of GDP)",
+            "format": ".2f"
           },
-          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
-        ],
-        "mark": {
-          "type": "text",
-          "color": "firebrick",
-          "x": "width",
-          "align": "right",
-          "y": -4
-        },
-        "encoding": {"text": {"type": "ordinal", "field": "R2"}}
+          {"field": "date", "type": "quantitative", "title": "Year"}
+        ]
       }
-    ]
-  }
+    },
+    {
+      "mark": {"type": "line", "color": "red"},
+      "transform": [{"regression": "value", "on": "value_right"}],
+      "encoding": {
+        "x": {"field": "value_right", "type": "quantitative"},
+        "y": {"field": "value", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {"regression": "value", "on": "value_right", "params": true},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "firebrick",
+        "x": "width",
+        "align": "right",
+        "y": -10
+      },
+      "encoding": {"text": {"type": "ordinal", "field": "R2"}}
+    }
+  ]
+}
