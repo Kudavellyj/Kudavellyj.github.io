@@ -16,7 +16,10 @@
   "data": {
     "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_my_combined_lfeeer1.csv"
   },
+
   "selection": {
+        "paintbrush": {"type": "multi", "on": "mouseover", "nearest": true},
+        "grid": {"type": "interval"},
     "grid": {
       "type": "interval",
       "bind": "scales",
@@ -26,7 +29,7 @@
       "resolve": "global"
     }
   },
-  "mark": {"type": "circle"},
+  "mark": {"type": "point", "size": 150},
   "encoding": {
     "x": {
       "field": "ee",
@@ -39,7 +42,14 @@
       "type": "quantitative",
       "title": "Unemployment rate (%)"
     },
-
+    "size": {
+          "condition": {
+            "selection": "paintbrush",
+            "value": 200,
+            "init": {"value": 30}
+          },
+          "value": 30
+        },
     "color": {
       "field": "Country",
       "type": "nominal",

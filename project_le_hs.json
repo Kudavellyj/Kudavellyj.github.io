@@ -10,7 +10,7 @@
       "subtitleFontStyle": "italic",
       "subtitleFontSize": 10,
       "anchor": "start",
-      "color": "black"
+      "color": "darkblue"
     },
     "height": 350,
     "width": 400,
@@ -21,7 +21,7 @@
     },
     "layer": [
       {
-        "mark": {"type": "circle", "color": "blueviolet", "opacity": 0.7},
+        "mark": {"type": "circle", "color": "blueviolet", "opacity": 0.7, "size": 150},
         "encoding": {
           "x": {
             "field": "value_right",

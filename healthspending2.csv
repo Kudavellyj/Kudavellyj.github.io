@@ -1,0 +1,501 @@
+,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,country.value
+0,GBR,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+1,GBR,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+2,GBR,2019,10.15402699,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+3,GBR,2018,9.90384102,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+4,GBR,2017,9.80787468,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+5,GBR,2016,9.87313271,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+6,GBR,2015,9.90072441,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+7,GBR,2014,9.95041275,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+8,GBR,2013,9.97566223,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+9,GBR,2012,9.91419888,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+10,GBR,2011,9.84848499,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+11,GBR,2010,9.83532333,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+12,GBR,2009,9.8809166,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+13,GBR,2008,9.06439972,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+14,GBR,2007,8.7854166,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+15,GBR,2006,8.60818768,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+16,GBR,2005,8.44144344,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+17,GBR,2004,8.39001179,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+18,GBR,2003,8.11239147,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+19,GBR,2002,7.94137812,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+20,GBR,2001,7.56716347,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+21,GBR,2000,7.19528341,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+22,GBR,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+23,GBR,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+24,GBR,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+25,GBR,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+26,GBR,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+27,GBR,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+28,GBR,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+29,GBR,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+30,GBR,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+31,GBR,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+32,GBR,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+33,GBR,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+34,GBR,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+35,GBR,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+36,GBR,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+37,GBR,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+38,GBR,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+39,GBR,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+40,GBR,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+41,GBR,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+42,GBR,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+43,GBR,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+44,GBR,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+45,GBR,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+46,GBR,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+47,GBR,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+48,GBR,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+49,GBR,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),GB,United Kingdom
+50,IND,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+51,IND,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+52,IND,2019,3.0141468,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+53,IND,2018,2.95175385,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+54,IND,2017,2.93597651,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+55,IND,2016,3.50430417,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+56,IND,2015,3.59565997,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+57,IND,2014,3.61956549,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+58,IND,2013,3.74944162,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+59,IND,2012,3.32935309,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+60,IND,2011,3.24634194,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+61,IND,2010,3.27211905,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+62,IND,2009,3.48537874,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+63,IND,2008,3.51468062,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+64,IND,2007,3.51754165,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+65,IND,2006,3.63477802,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+66,IND,2005,3.79116249,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+67,IND,2004,3.95739222,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+68,IND,2003,4.0084796,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+69,IND,2002,4.24016666,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+70,IND,2001,4.26278114,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+71,IND,2000,4.03493214,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+72,IND,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+73,IND,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+74,IND,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+75,IND,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+76,IND,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+77,IND,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+78,IND,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+79,IND,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+80,IND,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+81,IND,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+82,IND,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+83,IND,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+84,IND,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+85,IND,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+86,IND,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+87,IND,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+88,IND,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+89,IND,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+90,IND,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+91,IND,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+92,IND,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+93,IND,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+94,IND,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+95,IND,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+96,IND,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+97,IND,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+98,IND,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+99,IND,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IN,India
+100,ZAF,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+101,ZAF,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+102,ZAF,2019,9.10935497,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+103,ZAF,2018,8.85829735,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+104,ZAF,2017,8.72262383,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+105,ZAF,2016,8.82142925,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+106,ZAF,2015,8.79018974,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+107,ZAF,2014,8.55091476,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+108,ZAF,2013,8.85552406,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+109,ZAF,2012,8.77310753,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+110,ZAF,2011,8.74146175,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+111,ZAF,2010,8.66596985,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+112,ZAF,2009,8.52350235,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+113,ZAF,2008,7.88024807,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+114,ZAF,2007,7.68138409,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+115,ZAF,2006,7.6922164,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+116,ZAF,2005,7.68997431,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+117,ZAF,2004,7.76453447,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+118,ZAF,2003,7.91530371,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+119,ZAF,2002,7.46446323,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+120,ZAF,2001,7.93901682,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+121,ZAF,2000,8.16472149,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+122,ZAF,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+123,ZAF,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+124,ZAF,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+125,ZAF,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+126,ZAF,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+127,ZAF,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+128,ZAF,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+129,ZAF,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+130,ZAF,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+131,ZAF,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+132,ZAF,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+133,ZAF,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+134,ZAF,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+135,ZAF,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+136,ZAF,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+137,ZAF,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+138,ZAF,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+139,ZAF,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+140,ZAF,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+141,ZAF,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+142,ZAF,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+143,ZAF,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+144,ZAF,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+145,ZAF,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+146,ZAF,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+147,ZAF,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+148,ZAF,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+149,ZAF,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),ZA,South Africa
+150,CAN,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+151,CAN,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+152,CAN,2019,10.84447765,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+153,CAN,2018,10.80637455,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+154,CAN,2017,10.83538342,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+155,CAN,2016,11.02296066,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+156,CAN,2015,10.73320484,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+157,CAN,2014,10.24852657,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+158,CAN,2013,10.40513706,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+159,CAN,2012,10.50637913,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+160,CAN,2011,10.40052414,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+161,CAN,2010,10.69585419,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+162,CAN,2009,10.71716499,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+163,CAN,2008,9.60709858,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+164,CAN,2007,9.44500446,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+165,CAN,2006,9.34210205,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+166,CAN,2005,9.03540611,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+167,CAN,2004,9.06628132,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+168,CAN,2003,9.01090145,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+169,CAN,2002,8.85670376,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+170,CAN,2001,8.62482357,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+171,CAN,2000,8.24814415,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+172,CAN,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+173,CAN,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+174,CAN,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+175,CAN,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+176,CAN,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+177,CAN,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+178,CAN,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+179,CAN,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+180,CAN,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+181,CAN,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+182,CAN,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+183,CAN,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+184,CAN,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+185,CAN,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+186,CAN,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+187,CAN,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+188,CAN,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+189,CAN,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+190,CAN,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+191,CAN,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+192,CAN,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+193,CAN,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+194,CAN,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+195,CAN,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+196,CAN,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+197,CAN,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+198,CAN,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+199,CAN,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),CA,Canada
+200,AUS,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+201,AUS,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+202,AUS,2019,9.91078568,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+203,AUS,2018,9.1550045,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+204,AUS,2017,9.26682281,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+205,AUS,2016,9.24815178,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+206,AUS,2015,9.32758904,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+207,AUS,2014,9.03597069,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+208,AUS,2013,8.76116371,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+209,AUS,2012,8.67564774,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+210,AUS,2011,8.54153824,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+211,AUS,2010,8.4308424,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+212,AUS,2009,8.56316471,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+213,AUS,2008,8.25585651,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+214,AUS,2007,8.06755352,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+215,AUS,2006,7.98943853,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+216,AUS,2005,7.99008226,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+217,AUS,2004,8.10948753,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+218,AUS,2003,7.90449524,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+219,AUS,2002,7.89332151,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+220,AUS,2001,7.69622898,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+221,AUS,2000,7.61383343,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+222,AUS,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+223,AUS,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+224,AUS,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+225,AUS,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+226,AUS,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+227,AUS,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+228,AUS,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+229,AUS,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+230,AUS,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+231,AUS,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+232,AUS,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+233,AUS,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+234,AUS,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+235,AUS,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+236,AUS,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+237,AUS,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+238,AUS,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+239,AUS,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+240,AUS,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+241,AUS,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+242,AUS,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+243,AUS,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+244,AUS,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+245,AUS,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+246,AUS,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+247,AUS,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+248,AUS,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+249,AUS,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),AU,Australia
+250,MYS,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+251,MYS,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+252,MYS,2019,3.82514191,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+253,MYS,2018,3.74833083,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+254,MYS,2017,3.70413661,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+255,MYS,2016,3.68569684,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+256,MYS,2015,3.81819606,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+257,MYS,2014,3.71036983,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+258,MYS,2013,3.51275206,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+259,MYS,2012,3.45786357,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+260,MYS,2011,3.31451941,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+261,MYS,2010,3.16474295,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+262,MYS,2009,3.2610569,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+263,MYS,2008,3.00692534,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+264,MYS,2007,3.07041144,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+265,MYS,2006,3.10897732,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+266,MYS,2005,2.78692698,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+267,MYS,2004,2.86016941,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+268,MYS,2003,2.92417097,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+269,MYS,2002,2.66876554,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+270,MYS,2001,2.6753974,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+271,MYS,2000,2.51463366,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+272,MYS,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+273,MYS,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+274,MYS,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+275,MYS,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+276,MYS,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+277,MYS,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+278,MYS,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+279,MYS,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+280,MYS,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+281,MYS,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+282,MYS,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+283,MYS,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+284,MYS,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+285,MYS,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+286,MYS,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+287,MYS,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+288,MYS,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+289,MYS,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+290,MYS,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+291,MYS,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+292,MYS,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+293,MYS,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+294,MYS,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+295,MYS,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+296,MYS,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+297,MYS,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+298,MYS,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+299,MYS,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),MY,Malaysia
+300,QAT,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+301,QAT,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+302,QAT,2019,2.9106288,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+303,QAT,2018,2.62514997,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+304,QAT,2017,2.977561,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+305,QAT,2016,3.24747443,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+306,QAT,2015,3.00097346,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+307,QAT,2014,2.42293572,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+308,QAT,2013,2.07620168,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+309,QAT,2012,1.74822152,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+310,QAT,2011,1.59996212,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+311,QAT,2010,1.87017775,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+312,QAT,2009,2.38356304,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+313,QAT,2008,1.63775349,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+314,QAT,2007,2.07008052,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+315,QAT,2006,2.28806424,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+316,QAT,2005,2.56300044,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+317,QAT,2004,3.18311739,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+318,QAT,2003,3.50257206,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+319,QAT,2002,2.46044087,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+320,QAT,2001,2.3197093,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+321,QAT,2000,1.97258496,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+322,QAT,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+323,QAT,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+324,QAT,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+325,QAT,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+326,QAT,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+327,QAT,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+328,QAT,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+329,QAT,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+330,QAT,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+331,QAT,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+332,QAT,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+333,QAT,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+334,QAT,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+335,QAT,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+336,QAT,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+337,QAT,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+338,QAT,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+339,QAT,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+340,QAT,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+341,QAT,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+342,QAT,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+343,QAT,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+344,QAT,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+345,QAT,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+346,QAT,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+347,QAT,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+348,QAT,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+349,QAT,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),QA,Qatar
+350,NGA,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+351,NGA,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+352,NGA,2019,3.02666044,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+353,NGA,2018,3.09069371,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+354,NGA,2017,3.75336528,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+355,NGA,2016,3.64773679,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+356,NGA,2015,3.58194971,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+357,NGA,2014,3.34840369,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+358,NGA,2013,3.42069316,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+359,NGA,2012,3.35984278,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+360,NGA,2011,3.32077932,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+361,NGA,2010,3.29653287,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+362,NGA,2009,3.58019733,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+363,NGA,2008,3.6958158,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+364,NGA,2007,3.90997314,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+365,NGA,2006,4.25775146,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+366,NGA,2005,4.46591902,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+367,NGA,2004,4.6336832,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+368,NGA,2003,5.05360937,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+369,NGA,2002,2.49064016,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+370,NGA,2001,3.18946958,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+371,NGA,2000,3.19738436,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+372,NGA,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+373,NGA,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+374,NGA,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+375,NGA,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+376,NGA,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+377,NGA,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+378,NGA,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+379,NGA,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+380,NGA,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+381,NGA,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+382,NGA,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+383,NGA,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+384,NGA,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+385,NGA,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+386,NGA,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+387,NGA,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+388,NGA,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+389,NGA,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+390,NGA,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+391,NGA,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+392,NGA,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+393,NGA,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+394,NGA,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+395,NGA,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+396,NGA,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+397,NGA,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+398,NGA,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+399,NGA,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),NG,Nigeria
+400,JAM,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+401,JAM,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+402,JAM,2019,6.09748316,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+403,JAM,2018,5.96785641,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+404,JAM,2017,6.14843798,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+405,JAM,2016,5.70086861,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+406,JAM,2015,5.62469387,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+407,JAM,2014,5.16565466,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+408,JAM,2013,4.95442057,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+409,JAM,2012,4.88511038,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+410,JAM,2011,5.23800802,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+411,JAM,2010,5.29506874,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+412,JAM,2009,5.14652538,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+413,JAM,2008,5.61143064,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+414,JAM,2007,5.32057667,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+415,JAM,2006,4.20788145,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+416,JAM,2005,4.54581738,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+417,JAM,2004,4.80435324,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+418,JAM,2003,4.22014093,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+419,JAM,2002,4.74544334,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+420,JAM,2001,5.15652943,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+421,JAM,2000,5.64462566,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+422,JAM,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+423,JAM,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+424,JAM,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+425,JAM,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+426,JAM,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+427,JAM,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+428,JAM,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+429,JAM,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+430,JAM,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+431,JAM,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+432,JAM,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+433,JAM,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+434,JAM,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+435,JAM,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+436,JAM,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+437,JAM,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+438,JAM,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+439,JAM,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+440,JAM,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+441,JAM,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+442,JAM,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+443,JAM,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+444,JAM,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+445,JAM,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+446,JAM,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+447,JAM,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+448,JAM,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+449,JAM,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),JM,Jamaica
+450,IRL,2021,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+451,IRL,2020,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+452,IRL,2019,6.67931509,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+453,IRL,2018,6.86017275,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+454,IRL,2017,7.06397724,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+455,IRL,2016,7.4248991,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+456,IRL,2015,7.31605005,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+457,IRL,2014,9.53489971,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+458,IRL,2013,10.29696083,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+459,IRL,2012,10.65266323,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+460,IRL,2011,10.676898,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+461,IRL,2010,10.50632477,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+462,IRL,2009,10.5062685,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+463,IRL,2008,9.10927963,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+464,IRL,2007,7.80535555,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+465,IRL,2006,7.51655483,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+466,IRL,2005,7.64583445,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+467,IRL,2004,7.22300482,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+468,IRL,2003,7.0096755,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+469,IRL,2002,6.67468452,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+470,IRL,2001,6.39664602,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+471,IRL,2000,5.90420008,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+472,IRL,1999,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+473,IRL,1998,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+474,IRL,1997,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+475,IRL,1996,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+476,IRL,1995,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+477,IRL,1994,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+478,IRL,1993,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+479,IRL,1992,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+480,IRL,1991,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+481,IRL,1990,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+482,IRL,1989,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+483,IRL,1988,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+484,IRL,1987,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+485,IRL,1986,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+486,IRL,1985,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+487,IRL,1984,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+488,IRL,1983,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+489,IRL,1982,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+490,IRL,1981,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+491,IRL,1980,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+492,IRL,1979,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+493,IRL,1978,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+494,IRL,1977,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+495,IRL,1976,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+496,IRL,1975,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+497,IRL,1974,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+498,IRL,1973,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland
+499,IRL,1972,,,,2,SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),IE,Ireland

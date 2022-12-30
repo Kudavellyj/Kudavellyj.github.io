@@ -1,0 +1,421 @@
+Country,Series,Year,GDP per Capita
+Australia,GDP per capita (current US$),1980,10208.5761716721
+Australia,GDP per capita (current US$),1981,11853.4360174361
+Australia,GDP per capita (current US$),1982,12778.855250056
+Australia,GDP per capita (current US$),1983,11515.7384250381
+Australia,GDP per capita (current US$),1984,12421.4925977337
+Australia,GDP per capita (current US$),1985,11440.9685687363
+Australia,GDP per capita (current US$),1986,11391.4367051223
+Australia,GDP per capita (current US$),1987,11650.8418747976
+Australia,GDP per capita (current US$),1988,14284.5158135864
+Australia,GDP per capita (current US$),1989,17834.5688669242
+Australia,GDP per capita (current US$),1990,18249.7094846628
+Australia,GDP per capita (current US$),1991,18860.5815907438
+Australia,GDP per capita (current US$),1992,18624.5550841793
+Australia,GDP per capita (current US$),1993,17700.1155557894
+Australia,GDP per capita (current US$),1994,18129.7907198601
+Australia,GDP per capita (current US$),1995,20446.7198474713
+Australia,GDP per capita (current US$),1996,22020.093721362
+Australia,GDP per capita (current US$),1997,23645.0883283773
+Australia,GDP per capita (current US$),1998,21478.3851573346
+Australia,GDP per capita (current US$),1999,20698.7127028167
+Australia,GDP per capita (current US$),2000,21853.781667691
+Australia,GDP per capita (current US$),2001,19681.6626363573
+Australia,GDP per capita (current US$),2002,20291.1785479686
+Australia,GDP per capita (current US$),2003,23705.9072163917
+Australia,GDP per capita (current US$),2004,30819.9934867745
+Australia,GDP per capita (current US$),2005,34461.7087799639
+Australia,GDP per capita (current US$),2006,36570.7203684146
+Australia,GDP per capita (current US$),2007,41023.7548562293
+Australia,GDP per capita (current US$),2008,49679.1805279842
+Australia,GDP per capita (current US$),2009,42810.331655139
+Australia,GDP per capita (current US$),2010,52134.3088504199
+Australia,GDP per capita (current US$),2011,62596.4321748915
+Australia,GDP per capita (current US$),2012,68044.714816234
+Australia,GDP per capita (current US$),2013,68158.5797427053
+Australia,GDP per capita (current US$),2014,62513.4112171122
+Australia,GDP per capita (current US$),2015,56710.4457244504
+Australia,GDP per capita (current US$),2016,49875.5651433836
+Australia,GDP per capita (current US$),2017,53936.1402549903
+Australia,GDP per capita (current US$),2018,57207.8715094806
+Australia,GDP per capita (current US$),2019,54941.4341793948
+Australia,GDP per capita (current US$),2020,51720.3707634401
+Australia,GDP per capita (current US$),2021,60443.1091649968
+Canada,GDP per capita (current US$),1980,11170.5639723393
+Canada,GDP per capita (current US$),1981,12337.4662493804
+Canada,GDP per capita (current US$),1982,12481.8747874298
+Canada,GDP per capita (current US$),1983,13425.1224888294
+Canada,GDP per capita (current US$),1984,13877.9170763469
+Canada,GDP per capita (current US$),1985,14114.8077599664
+Canada,GDP per capita (current US$),1986,14461.0692388787
+Canada,GDP per capita (current US$),1987,16308.9669663579
+Canada,GDP per capita (current US$),1988,18936.9641024997
+Canada,GDP per capita (current US$),1989,20715.631483174
+Canada,GDP per capita (current US$),1990,21448.3619600057
+Canada,GDP per capita (current US$),1991,21768.3432941828
+Canada,GDP per capita (current US$),1992,20879.8483300891
+Canada,GDP per capita (current US$),1993,20121.1612532855
+Canada,GDP per capita (current US$),1994,19935.3814579208
+Canada,GDP per capita (current US$),1995,20613.7878829216
+Canada,GDP per capita (current US$),1996,21227.3475315896
+Canada,GDP per capita (current US$),1997,21901.5628548392
+Canada,GDP per capita (current US$),1998,21024.5850687045
+Canada,GDP per capita (current US$),1999,22315.2466731545
+Canada,GDP per capita (current US$),2000,24271.0020563821
+Canada,GDP per capita (current US$),2001,23822.0601178964
+Canada,GDP per capita (current US$),2002,24255.3385818322
+Canada,GDP per capita (current US$),2003,28300.4630963791
+Canada,GDP per capita (current US$),2004,32143.6814078562
+Canada,GDP per capita (current US$),2005,36382.5079164537
+Canada,GDP per capita (current US$),2006,40504.0607253203
+Canada,GDP per capita (current US$),2007,44659.8951408034
+Canada,GDP per capita (current US$),2008,46710.5055759013
+Canada,GDP per capita (current US$),2009,40876.3101540295
+Canada,GDP per capita (current US$),2010,47562.0834253057
+Canada,GDP per capita (current US$),2011,52223.696112356
+Canada,GDP per capita (current US$),2012,52669.0899632316
+Canada,GDP per capita (current US$),2013,52635.1749580433
+Canada,GDP per capita (current US$),2014,50955.9983232404
+Canada,GDP per capita (current US$),2015,43596.1355365546
+Canada,GDP per capita (current US$),2016,42315.6037056806
+Canada,GDP per capita (current US$),2017,45129.4292980922
+Canada,GDP per capita (current US$),2018,46548.6384108296
+Canada,GDP per capita (current US$),2019,46328.6718408497
+Canada,GDP per capita (current US$),2020,43258.2638715601
+Canada,GDP per capita (current US$),2021,51987.9390529728
+United Kingdom,GDP per capita (current US$),1980,10032.062080015
+United Kingdom,GDP per capita (current US$),1981,9599.30622221965
+United Kingdom,GDP per capita (current US$),1982,9146.07735701852
+United Kingdom,GDP per capita (current US$),1983,8691.51881306514
+United Kingdom,GDP per capita (current US$),1984,8179.19444064991
+United Kingdom,GDP per capita (current US$),1985,8652.21654247593
+United Kingdom,GDP per capita (current US$),1986,10611.112210096
+United Kingdom,GDP per capita (current US$),1987,13118.586534629
+United Kingdom,GDP per capita (current US$),1988,15987.1680775688
+United Kingdom,GDP per capita (current US$),1989,16239.2821960944
+United Kingdom,GDP per capita (current US$),1990,19095.4669984608
+United Kingdom,GDP per capita (current US$),1991,19900.7266505069
+United Kingdom,GDP per capita (current US$),1992,20487.1707852878
+United Kingdom,GDP per capita (current US$),1993,18389.0195675099
+United Kingdom,GDP per capita (current US$),1994,19709.2380983653
+United Kingdom,GDP per capita (current US$),1995,23202.4615775949
+United Kingdom,GDP per capita (current US$),1996,24440.3281377791
+United Kingdom,GDP per capita (current US$),1997,26781.362168176
+United Kingdom,GDP per capita (current US$),1998,28297.8659970584
+United Kingdom,GDP per capita (current US$),1999,28786.9592756835
+United Kingdom,GDP per capita (current US$),2000,28290.9725024578
+United Kingdom,GDP per capita (current US$),2001,27886.7985907797
+United Kingdom,GDP per capita (current US$),2002,30079.6600435049
+United Kingdom,GDP per capita (current US$),2003,34479.3929332278
+United Kingdom,GDP per capita (current US$),2004,40390.7858294925
+United Kingdom,GDP per capita (current US$),2005,42131.6993992712
+United Kingdom,GDP per capita (current US$),2006,44536.6197203512
+United Kingdom,GDP per capita (current US$),2007,50435.37028921
+United Kingdom,GDP per capita (current US$),2008,47429.9363403009
+United Kingdom,GDP per capita (current US$),2009,38821.1795827116
+United Kingdom,GDP per capita (current US$),2010,39693.1938701237
+United Kingdom,GDP per capita (current US$),2011,42150.6981408821
+United Kingdom,GDP per capita (current US$),2012,42485.5860695397
+United Kingdom,GDP per capita (current US$),2013,43449.0917173139
+United Kingdom,GDP per capita (current US$),2014,47447.5889322667
+United Kingdom,GDP per capita (current US$),2015,45071.0743234873
+United Kingdom,GDP per capita (current US$),2016,41146.0773555246
+United Kingdom,GDP per capita (current US$),2017,40621.334478632
+United Kingdom,GDP per capita (current US$),2018,43306.3083049317
+United Kingdom,GDP per capita (current US$),2019,42747.080460496
+United Kingdom,GDP per capita (current US$),2020,40318.5575660493
+United Kingdom,GDP per capita (current US$),2021,46510.2827819127
+India,GDP per capita (current US$),1980,267.390578652535
+India,GDP per capita (current US$),1981,271.425085317378
+India,GDP per capita (current US$),1982,275.265428301887
+India,GDP per capita (current US$),1983,292.644817454605
+India,GDP per capita (current US$),1984,278.096187266015
+India,GDP per capita (current US$),1985,297.999662681228
+India,GDP per capita (current US$),1986,312.059843942513
+India,GDP per capita (current US$),1987,342.071923724964
+India,GDP per capita (current US$),1988,355.737598854123
+India,GDP per capita (current US$),1989,347.462384500091
+India,GDP per capita (current US$),1990,368.749759408129
+India,GDP per capita (current US$),1991,303.850437957407
+India,GDP per capita (current US$),1992,317.559135479384
+India,GDP per capita (current US$),1993,301.501194948853
+India,GDP per capita (current US$),1994,346.227393126043
+India,GDP per capita (current US$),1995,373.628280320062
+India,GDP per capita (current US$),1996,399.577503521552
+India,GDP per capita (current US$),1997,414.898869576673
+India,GDP per capita (current US$),1998,412.509511039641
+India,GDP per capita (current US$),1999,440.961454614021
+India,GDP per capita (current US$),2000,442.034778917695
+India,GDP per capita (current US$),2001,449.911124933268
+India,GDP per capita (current US$),2002,468.84442830518
+India,GDP per capita (current US$),2003,543.843798893951
+India,GDP per capita (current US$),2004,624.105094371897
+India,GDP per capita (current US$),2005,710.509344850714
+India,GDP per capita (current US$),2006,802.01374204738
+India,GDP per capita (current US$),2007,1022.73162874643
+India,GDP per capita (current US$),2008,993.503772474691
+India,GDP per capita (current US$),2009,1096.63498033497
+India,GDP per capita (current US$),2010,1350.63432207085
+India,GDP per capita (current US$),2011,1449.60178853415
+India,GDP per capita (current US$),2012,1434.01819806113
+India,GDP per capita (current US$),2013,1438.05748041006
+India,GDP per capita (current US$),2014,1559.86451848257
+India,GDP per capita (current US$),2015,1590.17391842781
+India,GDP per capita (current US$),2016,1714.28035526737
+India,GDP per capita (current US$),2017,1957.968841235
+India,GDP per capita (current US$),2018,1974.37778792366
+India,GDP per capita (current US$),2019,2047.23270433512
+India,GDP per capita (current US$),2020,1910.42147282449
+India,GDP per capita (current US$),2021,2256.59040870506
+Ireland,GDP per capita (current US$),1980,6372.43777545453
+Ireland,GDP per capita (current US$),1981,5986.1541089392
+Ireland,GDP per capita (current US$),1982,6160.63829313723
+Ireland,GDP per capita (current US$),1983,5915.24177164341
+Ireland,GDP per capita (current US$),1984,5692.02738597285
+Ireland,GDP per capita (current US$),1985,6011.7355464232
+Ireland,GDP per capita (current US$),1986,8112.17136316453
+Ireland,GDP per capita (current US$),1987,9581.91308572415
+Ireland,GDP per capita (current US$),1988,10715.8702780539
+Ireland,GDP per capita (current US$),1989,11175.816603647
+Ireland,GDP per capita (current US$),1990,14031.3025675469
+Ireland,GDP per capita (current US$),1991,14087.2074393708
+Ireland,GDP per capita (current US$),1992,15714.3847487231
+Ireland,GDP per capita (current US$),1993,14657.0615549805
+Ireland,GDP per capita (current US$),1994,15902.9296755168
+Ireland,GDP per capita (current US$),1995,19158.4564773907
+Ireland,GDP per capita (current US$),1996,20835.8977130847
+Ireland,GDP per capita (current US$),1997,22551.1139134126
+Ireland,GDP per capita (current US$),1998,24294.8547674007
+Ireland,GDP per capita (current US$),1999,26338.1077543817
+Ireland,GDP per capita (current US$),2000,26334.5672050501
+Ireland,GDP per capita (current US$),2001,28282.409882073
+Ireland,GDP per capita (current US$),2002,32705.4345565698
+Ireland,GDP per capita (current US$),2003,41203.5295847568
+Ireland,GDP per capita (current US$),2004,47754.2023194244
+Ireland,GDP per capita (current US$),2005,50933.0216095589
+Ireland,GDP per capita (current US$),2006,54329.1618599624
+Ireland,GDP per capita (current US$),2007,61396.417461176
+Ireland,GDP per capita (current US$),2008,61353.1065629523
+Ireland,GDP per capita (current US$),2009,52133.0906162544
+Ireland,GDP per capita (current US$),2010,48663.6004439251
+Ireland,GDP per capita (current US$),2011,52183.1329312154
+Ireland,GDP per capita (current US$),2012,49054.6974340641
+Ireland,GDP per capita (current US$),2013,51546.3547634545
+Ireland,GDP per capita (current US$),2014,55643.0594338748
+Ireland,GDP per capita (current US$),2015,62053.9844381587
+Ireland,GDP per capita (current US$),2016,62895.9111239282
+Ireland,GDP per capita (current US$),2017,69970.9489145762
+Ireland,GDP per capita (current US$),2018,79250.3878517684
+Ireland,GDP per capita (current US$),2019,80927.0746710666
+Ireland,GDP per capita (current US$),2020,85420.1908556097
+Ireland,GDP per capita (current US$),2021,100172.079253421
+Jamaica,GDP per capita (current US$),1980,1254.67185124508
+Jamaica,GDP per capita (current US$),1981,1374.95755552092
+Jamaica,GDP per capita (current US$),1982,1497.32874361355
+Jamaica,GDP per capita (current US$),1983,1620.97962124894
+Jamaica,GDP per capita (current US$),1984,1048.35130923929
+Jamaica,GDP per capita (current US$),1985,916.315733089862
+Jamaica,GDP per capita (current US$),1986,1189.42988456703
+Jamaica,GDP per capita (current US$),1987,1406.95327404273
+Jamaica,GDP per capita (current US$),1988,1625.74426968601
+Jamaica,GDP per capita (current US$),1989,1856.00194611358
+Jamaica,GDP per capita (current US$),1990,1919.8020373373
+Jamaica,GDP per capita (current US$),1991,1702.4981793312
+Jamaica,GDP per capita (current US$),1992,1452.18838688296
+Jamaica,GDP per capita (current US$),1993,2212.25197785727
+Jamaica,GDP per capita (current US$),1994,2194.9134103029
+Jamaica,GDP per capita (current US$),1995,2621.18323815691
+Jamaica,GDP per capita (current US$),1996,2919.14448641739
+Jamaica,GDP per capita (current US$),1997,3287.74369088309
+Jamaica,GDP per capita (current US$),1998,3410.42776005243
+Jamaica,GDP per capita (current US$),1999,3423.0101044506
+Jamaica,GDP per capita (current US$),2000,3447.30389648976
+Jamaica,GDP per capita (current US$),2001,3502.20931094435
+Jamaica,GDP per capita (current US$),2002,3683.89653342499
+Jamaica,GDP per capita (current US$),2003,3557.19898909739
+Jamaica,GDP per capita (current US$),2004,3819.28423090316
+Jamaica,GDP per capita (current US$),2005,4200.38996606953
+Jamaica,GDP per capita (current US$),2006,4435.56861030003
+Jamaica,GDP per capita (current US$),2007,4738.44717544773
+Jamaica,GDP per capita (current US$),2008,5056.25824455749
+Jamaica,GDP per capita (current US$),2009,4452.12181188603
+Jamaica,GDP per capita (current US$),2010,4835.79363761629
+Jamaica,GDP per capita (current US$),2011,5259.92948717911
+Jamaica,GDP per capita (current US$),2012,5365.24229295272
+Jamaica,GDP per capita (current US$),2013,5143.72131166933
+Jamaica,GDP per capita (current US$),2014,4991.56551872824
+Jamaica,GDP per capita (current US$),2015,5077.55062188355
+Jamaica,GDP per capita (current US$),2016,5022.70471701644
+Jamaica,GDP per capita (current US$),2017,5273.15074381723
+Jamaica,GDP per capita (current US$),2018,5594.49393466948
+Jamaica,GDP per capita (current US$),2019,5626.17117652759
+Jamaica,GDP per capita (current US$),2020,4897.26589668631
+Jamaica,GDP per capita (current US$),2021,5183.58130458676
+Malaysia,GDP per capita (current US$),1980,1852.94917949154
+Malaysia,GDP per capita (current US$),1981,1843.3693698371
+Malaysia,GDP per capita (current US$),1982,1925.4612439594
+Malaysia,GDP per capita (current US$),1983,2123.21286230242
+Malaysia,GDP per capita (current US$),1984,2311.21179542041
+Malaysia,GDP per capita (current US$),1985,2065.12326607149
+Malaysia,GDP per capita (current US$),1986,1782.5712519412
+Malaysia,GDP per capita (current US$),1987,2007.20319124897
+Malaysia,GDP per capita (current US$),1988,2134.50528898804
+Malaysia,GDP per capita (current US$),1989,2282.50536035
+Malaysia,GDP per capita (current US$),1990,2513.21816687938
+Malaysia,GDP per capita (current US$),1991,2727.52858528083
+Malaysia,GDP per capita (current US$),1992,3193.6353810378
+Malaysia,GDP per capita (current US$),1993,3511.52580802788
+Malaysia,GDP per capita (current US$),1994,3802.10762079454
+Malaysia,GDP per capita (current US$),1995,4405.11676395634
+Malaysia,GDP per capita (current US$),1996,4874.81972520082
+Malaysia,GDP per capita (current US$),1997,4706.31491259882
+Malaysia,GDP per capita (current US$),1998,3308.83565299935
+Malaysia,GDP per capita (current US$),1999,3538.36299288587
+Malaysia,GDP per capita (current US$),2000,4087.56259349384
+Malaysia,GDP per capita (current US$),2001,3941.12266621369
+Malaysia,GDP per capita (current US$),2002,4177.10494176499
+Malaysia,GDP per capita (current US$),2003,4454.52676383656
+Malaysia,GDP per capita (current US$),2004,4924.33811126582
+Malaysia,GDP per capita (current US$),2005,5536.82578686399
+Malaysia,GDP per capita (current US$),2006,6137.11205938344
+Malaysia,GDP per capita (current US$),2007,7143.93581596291
+Malaysia,GDP per capita (current US$),2008,8343.38591937024
+Malaysia,GDP per capita (current US$),2009,7167.88329542017
+Malaysia,GDP per capita (current US$),2010,8880.109965264
+Malaysia,GDP per capita (current US$),2011,10209.3819536909
+Malaysia,GDP per capita (current US$),2012,10601.5138881391
+Malaysia,GDP per capita (current US$),2013,10727.6996632824
+Malaysia,GDP per capita (current US$),2014,11045.4451263498
+Malaysia,GDP per capita (current US$),2015,9699.58402084731
+Malaysia,GDP per capita (current US$),2016,9555.65120152294
+Malaysia,GDP per capita (current US$),2017,9979.80084103497
+Malaysia,GDP per capita (current US$),2018,11074.0640947671
+Malaysia,GDP per capita (current US$),2019,11132.0239344924
+Malaysia,GDP per capita (current US$),2020,10160.7832470071
+Malaysia,GDP per capita (current US$),2021,11109.2618387745
+Nigeria,GDP per capita (current US$),1980,880.061983734212
+Nigeria,GDP per capita (current US$),1981,2187.88643570187
+Nigeria,GDP per capita (current US$),1982,1844.84984376437
+Nigeria,GDP per capita (current US$),1983,1223.60392131354
+Nigeria,GDP per capita (current US$),1984,903.449351635753
+Nigeria,GDP per capita (current US$),1985,882.282702701047
+Nigeria,GDP per capita (current US$),1986,638.731695673269
+Nigeria,GDP per capita (current US$),1987,598.290968728108
+Nigeria,GDP per capita (current US$),1988,549.503755599888
+Nigeria,GDP per capita (current US$),1989,474.456900103068
+Nigeria,GDP per capita (current US$),1990,567.517902154176
+Nigeria,GDP per capita (current US$),1991,502.822869747645
+Nigeria,GDP per capita (current US$),1992,477.080756484416
+Nigeria,GDP per capita (current US$),1993,270.027523787786
+Nigeria,GDP per capita (current US$),1994,320.82578675313
+Nigeria,GDP per capita (current US$),1995,407.2782992449
+Nigeria,GDP per capita (current US$),1996,460.324190248145
+Nigeria,GDP per capita (current US$),1997,478.576939925535
+Nigeria,GDP per capita (current US$),1998,467.939014177062
+Nigeria,GDP per capita (current US$),1999,496.030186963549
+Nigeria,GDP per capita (current US$),2000,565.304317206495
+Nigeria,GDP per capita (current US$),2001,577.056969532122
+Nigeria,GDP per capita (current US$),2002,733.538161512973
+Nigeria,GDP per capita (current US$),2003,786.802409334717
+Nigeria,GDP per capita (current US$),2004,992.745280113547
+Nigeria,GDP per capita (current US$),2005,1250.40667526077
+Nigeria,GDP per capita (current US$),2006,1652.15369043056
+Nigeria,GDP per capita (current US$),2007,1876.41277665632
+Nigeria,GDP per capita (current US$),2008,2227.78995171265
+Nigeria,GDP per capita (current US$),2009,1883.88734830887
+Nigeria,GDP per capita (current US$),2010,2280.11197852503
+Nigeria,GDP per capita (current US$),2011,2504.87827884434
+Nigeria,GDP per capita (current US$),2012,2728.02268335423
+Nigeria,GDP per capita (current US$),2013,2976.75673612767
+Nigeria,GDP per capita (current US$),2014,3200.95314600431
+Nigeria,GDP per capita (current US$),2015,2679.55476480921
+Nigeria,GDP per capita (current US$),2016,2144.77993839856
+Nigeria,GDP per capita (current US$),2017,1941.87948520625
+Nigeria,GDP per capita (current US$),2018,2125.83428239448
+Nigeria,GDP per capita (current US$),2019,2204.18157415589
+Nigeria,GDP per capita (current US$),2020,2074.61392802438
+Nigeria,GDP per capita (current US$),2021,2065.74906750923
+Qatar,GDP per capita (current US$),1980,28218.0378917672
+Qatar,GDP per capita (current US$),1981,29371.4669135508
+Qatar,GDP per capita (current US$),1982,24301.0518421976
+Qatar,GDP per capita (current US$),1983,19571.8082023286
+Qatar,GDP per capita (current US$),1984,19252.172559164
+Qatar,GDP per capita (current US$),1985,16818.3510338263
+Qatar,GDP per capita (current US$),1986,13216.457990389
+Qatar,GDP per capita (current US$),1987,13705.4656026902
+Qatar,GDP per capita (current US$),1988,14650.7442409826
+Qatar,GDP per capita (current US$),1989,15197.8750981787
+Qatar,GDP per capita (current US$),1990,16664.8314327886
+Qatar,GDP per capita (current US$),1991,15079.3594623197
+Qatar,GDP per capita (current US$),1992,16223.7800763357
+Qatar,GDP per capita (current US$),1993,14724.2591753497
+Qatar,GDP per capita (current US$),1994,14728.7820222192
+Qatar,GDP per capita (current US$),1995,15797.6910390559
+Qatar,GDP per capita (current US$),1996,17116.832559522
+Qatar,GDP per capita (current US$),1997,20519.4093535576
+Qatar,GDP per capita (current US$),1998,17651.5455802225
+Qatar,GDP per capita (current US$),1999,20207.2255889136
+Qatar,GDP per capita (current US$),2000,27494.7713320186
+Qatar,GDP per capita (current US$),2001,25836.2707926738
+Qatar,GDP per capita (current US$),2002,27151.032498866
+Qatar,GDP per capita (current US$),2003,31440.2207124561
+Qatar,GDP per capita (current US$),2004,40792.2764702117
+Qatar,GDP per capita (current US$),2005,52468.4456475056
+Qatar,GDP per capita (current US$),2006,59978.86120736
+Qatar,GDP per capita (current US$),2007,64706.9899026035
+Qatar,GDP per capita (current US$),2008,79811.5977371757
+Qatar,GDP per capita (current US$),2009,60733.9817002272
+Qatar,GDP per capita (current US$),2010,73021.3097525035
+Qatar,GDP per capita (current US$),2011,92992.9971307452
+Qatar,GDP per capita (current US$),2012,98041.3622380894
+Qatar,GDP per capita (current US$),2013,97630.8255152088
+Qatar,GDP per capita (current US$),2014,93126.1494633822
+Qatar,GDP per capita (current US$),2015,66984.9102002396
+Qatar,GDP per capita (current US$),2016,58467.2355711087
+Qatar,GDP per capita (current US$),2017,59407.6980498883
+Qatar,GDP per capita (current US$),2018,66264.081168209
+Qatar,GDP per capita (current US$),2019,62637.2751084291
+Qatar,GDP per capita (current US$),2020,52315.6600783116
+Qatar,GDP per capita (current US$),2021,66838.357433014
+South Africa,GDP per capita (current US$),1980,3034.66138994247
+South Africa,GDP per capita (current US$),1981,3080.83321934445
+South Africa,GDP per capita (current US$),1982,2769.09663788001
+South Africa,GDP per capita (current US$),1983,3019.09868499824
+South Africa,GDP per capita (current US$),1984,2590.01460223483
+South Africa,GDP per capita (current US$),1985,1909.73972253346
+South Africa,GDP per capita (current US$),1986,2103.19201899378
+South Africa,GDP per capita (current US$),1987,2672.68910019476
+South Africa,GDP per capita (current US$),1988,2780.58681833112
+South Africa,GDP per capita (current US$),1989,2794.39567898293
+South Africa,GDP per capita (current US$),1990,3160.87836503322
+South Africa,GDP per capita (current US$),1991,3304.84632967771
+South Africa,GDP per capita (current US$),1992,3519.01857067159
+South Africa,GDP per capita (current US$),1993,3461.37840011033
+South Africa,GDP per capita (current US$),1994,3547.94974989327
+South Africa,GDP per capita (current US$),1995,3904.30809156182
+South Africa,GDP per capita (current US$),1996,3654.96925406685
+South Africa,GDP per capita (current US$),1997,3731.40078918512
+South Africa,GDP per capita (current US$),1998,3336.42999098541
+South Africa,GDP per capita (current US$),1999,3267.93061026305
+South Africa,GDP per capita (current US$),2000,3241.67447517796
+South Africa,GDP per capita (current US$),2001,2867.46616836719
+South Africa,GDP per capita (current US$),2002,2708.43540979093
+South Africa,GDP per capita (current US$),2003,4095.71022983511
+South Africa,GDP per capita (current US$),2004,5268.2728672909
+South Africa,GDP per capita (current US$),2005,5893.21302357697
+South Africa,GDP per capita (current US$),2006,6139.62604497215
+South Africa,GDP per capita (current US$),2007,6662.02968975357
+South Africa,GDP per capita (current US$),2008,6251.89483275936
+South Africa,GDP per capita (current US$),2009,6444.16706763545
+South Africa,GDP per capita (current US$),2010,8059.58701700552
+South Africa,GDP per capita (current US$),2011,8737.07977396507
+South Africa,GDP per capita (current US$),2012,8173.8691381716
+South Africa,GDP per capita (current US$),2013,7441.23085399675
+South Africa,GDP per capita (current US$),2014,6965.1378973693
+South Africa,GDP per capita (current US$),2015,6204.92990145846
+South Africa,GDP per capita (current US$),2016,5735.06678717842
+South Africa,GDP per capita (current US$),2017,6734.47515312493
+South Africa,GDP per capita (current US$),2018,7048.52221139611
+South Africa,GDP per capita (current US$),2019,6688.78727128797
+South Africa,GDP per capita (current US$),2020,5741.64312911877
+South Africa,GDP per capita (current US$),2021,7055.04477598783
