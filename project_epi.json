@@ -1,0 +1,92 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_combined_epi_politics.csv"
+    },
+   "title": {
+      "text": "Political Instability Vs Environmental Performance - 2022",
+      "subtitle": [
+        "Scatter of Political Instability Index (Out of 120) vs Environmental Performance (%) in 2022.",
+        "Data from UK and Selected Former Colonies.",
+        "Source: Fragile State Index & EPI"
+      ],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "darkblue"
+    },
+    "width": 450,
+    "height": 350,
+    "layer": [
+      {
+        "mark": {
+          "type": "point",
+          "color": "green",
+          "filled": true,
+          "opacity": 0.8,
+          "size": 50,
+          "tooltip": true
+        },
+        "encoding": {
+          "x": {
+            "field": "Value",
+            "type": "quantitative",
+            "scale": {"domain": [0, 120]}
+            
+          },
+          "y": {"field": "EPI Score", "type": "quantitative", "scale": {"domain": [0, 100]}},
+          "tooltip": [
+            {"field": "Country", "type": "nominal", "title": "Country"},
+            {"field": "EPI Score", "type": "nominal", "title": "Environmental Performance Index (%)"},
+            {
+              "field": "Value",
+              "type": "nominal",
+              "title": "Fragile State Index (Out of 120) "
+            }
+          ]
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "#DB7093"},
+        "transform": [
+          {
+            "regression": "Value",
+            "on": "EPI Score",
+            "extent": [7.5, 80]
+          }
+        ],
+        "encoding": {
+          "x": {
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Fragile State Index (Out of 120)",
+            "axis": {"grid": false}
+          },
+          "y": {
+            "field": "EPI Score",
+            "type": "quantitative",
+            "title": "Environmental Performance Index (%)",
+            "axis": {"grid": false}
+          }
+        }
+      },
+      {
+        "transform": [
+          {
+            "regression": "Value",
+            "on": "EPI Score",
+            "params": true
+          },
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "firebrick",
+          "x": "width",
+          "align": "right",
+          "y": -5
+        },
+        "encoding": {"text": {"type": "nominal", "field": "R2"}}
+      }
+    ]
+  }

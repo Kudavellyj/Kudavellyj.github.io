@@ -1,90 +1,78 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "",
-    "title": {
-      "text": "Population Living in Poverty at Various Price Levels 2019",
-      "anchor": "start",
-      "color": "darkblue",
-      "subtitle": [
-        "The Chart shows population living on less than $1.90, $3.20 and $5.50 a day in the UK & Selected Former Colonies in 2019",
-        "< $1.90 a day - global absolute minimum, < $3.20 a day -  lower-middle income countries, and < $5.50 a day - upper-middle income countries.",
-        "Source: Wikipedia, World Povery Clock & World Bank. Tooltip included.  ",
-        ""
-      ],
-      "subtitleFontStyle": "italic",
-      "subtitleFontSize": 10,
-      "subtitleColor": "black"
-    },
-    "data": {
-      "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_scrapingpovertywiki.csv"
-    },
-    "width": 500,
-    "height": 350,
-  
-    "repeat": {"layer": [
-      "< 190 Cents (US$) a day", 
-      "< 320 Cents (US$) a day", 
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "",
+  "title": {
+    "text": "Population Living in Poverty at Various Price Levels 2019",
+    "anchor": "start",
+    "color": "darkblue",
+    "subtitle": [
+      "The Chart shows population living on less than $1.90, $3.20 and $5.50 a day in the UK & Selected Former Colonies in 2019",
+      "< $1.90 a day - global absolute minimum, < $3.20 a day -  lower-middle income countries, and < $5.50 a day - upper-middle income countries.",
+      "Source: Wikipedia, World Povery Clock & World Bank. Tooltip included.  ",
+      ""
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "subtitleColor": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_scrapingpovertywiki.csv"
+  },
+  "width": 500,
+  "height": 350,
+  "repeat": {
+    "layer": [
+      "< 190 Cents (US$) a day",
+      "< 320 Cents (US$) a day",
       "< 550 Cents (US$) a day"
-      ]
+    ]
+  },
+  "spec": {
+    "mark": {"type": "bar", "point": false, "color": "skyblue"},
+    "encoding": {
+      "x": {
+        "field": "Country",
+        "title": null,
+        "type": "nominal",
+        "axis": {"labelAngle": 20}
       },
-  
-      
-    "spec": {
-      "mark": {"type": "bar", "point": false, "color": "skyblue"},
-      "encoding": {
-        "x": {
-          "field": "Country",
-          "title": null,
-          "type": "nominal",
-          "axis": {"labelAngle": 20}
-        },
-        "y": {
-          "field": {"repeat": "layer"},
+      "y": {
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "title": "Population living in Poverty (%)",
+        "axis": {"grid": false}
+      },
+      "color": {
+        "datum": {"repeat": "layer"},
+        "title": "Poverty Level:",
+        "scale": {"scheme": "yellowgreenblue"}
+      },
+      "xOffset": {"datum": {"repeat": "layer"}},
+      "tooltip": [
+        {"field": "Country", "type": "nominal", "title": "Country"},
+        {
+          "field": "< 190 Cents (US$) a day",
           "type": "quantitative",
-          "title": "Population living in Poverty (%)",
-          "axis": {"grid": false}
+          "title": "< $1.90 a day (%)"
         },
-        "color": {
-          "datum": {"repeat": "layer"},
-          "title": "",
-          "scale": {"scheme": "yellowgreenblue"}
+        {
+          "field": "< 320 Cents (US$) a day",
+          "type": "quantitative",
+          "title": "< $3.20 a day (%)"
         },
-        "xOffset": {"datum": {"repeat": "layer"}},
-        "tooltip": [
-          {"field": "Country", "type": "nominal", "title": "Country"},
-          {
-            "field": "< 190 Cents (US$) a day",
-            "type": "quantitative",
-            "title": "< $1.90 a day (%)"
-          },
-          {
-            "field": "< 320 Cents (US$) a day",
-            "type": "quantitative",
-            "title": "< $3.20 a day (%)"
-          },
-          {
-            "field": "< 550 Cents (US$) a day",
-            "type": "quantitative",
-            "title": "< $5.50 a day (%)"
-          },
-          {
-            "field": "GDP per Capita",
-            "type": "quantitative",
-            "title": "GDP per Capita ($US)"
-          },
-          {
-            "field": "HDI",
-            "type": "quantitative",
-            "title": "HDI"
-          }
-        ]
-      }
-    },
-    "config": {"mark": {"invalid": null}}
-  }
-  
-  
-  
-  
-  
-  
+        {
+          "field": "< 550 Cents (US$) a day",
+          "type": "quantitative",
+          "title": "< $5.50 a day (%)"
+        },
+        {
+          "field": "GDP per Capita",
+          "type": "quantitative",
+          "title": "GDP per Capita ($US)"
+        },
+        {"field": "HDI", "type": "quantitative", "title": "HDI"}
+      ]
+    }
+  },
+  "config": {"mark": {"invalid": null}}
+}

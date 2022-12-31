@@ -19,7 +19,6 @@
     "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_combined_lehs.csv",
     "format": {"type": "csv"}
   },
-
   "transform": [{"filter": "datum.date==Year"}],
   "params": [
     {
@@ -36,7 +35,12 @@
   ],
   "layer": [
     {
-      "mark": {"type": "circle", "color": "blueviolet", "opacity": 1, "size": 150 },
+      "mark": {
+        "type": "circle",
+        "color": "blueviolet",
+        "opacity": 1,
+        "size": 100
+      },
       "encoding": {
         "x": {
           "field": "value_right",
@@ -75,7 +79,7 @@
     },
     {
       "mark": {"type": "line", "color": "red"},
-      "transform": [{"regression": "value", "on": "value_right"}],
+      "transform": [{"regression": "value", "on": "value_right", "extent": [1, 8.75]}],
       "encoding": {
         "x": {"field": "value_right", "type": "quantitative"},
         "y": {"field": "value", "type": "quantitative"}
