@@ -60,8 +60,8 @@
     <!--Aims. Number of words: -->
   <div class="title">
    <p>Specifically, comparing standard of living in the UK to a selected former colonies to decipher factors associated with standard of living and how they vary across former colonies. </p> 
-   <p>There are different ways of measuring standard of living. Factors to consider include HDI, GDP, Life expectancy, Government spending, literacy rate, unemployment rate, consumer spending, poverty rate and etc. </p>
-   <P>For most of the charts the same ten countries are used to maintain consistency. These countries were selected due to their differing characteristics such as GDP, HDI, and geographical location.</P>
+   <p>There are different ways of measuring standard of living. Factors to consider include HDI, GDP, Life expectancy, Government spending, Literacy rate, Unemployment rate, Consumer spending, Poverty rate and etc. </p>
+   <P>For most of the charts the same countries are used to maintain consistency. These countries were selected due to their differing characteristics such as GDP, HDI, and geographical location.</P>
 </div>
   
 <hr>   
@@ -76,6 +76,10 @@
       vegaEmbed('#chart1', myChart1);
     </script>
   </div>
+
+  <p>The UK is a country with high HDI ranking. However, former colonies have a range of HDI, Australia and Canada have high HDI rankings, while others, such as Sudan and Afghanistan, have lower HDI but all nations have seen their HDI improve over time. </p>
+  <p>Datasets for HDI were collected from <a href="https://ourworldindata.org/human-development-index">Our World in Data</a> . I used <a href="https://colab.research.google.com/drive/1Ssg2_lmW5tUDPkX3Eei5Xsh3poxPwvMR#scrollTo=4N3RYVuUjgjv">Python</a>  to only get Former UK Colonies and the time period I wanted.</p>
+  <p>I faced two challenge when depicting this map, the first was trying to figure out all the former colonies as there were more than 50 of them. The other was the names of some countries in the dataset did not match the names in the base map. To solve this problem, I used colab to manually replace them.</p>
 
   <hr>  
   
@@ -161,6 +165,8 @@
       vegaEmbed('#chart7', myChart7);
     </script>
   </div>
+
+
         
 
 </div>
