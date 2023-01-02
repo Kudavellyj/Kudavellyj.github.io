@@ -59,7 +59,7 @@
     <!--Aims. Number of words: 81 --> 
   <div class="title">
    <p>Specifically, comparing standards of living in the UK & selected former colonies to understand how they changed over time & evaluating the relative strengths and weaknesses of the UK and its former colonies in terms of their standards of living.  </p> 
-   <p>Factors to consider include: HDI, GDP, Life expectancy, employment, consumption, Poverty rate, etc. For most of the charts the same countries are used to maintain consistency. These countries were selected due to their differing characteristics such as GDP and geographical location.</P>
+   <p>Factors to consider include: HDI, GDP, life expectancy, employment, consumption, poverty rate, etc. For most of the charts the same countries are used to maintain consistency. These countries were selected due to their differing characteristics such as GDP and geographical location.</P>
 </div>
   
 <hr>   
@@ -75,13 +75,13 @@
     </script>
   </div>
 
-      <!--Aims. Number of words: 115 --> 
+      <!--Aims. Number of words: 114 --> 
   <p>The UK is a country with high HDI ranking. However, former colonies have a range of HDI, Australia and Canada have high HDI rankings, while others, such as Sudan and Afghanistan, have lower HDI but all nations have seen their HDI improve over time. </p>
-  <p>Datasets for HDI were collected from Our World in Data. Although the Project focuses on a set of countries, for the map chart, data for all the colonies were included to achieve a better replica of the geography.</p>
+  <p>Datasets for HDI were collected from Our World in Data (OWID). Although the Project focuses on a set of countries, for the map chart, data for all the colonies were included to achieve a better replica of the geography.</p>
   <p>The names of some countries in the dataset did not match the names in the base map so I used colab to manually replace them and got data only on former colonies.</p>
 
   <div class="buttoncontainer">
-    <a class="smallbutton" href="https://ourworldindata.org/human-development-index"><b>Our World in Data</b></a>
+    <a class="smallbutton" href="https://ourworldindata.org/human-development-index"><b>Our World in Data (OWID)</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/1Ssg2_lmW5tUDPkX3Eei5Xsh3poxPwvMR#scrollTo=4N3RYVuUjgjv"><b>Colab 1</b></a>
   </div>
 
@@ -99,13 +99,13 @@
     </script>
   </div>
 
-     <!--Aims. Number of words: 90 --> 
+     <!--Aims. Number of words: 91 --> 
   <p>To illustrate GDP per Capita I used Colab to batch download API links from World Bank for 10 selected countries then merged them.</p>
-  <p>Most of the countries have seen their GDP per Capita increase, with some experiencing slower growth to others, e.g. India, Jamaica, Malaysia & SA. Qatar has had a consistently high GDP per capita due to its abundant natural resources.</p>
+  <p>Most of the countries have seen their GDP per Capita increase, with some experiencing slower growth, e.g. India, Jamaica, Malaysia & SA. Qatar has had a consistently high GDP per capita due to its abundant natural resources.</p>
   <p>Vega wasn't reading the json file due to the first element in the object which meant that I had to remove it by using 'result.extend(json.load(infile)[1])' on colab when merging. </p>
 
   <div class="buttoncontainer">
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"><b>World Bank</b></a>
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"><b>World Bank (WB)</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/1UzgSGvgDfaovw86y-MWIrh3sS7Hc3Qgz"><b>Colab 2</b></a>
   </div>
 
@@ -124,13 +124,13 @@
   </div>
 
        <!--Aims. Number of words: 127 --> 
-  <p>I regressed Health Expenditure against Life Expectancy by using World Bank Python library enabling new data to be downloaded annually upon release. I used World Bank due to the lack of sources & API that provide data for all the countries required.</p>
-  <p>For the regression a large amount of data were included to increase accuracy. Colab was used to merge the two csv files after cleaning the data to run the regression. R squared is calculated using Vega which changes over time ranging from 0.08 and 0.20. </p>
+  <p>I regressed Health Expenditure against Life Expectancy by using World Bank (WB) Python library enabling new data to be downloaded annually upon release. I used World Bank due to the lack of sources & API that provide data for all the countries required.</p>
+  <p>For the regression a large amount of data were included to increase accuracy. Colab was used to merge the two csv files to run a regression. R squared is calculated using Vega which changes over time ranging from 0.08 and 0.20. </p>
   <p>This suggests that 8% - 20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure.</p>
 
   <div class="buttoncontainer">
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN"><b>World Bank - Life Expectancy</b></a>
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS"><b>World Bank - Health Expenditure</b></a>
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN"><b>World Bank (WB) - Life Expectancy</b></a>
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS"><b>World Bank (WB) - Health Expenditure</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/1Cg4yDn9fWbFpyWEZW0oRatGJn3HApGCm"><b>Colab 3</b></a>
   </div>
 
@@ -150,7 +150,7 @@
 
          <!--Aims. Number of words: 84 --> 
 
-  <p>The data for this chart was scraped from Wikipedia, using Python. SA, India, and Nigeria have high percentage of population living on less than $1.90 a day which is the global minimum to survive, suggesting lower standard of living compared to the UK. Ireland, Australia, Canada, and Malaysia have poverty levels on par with the UK. </p>
+  <p>The data for this chart was scraped from Wikipedia, using Python. SA, India, and Nigeria have high percentage of population living on less than $1.90 a day which is the global minimum to survive, suggesting lower living standards compared to the UK. Ireland, Australia, Canada, and Malaysia have poverty levels on par with the UK. </p>
   <p>When uploading data on vega I got an 'undefined' error because Vega doesn't allow decimal points in column names which meant that column names had to be changed.</p>
   
   <div class="buttoncontainer">
@@ -174,12 +174,12 @@
 
 
          <!--Aims. Number of words: 90 --> 
-  <p>The data from World Bank and Our world in Data show that high education spending can be associated with lower unemployment rate and therefore a higher standard of living, as a well-educated workforce may be more competitive in the job market and better able to contribute to the economy which is visible with the likes of UK, Canada and Australia but there are outliers like SA.</p>
-  <p>I had to merge the files using excel due to the format data was presented in, by World Bank and Our World in Data.</p>
+  <p>The data from WB and OWID show that high education spending can be associated with lower unemployment rate and therefore a higher standard of living, as a well-educated workforce may be more competitive in the job market and better able to contribute to the economy which is visible with the likes of UK, Canada and Australia but there are outliers like SA.</p>
+  <p>I had to merge the files using excel due to the contrasting format data was presented in, by WB and OWID.</p>
 
   <div class="buttoncontainer">
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS"><b>World Bank</b></a>
-    <a class="smallbutton" href="https://ourworldindata.org/grapher/unemployment-rate"><b>Our World in Data</b></a>
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS"><b>World Bank (WB)</b></a>
+    <a class="smallbutton" href="https://ourworldindata.org/grapher/unemployment-rate"><b>Our World in Data (OWID)</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/1cLCa2EuriikYHjNPAZwQ7d9788uFL3n4"><b>Colab 5</b></a>
   </div>
 
@@ -199,11 +199,11 @@
 
 
          <!--Aims. Number of words: 59 --> 
-  <p>The trellis chart from World Bank shows that across UK & 8 former colonies, household consumption has been increasing steadily over the last 40 years. However, SA & Nigeria has been slow but India has been the strongest due to an expanding middle class.</p>
-  <p>I had to use data from HK since I couldn't find consumption data on Qatar.</p>
+  <p>The trellis chart from WB shows that across UK & 8 former colonies, household consumption has been growing steadily over the last 40 years. However, SA & Nigeria has been slow but India has been the strongest due to an expanding middle class.</p>
+  <p>I had to use data from Hong Kong since I couldn't find consumption data on Qatar.</p>
 
   <div class="buttoncontainer">
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/NE.CON.PRVT.PC.KD.ZG"><b>World Bank</b></a>
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/NE.CON.PRVT.PC.KD.ZG"><b>World Bank (WB)</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/18R_YQMxlfUKT7M1a87EBV-M70L98aNJi"><b>Colab 6</b></a>
   </div>
 
@@ -221,9 +221,9 @@
     </script>
   </div>
 
-           <!--Aims. Number of words: 95 --> 
-  <p>I constructed a regression of Political instability against environmental performance in various countries in 2022 as they theoretically play a role in living standards. </p>
-  <P>I scraped the political instability data from a pdf file from FFS and the environmental performance from EPI using python. I had to convert values for both the datasets from string to integer so I could perform mathematical operations and to download it as a csv. </P>
+           <!--Aims. Number of words: 92 --> 
+  <p>I constructed a regression of Political instability against environmental performance as they theoretically play a role in living standards. </p>
+  <P>I scraped the political instability data from a pdf file from FFS and the environmental performance from EPI using python. I had to convert values for both the datasets from string to integer so I could perform mathematical operations and to download as a csv. </P>
   <p>This regression demonstrates that 45% of variation in environmental performance can be explained by Political instability. As expected, more politically stable countries have performed better environmentally in 2022.</p>
 
   <div class="buttoncontainer">
