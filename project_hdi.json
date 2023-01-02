@@ -4,7 +4,7 @@
   "title": {
     "text": ["HDI of UK and it's Former Colonies, 1990 - 2021"],
     "subtitle": [
-      "Data Source: Our World in Data",
+      "Source: Our World in Data",
       "HDI is an index consisting of life expectancy at birth, years of schooling, GNI per capita.",
       "Tooltip includes the HDI for each Country."
     ],

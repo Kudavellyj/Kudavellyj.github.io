@@ -147,7 +147,7 @@
     </script>
   </div>
 
-  <p>The data for this chart was scraped from Wikipedia, using Python. This charts shows that South Africa, India, and Nigeria generally have higher percentage of population living on less than $1.90 a day which is the global minimum to survive, suggesting lower standard of living compared to the UK. Ireland, Australia, Canada, and Malaysia generally have poverty levels on par to the UK. </p>
+  <p>The data for this chart was scraped from Wikipedia, using Python. This charts shows that South Africa, India, and Nigeria have higher percentage of population living on less than $1.90 a day which is the global minimum to survive, suggesting lower standard of living compared to the UK. Ireland, Australia, Canada, and Malaysia have poverty levels on par to the UK. </p>
   <p>Initially, the poverty data was indicated as 'undefined' on Vega due to decimal numbers in the column title which meant that I had to change the names to Poverty 1,2 & 3 on colab. I also had to convert the data to float64 for it to work on Vega.</p>
   
   <div class="buttoncontainer">
@@ -169,6 +169,15 @@
     </script>
   </div>
 
+  <p>I obtained the data from World Bank and Our world in Data. The chart shows that higher education spending can be associated with lower unemployment rate and therefore a higher standard of living, as a well-educated workforce may be more competitive in the job market and better able to contribute to the economy which is visible with the likes of UK, Canada and Australia but there are outliers like SA.</p>
+  <p>I had to merge the files using excel due to the different ways data was presented by World Bank and Our World in Data.</p>
+
+  <div class="buttoncontainer">
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS"><b>World Bank</b></a>
+    <a class="smallbutton" href="https://ourworldindata.org/grapher/unemployment-rate"><b>Our World in Data</b></a>
+    <a class="smallbutton" href="https://colab.research.google.com/drive/1cLCa2EuriikYHjNPAZwQ7d9788uFL3n4"><b>Colab 5</b></a>
+  </div>
+
   <hr>  
   
   <div class="title">
@@ -181,6 +190,14 @@
       var myChart6 = "project_consumption.json";
       vegaEmbed('#chart6', myChart6);
     </script>
+  </div>
+
+  <p>The trellis chart from World Bank shows that across UK & 8 former colonies, household consumption has been increasing steadily over the last 40 years. However, SA & Nigeria has been slow but India has been the strongest due to an expanding middle class.</p>
+  <p>I had to use data from different countries such as HK since I couldn't find consumption data on Qatar.</p>
+
+  <div class="buttoncontainer">
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/NE.CON.PRVT.PC.KD.ZG"><b>World Bank</b></a>
+    <a class="smallbutton" href="https://colab.research.google.com/drive/18R_YQMxlfUKT7M1a87EBV-M70L98aNJi"><b>Colab 6</b></a>
   </div>
 
   <hr>  
@@ -197,8 +214,23 @@
     </script>
   </div>
 
+  <p>Environment and Politics play a key role in Living standards so I constructed a regression of Political instability against environmental performance of most of the colonies. </p>
+  <P>I scraped the political instability data from a pdf file on FFS and the environmental performance from EPI using python. I had to convert values for both the datasets from string to integer so I could perform mathematical operations and to download it as a csv file. </P>
+  <p>This regression demonstrates that 45% of variation in environmental performance can be explained by Political instability. As expected, more politically stable countries have performed better environmentally in 2022.</p>
 
-        
+  <div class="buttoncontainer">
+    <a class="smallbutton" href="https://github.com/Kudavellyj/Kudavellyj.github.io/blob/main/Dashboard_%20Rankings.pdf"><b>FFS</b></a>
+    <a class="smallbutton" href="https://epi.yale.edu/epi-results/2022/component/epi"><b>EPI</b></a>
+    <a class="smallbutton" href="https://colab.research.google.com/drive/1jcO8d4lT4W6TWXVGWNKUVTsuxHpPCHSc"><b>Colab 7</b></a>
+  </div>
+
+  <div class="title">
+    <h3>CONCLUSION</h3>
+  </div>
+  <hr>     
+
+  <p>By using various methods UK and some countries like Australia and Canada have seen their standard of living to be on par with the UK and some countries like India and Malaysia steadily growing. However, nations like SA and nigeria are considerably lagging behind the UK.</p>
+  <P>Further research should be carried out by finding data from their independence day to see the bigger picture and how standard of living has changed since then.</P>
 
 </div>
 
