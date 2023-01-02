@@ -57,7 +57,7 @@
           "field": "country",
           "type": "nominal",
           "title": "Country:",
-          "scale": {"scheme": "yellowgreenblue"}
+          "scale": {"scheme": "inferno"}
         },
         "tooltip": [
           {"field": "country", "type": "ordinal", "title": "Country"},
@@ -79,7 +79,9 @@
     },
     {
       "mark": {"type": "line", "color": "red"},
-      "transform": [{"regression": "value", "on": "value_right", "extent": [1, 8.75]}],
+      "transform": [
+        {"regression": "value", "on": "value_right", "extent": [1, 8.75]}
+      ],
       "encoding": {
         "x": {"field": "value_right", "type": "quantitative"},
         "y": {"field": "value", "type": "quantitative"}

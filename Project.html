@@ -57,9 +57,9 @@
         
     <hr class="dotted">
 
-    <!--Aims. Number of words: -->
+    <!--Aims. Number of words: 86 --> 
   <div class="title">
-   <p>Specifically, comparing standard of living in the UK to a selected former colonies to decipher factors associated with standard of living and how they vary across former colonies. </p> 
+   <p>Specifically, comparing standards of living in the UK to a selected former colonies to decipher factors associated with standard of living and how they vary across former colonies. </p> 
    <p>There are different ways of measuring standard of living. Factors to consider include HDI, GDP, Life expectancy, Government spending, Literacy rate, Unemployment rate, Consumer spending, Poverty rate and etc. </p>
    <P>For most of the charts the same countries are used to maintain consistency. These countries were selected due to their differing characteristics such as GDP, HDI, and geographical location.</P>
 </div>
@@ -77,7 +77,7 @@
     </script>
   </div>
 
-  
+      <!--Aims. Number of words: 158 --> 
   <p>The UK is a country with high HDI ranking. However, former colonies have a range of HDI, Australia and Canada have high HDI rankings, while others, such as Sudan and Afghanistan, have lower HDI but all nations have seen their HDI improve over time. </p>
   <p>Datasets for HDI were collected from Our World in Data in csv format. I used Colab to only get Former UK Colonies and the time period I wanted. Although the Project focuses on a set of countries, for the map chart, data for all the colonies were included to achieve a better replica of the geography.</p>
   <p>I faced two challenge when depicting this map, the first was trying to figure out all the former colonies as there were more than 50 of them. The other was the names of some countries in the dataset did not match the names in the base map. To solve this problem, I used colab to manually replace them.</p>
@@ -101,6 +101,7 @@
     </script>
   </div>
 
+     <!--Aims. Number of words: 66 --> 
   <p>To illustrate GDP per Capita I used Colab to batch download API links from World Bank for 10 selected countries then merged them into one json file.</p>
   <p>Most of the countries have had generally increasing GDP per Capita, with some experiencing slower growth to others, e.g. India, Jamaica, Malaysia & SA. Qatar has had a consistently high GDP per capita due to its abundant natural resources.</p>
 
@@ -123,6 +124,7 @@
     </script>
   </div>
 
+       <!--Aims. Number of words: 144 --> 
   <p>I regressed Health Expenditure against Life Expectancy since they contribute to a country's standard of living. I used World Bank Python library enabling new data to be downloaded annually upon release. I used World Bank due to the lack of sources & API that provide data for all the countries required.</p>
   <p>For the regression a large number of data were included to increase the accuracy from 2000 - 2019. Google Colab was used to merge the two csv files after cleaning the data to run the regression and R squared is calculated using Vega-Lite which changes over time but ranges from 0.08 and 0.20. </p>
   <p>This value suggests that 8% - 20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure.</p>
@@ -147,6 +149,8 @@
     </script>
   </div>
 
+         <!--Aims. Number of words: 110 --> 
+
   <p>The data for this chart was scraped from Wikipedia, using Python. This charts shows that South Africa, India, and Nigeria have higher percentage of population living on less than $1.90 a day which is the global minimum to survive, suggesting lower standard of living compared to the UK. Ireland, Australia, Canada, and Malaysia have poverty levels on par to the UK. </p>
   <p>Initially, the poverty data was indicated as 'undefined' on Vega due to decimal numbers in the column title which meant that I had to change the names to Poverty 1,2 & 3 on colab. I also had to convert the data to float64 for it to work on Vega.</p>
   
@@ -169,6 +173,8 @@
     </script>
   </div>
 
+
+         <!--Aims. Number of words: 94 --> 
   <p>I obtained the data from World Bank and Our world in Data. The chart shows that higher education spending can be associated with lower unemployment rate and therefore a higher standard of living, as a well-educated workforce may be more competitive in the job market and better able to contribute to the economy which is visible with the likes of UK, Canada and Australia but there are outliers like SA.</p>
   <p>I had to merge the files using excel due to the different ways data was presented by World Bank and Our World in Data.</p>
 
@@ -192,6 +198,8 @@
     </script>
   </div>
 
+
+         <!--Aims. Number of words: 63 --> 
   <p>The trellis chart from World Bank shows that across UK & 8 former colonies, household consumption has been increasing steadily over the last 40 years. However, SA & Nigeria has been slow but India has been the strongest due to an expanding middle class.</p>
   <p>I had to use data from different countries such as HK since I couldn't find consumption data on Qatar.</p>
 
@@ -214,6 +222,7 @@
     </script>
   </div>
 
+           <!--Aims. Number of words: 101 --> 
   <p>Environment and Politics play a key role in Living standards so I constructed a regression of Political instability against environmental performance of most of the colonies. </p>
   <P>I scraped the political instability data from a pdf file on FFS and the environmental performance from EPI using python. I had to convert values for both the datasets from string to integer so I could perform mathematical operations and to download it as a csv file. </P>
   <p>This regression demonstrates that 45% of variation in environmental performance can be explained by Political instability. As expected, more politically stable countries have performed better environmentally in 2022.</p>
@@ -224,11 +233,15 @@
     <a class="smallbutton" href="https://colab.research.google.com/drive/1jcO8d4lT4W6TWXVGWNKUVTsuxHpPCHSc"><b>Colab 7</b></a>
   </div>
 
+
+<hr>
   <div class="title">
     <h3>CONCLUSION</h3>
   </div>
   <hr>     
 
+
+           <!--Aims. Number of words: 73 --> 
   <p>By using various methods UK and some countries like Australia and Canada have seen their standard of living to be on par with the UK and some countries like India and Malaysia steadily growing. However, nations like SA and nigeria are considerably lagging behind the UK.</p>
   <P>Further research should be carried out by finding data from their independence day to see the bigger picture and how standard of living has changed since then.</P>
 

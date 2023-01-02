@@ -4,6 +4,7 @@
     "text": "Unemployment Rate vs Government Expenditure on Education",
     "subtitle": [
       "Government Expenditure on education as a % of GDP against % of unemployed from 2010 - 2020.",
+      "R Squared Value = 0.26",
       "Source: Our World in data, World Bank & UN Data and Tooltip included"
     ],
     "subtitleFontStyle": "italic",
@@ -17,7 +18,6 @@
     "url": "https://raw.githubusercontent.com/Kudavellyj/Kudavellyj.github.io/main/p_my_combined_lfeeer1.csv"
   },
   "selection": {
-
     "grid": {
       "type": "interval",
       "bind": "scales",
@@ -50,9 +50,7 @@
     }
   },
   "transform": [{"filter": {"selection": "Type"}}],
-
-  
-  "mark": {"type": "point", "opacity": 1, "size": 150},
+  "mark": {"type": "point", "opacity": 1, "size": 100},
   "encoding": {
     "x": {
       "field": "ee",
@@ -65,18 +63,12 @@
       "type": "quantitative",
       "title": "Unemployment rate (%)"
     },
-   "size": {
-      "field": "lf",
-      "type": "quantitative",
-      "title": "Labour Force",
-      "scale": {"range": [0, 1500]}
-    },
-    "color": {
 
+    "color": {
       "field": "Country",
       "type": "nominal",
       "title": "Country",
-      "scale": {"scheme": "yellowgreenblue"}
+      "scale": {"scheme": "inferno"}
     },
     "tooltip": [
       {"field": "Country", "type": "nominal", "title": "Country"},

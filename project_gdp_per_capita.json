@@ -40,7 +40,7 @@
         "field": "country.value",
         "type": "nominal",
         "legend": {"title": "Country:", "orient": "right"},
-        "scale": {"scheme": "yellowgreenblue"}
+        "scale": {"scheme": "inferno"}
       },
       "value": "black"
     },
