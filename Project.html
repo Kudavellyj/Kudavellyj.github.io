@@ -101,7 +101,7 @@
     </script>
   </div>
 
-  <p>To illustrate GDP per Capita I used Colab to batch download API links from World Bank for 10 selected countries then merged them into one.</p>
+  <p>To illustrate GDP per Capita I used Colab to batch download API links from World Bank for 10 selected countries then merged them into one json file.</p>
   <p>Most of the countries have had generally increasing GDP per Capita, with some experiencing slower growth to others, e.g. India, Jamaica, Malaysia & SA. Qatar has had a consistently high GDP per capita due to its abundant natural resources.</p>
 
   <div class="buttoncontainer">
@@ -124,8 +124,8 @@
   </div>
 
   <p>I regressed Health Expenditure against Life Expectancy since they contribute to a country's standard of living. I used World Bank Python library enabling new data to be downloaded annually upon release. I used World Bank due to the lack of sources & API that provide data for all the countries required.</p>
-  <p>For the regression a large number of data were included to increase the accuracy from 2000 - 2019. The R squared (R2) is calculated using Vega-Lite which changed over time but ranges between 0.08 and 0.20. This value suggests that 8% - 20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation.</p>
-  <p>As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure. Google Colab was used to merge the two csv files after cleaning the data to run the regression on Vega.</p>
+  <p>For the regression a large number of data were included to increase the accuracy from 2000 - 2019. Google Colab was used to merge the two csv files after cleaning the data to run the regression and R squared is calculated using Vega-Lite which changes over time but ranges from 0.08 and 0.20. </p>
+  <p>This value suggests that 8% - 20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure.</p>
 
   <div class="buttoncontainer">
     <a class="smallbutton" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN"><b>World Bank - Life Expectancy</b></a>
@@ -146,6 +146,8 @@
       vegaEmbed('#chart4', myChart4);
     </script>
   </div>
+
+  <p></p>
 
 
   <hr>  
