@@ -100,23 +100,23 @@ a{
 
 p{
     color:rgb(17, 17, 17);
-    font-family: 'Spectral';
+    font-family: 'Spectral', serif;
 }
 
 h1{
     color: black;
-    font-family: 'Bungee Shade';
+    font-family: 'Bungee Shade', cursive;
     font-size: 50px;
 }
 
 h2{
     color: black;
-    font-family: 'Bungee Shade';
+    font-family: 'Bungee Shade', cursive;
 }
 
 h3{
     color: black;
-    font-family: 'Spectral';
+    font-family: 'Spectral', serif;
 }
 
 .title{
