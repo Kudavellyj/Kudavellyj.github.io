@@ -75,8 +75,8 @@
     </script>
   </div>
 
-      <!--Aims. Number of words: 114 --> 
-  <p>The UK is a country with high HDI ranking. However, former colonies have a range of HDI, Australia and Canada have high HDI rankings, while others, such as Sudan and Afghanistan, have lower HDI but all nations have seen their HDI improve over time. </p>
+      <!--Aims. Number of words: 113 --> 
+  <p>The UK has a high HDI ranking. However, former colonies have a range of HDI, Australia and Canada have high HDI rankings, while others, such as Sudan and Afghanistan, have lower HDI but all nations have seen their HDI improve over time. </p>
   <p>Datasets for HDI were collected from Our World in Data (OWID). Although the Project focuses on a set of countries, for the map chart, data for all the colonies were included to achieve a better replica of the geography.</p>
   <p>The names of some countries in the dataset did not match the names in the base map so I used colab to manually replace them and got data only on former colonies.</p>
 
@@ -99,7 +99,7 @@
     </script>
   </div>
 
-     <!--Aims. Number of words: 91 --> 
+     <!--Aims. Number of words: 89 --> 
   <p>To illustrate GDP per Capita I used Colab to batch download API links from World Bank for 10 selected countries then merged them.</p>
   <p>Most of the countries have seen their GDP per Capita increase, with some experiencing slower growth, e.g. India, Jamaica, Malaysia & SA. Qatar has had a consistently high GDP per capita due to its abundant natural resources.</p>
   <p>Vega wasn't reading the json file due to the first element in the object which meant that I had to remove it by using 'result.extend(json.load(infile)[1])' on colab when merging. </p>
@@ -123,10 +123,10 @@
     </script>
   </div>
 
-       <!--Aims. Number of words: 127 --> 
-  <p>I regressed Health Expenditure against Life Expectancy by using World Bank (WB) Python library enabling new data to be downloaded annually upon release. I used World Bank due to the lack of sources & API that provide data for all the countries required.</p>
+       <!--Aims. Number of words: 120 --> 
+  <p>I regressed Health Expenditure against Life Expectancy by using (WB) Python library enabling new data to be downloaded annually upon release. I used WB due to the lack of sources & API that provide data for all the countries required.</p>
   <p>For the regression a large amount of data were included to increase accuracy. Colab was used to merge the two csv files to run a regression. R squared is calculated using Vega which changes over time ranging from 0.08 and 0.20. </p>
-  <p>This suggests that 8% - 20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure.</p>
+  <p>This suggests that 8%-20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure.</p>
 
   <div class="buttoncontainer">
     <a class="smallbutton" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN"><b>World Bank (WB) - Life Expectancy</b></a>
@@ -148,7 +148,7 @@
     </script>
   </div>
 
-         <!--Aims. Number of words: 84 --> 
+         <!--Aims. Number of words: 83 --> 
 
   <p>The data for this chart was scraped from Wikipedia, using Python. SA, India, and Nigeria have high percentage of population living on less than $1.90 a day which is the global minimum to survive, suggesting lower living standards compared to the UK. Ireland, Australia, Canada, and Malaysia have poverty levels on par with the UK. </p>
   <p>When uploading data on vega I got an 'undefined' error because Vega doesn't allow decimal points in column names which meant that column names had to be changed.</p>
@@ -174,7 +174,7 @@
 
 
          <!--Aims. Number of words: 90 --> 
-  <p>The data from WB and OWID show that high education spending can be associated with lower unemployment rate and therefore a higher standard of living, as a well-educated workforce may be more competitive in the job market and better able to contribute to the economy which is visible with the likes of UK, Canada and Australia but there are outliers like SA.</p>
+  <p>The data from WB and OWID & the R squared value of 0.26 indicates that as unemployment rate increases or decreases, the education expenditure is likely to show a similar trend, although the strength of the relationship is not particularly strong. This is visible with the likes of UK, Canada and Australia who maintain a low unemployment rate with a high education spending but there are outliers like SA.</p>
   <p>I had to merge the files using excel due to the contrasting format data was presented in, by WB and OWID.</p>
 
   <div class="buttoncontainer">
