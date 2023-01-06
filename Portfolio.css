@@ -65,28 +65,29 @@ body {
 /* Book on colour = Joseph Albers - Interaction of Colour */
 
 body{
-    background-color: rgb(117, 117, 221);
- }
+    background-color: #8888d4;
+    margin: auto;
+    overflow: scroll;
+    max-width: 1000px;
+    text-align:center; 
+    vertical-align:middle;
+}
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
-h1, h2, h3, p{
+h1{
     color:rgb(0, 0, 0);
-    font-family: 'Chivo', sans-serif;
+    font-family: 'Bungee Shade', cursive;
     text-align: center;
 }
-    
-.myWeek1{
-    margin: auto;
-    max-width: 1000px;
-    background-color: rgb(255, 253, 253);
 
-      
-    border-width: 6px;
-    border-style: solid;
-    border-radius: 10px;
-    border-color: rgb(117, 117, 221);
+h2, h3, p{
+  color:rgb(0, 0, 0);
+  font-family: 'Spectral', serif;
+  text-align: center;
 }
+    
+
 
 
 /* Set the apperance of the class, chart */
