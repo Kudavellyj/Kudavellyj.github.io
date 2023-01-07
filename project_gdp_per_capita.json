@@ -50,7 +50,8 @@
       {
         "field": "value",
         "type": "quantitative",
-        "title": "GDP per Capita (Current US$)"
+        "title": "GDP per Capita (Current US$)",
+        "format": ".2f"
       }
     ],
     "opacity": {"condition": {"param": "hover", "value": 1}, "value": 0.2}
