@@ -65,7 +65,7 @@ body {
 /* Book on colour = Joseph Albers - Interaction of Colour */
 
 body{
-    background-color: #8888d4;
+    background-color: #8d8dd0;
     margin: auto;
     overflow: scroll;
     max-width: 1000px;
@@ -79,6 +79,7 @@ h1{
     color:rgb(0, 0, 0);
     font-family: 'Bungee Shade', cursive;
     text-align: center;
+    font-size: 50px;
 }
 
 h2, h3, p{
