@@ -107,43 +107,17 @@
     <a class="smallbutton" href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"><b>World Bank (WB)</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/1UzgSGvgDfaovw86y-MWIrh3sS7Hc3Qgz"><b>Colab 2</b></a>
   </div>
-
   <hr>  
   
   <div class="title">
-    <h3>CHART 3 - LIFE EXPECTANCY AND GOVERNMENT EXPENDITURE ON HEALTH</h3>
+    <h3>CHART 3 - POVERTY </h3>
   </div>
   <hr>  
   
   <div class="chart3" id="chart3">
     <script>
-      var myChart3 = "project_le_hs.json";
-      vegaEmbed('#chart3', myChart3);
-    </script>
-  </div>
-
-       <!--Aims. Number of words: 120 --> 
-  <p>I regressed Health Expenditure against Life Expectancy by using (WB) Python library enabling new data to be downloaded annually upon release. I used WB due to the lack of sources & API that provide data for all the countries required.</p>
-  <p>For the regression a large amount of data were included to increase accuracy. Colab was used to merge the two csv files to run a regression. R squared is calculated using Vega which changes over time ranging from 0.08 and 0.20. </p>
-  <p>This suggests that 8%-20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have high life expectancy but there is little correlation with Health expenditure.</p>
-
-  <div class="buttoncontainer">
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN"><b>World Bank - Life Expectancy</b></a>
-    <a class="smallbutton" href="https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS"><b>World Bank - Health Expenditure</b></a>
-    <a class="smallbutton" href="https://colab.research.google.com/drive/1Cg4yDn9fWbFpyWEZW0oRatGJn3HApGCm"><b>Colab 3</b></a>
-  </div>
-
-  <hr>  
-  
-  <div class="title">
-    <h3>CHART 4 - POVERTY </h3>
-  </div>
-  <hr>  
-  
-  <div class="chart4" id="chart4">
-    <script>
       var myChart4 = "project_poverty.json";
-      vegaEmbed('#chart4', myChart4);
+      vegaEmbed('#chart3', myChart3);
     </script>
   </div>
 
@@ -156,6 +130,33 @@
     <a class="smallbutton" href="https://en.wikipedia.org/wiki/List_of_sovereign_states_by_percentage_of_population_living_in_poverty"><b>Wikipedia</b></a>
     <a class="smallbutton" href="https://colab.research.google.com/drive/1EOdoi8j3PPg5O7_a_DvWI21jnd8jn3tQ#scrollTo=iuCWkxScVTbe"><b>Colab 4</b></a>
   </div>
+
+  <hr>  
+  
+  <div class="title">
+    <h3>CHART 4 - LIFE EXPECTANCY AND GOVERNMENT EXPENDITURE ON HEALTH</h3>
+  </div>
+  <hr>  
+  
+  <div class="chart4" id="chart4">
+    <script>
+      var myChart3 = "project_le_hs.json";
+      vegaEmbed('#chart4', myChart4);
+    </script>
+  </div>
+
+       <!--Aims. Number of words: 117 --> 
+  <p>I regressed Health Expenditure against Life Expectancy by using (WB) Python library enabling new data to be downloaded annually upon release. I used WB due to the lack of sources & API that provide data for all the countries required.</p>
+  <p>For the regression a large amount of data were included to increase accuracy. Colab was used to merge the two csv files to run a regression. R squared is calculated using Vega which changes over time ranging from 0.08 and 0.20. </p>
+  <p>This suggests that 8%-20% of the variation in Life Expectancy is explained by Health Expenditure, suggesting a weak correlation. As anticpated nations with high HDI tend to have a relatively high life expectancy and Health expenditure.</p>
+
+  <div class="buttoncontainer">
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN"><b>World Bank - Life Expectancy</b></a>
+    <a class="smallbutton" href="https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS"><b>World Bank - Health Expenditure</b></a>
+    <a class="smallbutton" href="https://colab.research.google.com/drive/1Cg4yDn9fWbFpyWEZW0oRatGJn3HApGCm"><b>Colab 3</b></a>
+  </div>
+
+  
 
   <hr>  
   
